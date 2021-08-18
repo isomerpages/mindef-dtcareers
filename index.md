@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: " "
 sections:
   - hero:
       title: Hero title
@@ -14,13 +14,15 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Highlight A
-          description: Important highlight A is important
+          description: "123123123123123 12 12 312  123 312 23 123 12 312 312 12 "
           url: https://google.com
         - title: Highlight B
-          description: Important highlight B is equally important
+          description: Important highlight B is equally important Important highlight B is
+            equally importantImportant highlight B is equally important
           url: https://gmail.com
         - title: Page A
-          description: Page A is important too
+          description: Important highlight B is equally importantImportant highlight B is
+            equally important Important highlight B is equally important
           url: /privacy/
   - resources:
       title: Media
