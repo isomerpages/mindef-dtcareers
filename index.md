@@ -22,14 +22,27 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+  - resources:
+      title: Media
+      subtitle: Learn more
+      button: View More
   - infobar:
       title: Infobar title
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: asdasdasdasdasdasdasdas'das;das;d asdasd <br/>
+        kjashdjkasdkkjahsdkjash ladhjklah klas klasdhaskljh asdlk<br> asdasd
+      button: Button Text
+      image: /images/4cbe8d_f1ed2800a49649848102c68fc5a66e53_mv2.gif
+      alt: Image alt text
+  - infobar:
+      title: "<Img> "
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
