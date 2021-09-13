@@ -13,16 +13,14 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: "123123123123123 12 12 312  123 312 23 123 12 312 312 12 "
+        - title: OUR PURPOSE
+          description: We create new possibilities with tech to defend Singapore. 
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important Important highlight B is
-            equally importantImportant highlight B is equally important
+        - title: Why Join Us
+          description: "Realise your full potential with us. "
           url: https://gmail.com
-        - title: Page A
-          description: Important highlight B is equally importantImportant highlight B is
-            equally important Important highlight B is equally important
+        - title: Hear Our Stories
+          description: Our people are our success.
           url: /privacy/
   - resources:
       title: Media
