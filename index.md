@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: " The Defence Science  & Technology sector"
+title: DESIGN. DEVELOP. DEFEND.
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
