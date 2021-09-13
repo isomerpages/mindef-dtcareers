@@ -14,10 +14,11 @@ sections:
           url: https://google.com
         - title: Why Join Us
           description: "Realise your full potential with us. "
-          url: https://gmail.com
+          url: /why-join-us
         - title: Hear Our Stories
           description: Our people are our success.
-          url: /privacy/
+          url: /hear-our-stories
+      url: /our-purpose
   - infobar:
       title: "Advancing Technologies & Capabilities for National Security "
       button: Learn More
