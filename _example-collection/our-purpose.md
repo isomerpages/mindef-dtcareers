@@ -10,7 +10,7 @@ The DS&T sector is an interdisciplinary collective of leading experts and specia
 <a href="https://www.dsta.gov.sg/home" target="_blank" style="font-weight:bold;color:#707070;font-size:20pt;">Learn more about DSTA</a>
 
 <h3 style="font-weight:bold">What We Do at DSO National Laboratories (DSO)</h3>
-<p>DSO is Singapore’s largest defence research and development organisation, with the critical mission to develop technological solutions to sharpen the cutting edge of Singapore’s national security. DSO investigates emerging technologies, matures promising ones and integrates them into innovative system concepts to meet Singapore’s defence and security needs.</p>
+<p style="color:#707070;">DSO is Singapore’s largest defence research and development organisation, with the critical mission to develop technological solutions to sharpen the cutting edge of Singapore’s national security. DSO investigates emerging technologies, matures promising ones and integrates them into innovative system concepts to meet Singapore’s defence and security needs.</p>
 <a href="https://www.dso.org.sg" style="font-weight:bold;color:#707070;">Learn more about DSO</a> ->
 
 <h3 style="font-weight:bold;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h3>
