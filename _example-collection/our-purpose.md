@@ -13,6 +13,14 @@ The DS&T sector is an interdisciplinary collective of leading experts and specia
 <p style="color:#707070;">DSO is Singapore’s largest defence research and development organisation, with the critical mission to develop technological solutions to sharpen the cutting edge of Singapore’s national security. DSO investigates emerging technologies, matures promising ones and integrates them into innovative system concepts to meet Singapore’s defence and security needs.</p>
 <a href="https://www.dso.org.sg" style="font-weight:bold;color:#707070;">Learn more about DSO</a> ->
 
+<h3 style="font-weight:bold;">What We Do at DSO National Laboratories (DSO)</h3>
+<p style="color:#707070;">DSO is Singapore’s largest defence research and development organisation, with the critical mission to develop technological solutions to sharpen the cutting edge of Singapore’s national security. DSO investigates emerging technologies, matures promising ones and integrates them into innovative system concepts to meet Singapore’s defence and security needs.</p>
+<a href="https://www.dso.org.sg" style="font-weight:bold;color:#707070;">Learn more about DSO</a> ->
+
+<h3 style="font-weight:bold;">What We Do at Centre for Strategic Infocomm Technologies (CSIT) </h3>
+<p style="">CSIT is the leading agency in applied research and development of products that harness cutting-edge digital technologies in areas of Cybersecurity, Software Engineering, Data Analytics, and Cloud Infrastructure and Services, to advance Singapore’s security needs.</p>
+<a href="https://www.csit.gov.sg" style="font-weight:bold;">Learn more about DSO</a> ->
+
 <h3 style="font-weight:bold;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h3>
 <table>
 	<tr>
