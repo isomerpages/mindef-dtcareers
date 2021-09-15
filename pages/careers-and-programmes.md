@@ -11,14 +11,14 @@ permalink: /careers-and-programmes
 <p style="margin-top:1rem;">Our agencies offer a managerial career track and technical career track for graduates and experienced professionals with different levels of professional experience and interests. These are further staggered across the various programme centres and business functions unique to each agency. Whatever your goals are — be it in digital specialties, engineering, research or corporate strategy — we will work closely with you to reach them through a defined and flexible career path.
 </p>
 
-<div>
-	<a href="#" style="display:inline;">
+<div style="display:flex;justify-content:space-between;">
+	<a href="#" style="display:flex;width:30%;">
 		<img src="/images/position-dsta.png"/>
 	</a>
-		<a href="#" style="display:inline;">
+		<a href="#" style="display:flex;width:30%;">
 		<img src="/images/position-dso.png"/>
 	</a>
-		<a href="#" style="display:inline;">
+		<a href="#" style="display:flex;width:30%;">
 		<img src="/images/position-csit.png"/>
 	</a>
 	</div>
