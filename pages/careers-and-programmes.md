@@ -31,13 +31,13 @@ permalink: /careers-and-programmes
 
 <div style="display:flex;justify-content:space-between;">
 	<a href="#" style="display:flex;width:31%;">
-		<img src="/images/position-dsta.png"/>
+		<img src="/images/internship-dsta.png"/>
 	</a>
 		<a href="#" style="display:flex;width:31%;">
-		<img src="/images/position-dso.png"/>
+		<img src="/images/internship-dso.png"/>
 	</a>
 		<a href="#" style="display:flex;width:31%;">
-		<img src="/images/position-csit.png"/>
+		<img src="/images/internship-csit.png"/>
 	</a>
 	</div>
 
