@@ -7,7 +7,7 @@ permalink: /our-purpose
 <img src="images/purpose-banner-2.png"  style="margin-bottom:3rem;"/>
 <div>
 <img src="images/purpose-dsta.png"/>
-<h3 style="font-weight:bold;">What We Do at Defence Science and Technology Agency (DSTA)</h3>
+<h3 style="font-weight:bold;margin-top:2rem;">What We Do at Defence Science and Technology Agency (DSTA)</h3>
 <p>DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force. We harness multidisciplinary expertise to equip our soldiers with advanced systems to defend Singapore. To achieve its mission, DSTA performs a variety of roles ranging from acquisition and procurement to cybersecurity and software development.</p>
 <a href="https://www.dsta.gov.sg/home" target="_blank" style="font-weight:bold;margin-bottom:60px;">Learn more about DSTA</a>
 	</div>
