@@ -27,8 +27,8 @@ permalink: /our-purpose
 	<tr>
 		<td>
 			<img src="/images/dsta-logo.png" style="margin:2rem 0 1.25rem 0;"/>
-			<p>DSTA is a multidisciplinary defence agency that drives innovation and delivers state-of-the-art capabilities, equipment and technology to ensure that the SAF is a formidable fighting force.</p>
-			<a href="https://www.dsta.gov.sg/home" target="_blank" style="font-weight:bold;font-size:1.25rem;">Learn more about DSTA</a>
+			<p style="font-size:0.8rem;line-height:1.2">DSTA is a multidisciplinary defence agency that drives innovation and delivers state-of-the-art capabilities, equipment and technology to ensure that the SAF is a formidable fighting force.</p>
+			<a href="https://www.dsta.gov.sg/home" target="_blank" style="font-weight:bold;font-size:0.8rem;">Learn more about DSTA</a>
 		</td>
 		<td>
 			<img src="/images/dsta-logo.png" style="margin:2rem 0 1.25rem 0;"/>
