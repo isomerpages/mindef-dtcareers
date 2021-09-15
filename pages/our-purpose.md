@@ -6,10 +6,12 @@ permalink: /our-purpose
 <p style="margin-bottom:60px">The DS&T sector is an interdisciplinary collective of leading experts and specialists dedicated to addressing Singapore’s national security. As the leaders in our sector, we develop, deliver, and advise on innovative scientific solutions to the Ministry of Defence and other government bodies. </p>
 
 <img src="images/purpose-banner-2.png"  style="margin-bottom:50px;"/>
+<div>
 <img src="images/purpose-dsta.png"/>
 <h3 style="font-weight:bold;">What We Do at Defence Science and Technology Agency (DSTA)</h3>
 <p>DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force. We harness multidisciplinary expertise to equip our soldiers with advanced systems to defend Singapore. To achieve its mission, DSTA performs a variety of roles ranging from acquisition and procurement to cybersecurity and software development.</p>
-<a href="https://www.dsta.gov.sg/home" target="_blank" style="font-weight:bold;">Learn more about DSTA</a>
+<a href="https://www.dsta.gov.sg/home" target="_blank" style="font-weight:bold;margin-bottom:60px;">Learn more about DSTA</a>
+	</div>
 
 <img src="/images/purpose-dso.png" style=""/>
 <h3 style="font-weight:bold;">What We Do at DSO National Laboratories (DSO)</h3>
