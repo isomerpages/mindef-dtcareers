@@ -22,7 +22,7 @@ sections:
   - infobar:
       title: "Advancing Technologies & Capabilities for National Security "
       button: Learn More
-      url: /faq/
+      url: /our-purpose
   - infopic:
       title: Join a Community of Innovators
       description: Take charge of your career with multiple pathways, from
