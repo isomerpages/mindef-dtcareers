@@ -22,6 +22,24 @@ permalink: /careers-and-programmes
 		<img src="/images/position-csit.png"/>
 	</a>
 	</div>
+	
+	<img src="images/careers-internships.png"/>
+<h4 style="font-weight:bold;margin-top:2rem;">Internships</h4>
+
+<p style="margin-top:1rem;">Our internship programmes provide an invaluable source of experience for undergraduates, polytechnic and JC students looking for an entry point or a taste of work in defence tech. Guided by mentors, our interns take on project related tasks to hone their skills and critical thinking in a professional capacity. Those who flourish during their internship placements have the chance to secure scholarships and/or full-time job offers upon graduation. Some of our most successful employees are former interns, and we’re looking to further support this pathway moving forward.
+</p>
+
+<div style="display:flex;justify-content:space-between;">
+	<a href="#" style="display:flex;width:31%;">
+		<img src="/images/position-dsta.png"/>
+	</a>
+		<a href="#" style="display:flex;width:31%;">
+		<img src="/images/position-dso.png"/>
+	</a>
+		<a href="#" style="display:flex;width:31%;">
+		<img src="/images/position-csit.png"/>
+	</a>
+	</div>
 
 <h4 style="font-weight:bold;margin-top:4rem;">Testimonials From Our People</h4>
 <img src="images/story-1.png" style="margin-bottom:1.25rem;"/>
