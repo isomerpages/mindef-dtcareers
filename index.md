@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: OUR PURPOSE
           description: We create new possibilities with tech to defend Singapore. 
-          url: https://google.com
+          url: /our-purpose
         - title: Why Join Us
           description: "Realise your full potential with us. "
           url: /why-join-us
