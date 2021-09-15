@@ -6,8 +6,8 @@ permalink: /why-join-us
 <p style="">Our work in national security and defence has led to groundbreaking technological solutions that continue to shape Singapore’s progress, diplomacy, and the lives of our people. Be a part of the bigger picture through our agencies. This is where you’ll  get to cultivate your intellectual curiosity to tackle evolving challenges on a national scale. Contribute and create a lasting, positive impact on future generations. As you do so, you’ll also be provided opportunities for growth and the support to transform your boldest ideas into reality.</p>
 <img src="/images/benefits.png" style="margin:2rem 0;" />
 
-<h4 style="font-weight:bold;margin-top:2rem;">Our Culture</h4>
-<img src="images/joinus-workculture.png"/>
+<h4 style="font-weight:bold;margin-top:2rem;">Opportunities Within and Beyond The DS&T Sector</h4>
+<img src="images/join-opportunities.png"/>
 
 <p style="margin-top:1rem;">While each agency boasts its own quirks, culture and ethos, DS&T provides a common thread which drives and fosters a positive and flexible work environment where you can take ownership of and champion new initiatives that lead to more efficient processes, a healthier work-life balance, and greater inclusivity. </p>
 <p>
