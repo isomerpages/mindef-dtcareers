@@ -3,8 +3,8 @@ title: Why Join Us
 permalink: /why-join-us
 ---
 ![Alt text for image on Isomer site](/images/page-banner_whyjoinus.png)
-<p style="margin-bottom:4rem;">Our work in national security and defence has led to groundbreaking technological solutions that continue to shape Singapore’s progress, diplomacy, and the lives of our people. Be a part of the bigger picture through our agencies. This is where you’ll  get to cultivate your intellectual curiosity to tackle evolving challenges on a national scale. Contribute and create a lasting, positive impact on future generations. As you do so, you’ll also be provided opportunities for growth and the support to transform your boldest ideas into reality.</p>
-![Alt text for image on Isomer site](/images/benefits.png)
+<p style="">Our work in national security and defence has led to groundbreaking technological solutions that continue to shape Singapore’s progress, diplomacy, and the lives of our people. Be a part of the bigger picture through our agencies. This is where you’ll  get to cultivate your intellectual curiosity to tackle evolving challenges on a national scale. Contribute and create a lasting, positive impact on future generations. As you do so, you’ll also be provided opportunities for growth and the support to transform your boldest ideas into reality.</p>
+<img src="/images/benefits.png" style="margin:1rem 0;" />
 
 <h4 style="font-weight:bold;margin-top:2rem;">Our Culture</h4>
 <img src="images/joinus-workculture.png"/>
