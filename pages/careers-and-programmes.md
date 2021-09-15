@@ -3,7 +3,7 @@ title: CAREERS & PROGRAMMES
 permalink: /careers-and-programmes
 ---
 ![Alt text for image on Isomer site](/images/page-banner_careers.png)
-<p style="margin-bottom:4rem;">The DS&T sector provides multiple openings, streams, and programmes that cater to applicants from a variety of experience levels and backgrounds — from students to mid-career switchers. We strive to provide a rewarding experience for all our employees by aligning their interests with a role and career path that optimises their capabilities, talents and growth.</p>
+<p style="margin-bottom:3rem;">The DS&T sector provides multiple openings, streams, and programmes that cater to applicants from a variety of experience levels and backgrounds — from students to mid-career switchers. We strive to provide a rewarding experience for all our employees by aligning their interests with a role and career path that optimises their capabilities, talents and growth.</p>
 
 <img src="images/joinus-professional.png"/>
 
