@@ -2,7 +2,7 @@
 title: About Us
 permalink: /about-us
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mh_ulMfY90k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="936" height="527" src="https://www.youtube.com/embed/mh_ulMfY90k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p style="">Singapore is a small state with limited resources like land and manpower. Coupled with an unpredictable security environment and a lack of strategic depth, we face a tall hurdle in maintaining our borders and the safety of our people. DS&T plays a key role in Singapore’s efforts to overcome these challenges by adapting its defensive capabilities to these unique circumstances.</p>
 <p>
 Our future-facing stance on innovation and leveraging of tech as a force multiplier is crucial in the face 
