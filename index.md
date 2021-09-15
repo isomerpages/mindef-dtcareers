@@ -29,7 +29,7 @@ sections:
         scholarships and internships to development programmes. Specialise in a
         field you’re passionate about.
       button: Find Out More
-      image: /images/4cbe8d_f1ed2800a49649848102c68fc5a66e53_mv2.gif
+      image: /images/home-2.png
       url: /why-join-us
   - infopic:
       title: Hear from  Our Brightest Minds
@@ -39,4 +39,5 @@ sections:
       button: Read their stories
       url: /our-stories
       alt: Image alt text
+      image: /images/Home_Our%20Stories%20Section%20Image.png
 ---
