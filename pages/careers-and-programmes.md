@@ -12,13 +12,13 @@ permalink: /careers-and-programmes
 </p>
 
 <div style="display:flex;justify-content:space-between;">
-	<a href="https://www.dsta.gov.sg/join-us/job-seeker/dsta-careers" style="display:flex;width:31%;">
+	<a href="https://www.dsta.gov.sg/join-us/job-seeker/dsta-careers" style="display:flex;width:31%;" target="_blank">
 		<img src="/images/position-dsta.png"/>
 	</a>
-		<a href="https://careers.dso.org.sg/career-openings/index.html" style="display:flex;width:31%;">
+		<a href="https://careers.dso.org.sg/career-openings/index.html" style="display:flex;width:31%;" target="_blank">
 		<img src="/images/position-dso.png"/>
 	</a>
-		<a href="https://www.csit.gov.sg/join-us/job-opportunities" style="display:flex;width:31%;">
+		<a href="https://www.csit.gov.sg/join-us/job-opportunities" style="display:flex;width:31%;" target="_blank">
 		<img src="/images/position-csit.png"/>
 	</a>
 	</div>
@@ -30,13 +30,13 @@ permalink: /careers-and-programmes
 </p>
 
 <div style="display:flex;justify-content:space-between;">
-	<a href="https://www.dsta.gov.sg/join-us/student/internship/internship-programme" style="display:flex;width:31%;">
+	<a href="https://www.dsta.gov.sg/join-us/student/internship/internship-programme" style="display:flex;width:31%;" target="_blank">
 		<img src="/images/internship-dsta.png"/>
 	</a>
-		<a href="https://www.dso.org.sg/internship" style="display:flex;width:31%;">
+		<a href="https://www.dso.org.sg/internship" style="display:flex;width:31%;" target="_blank">
 		<img src="/images/internship-dso.png"/>
 	</a>
-		<a href="https://www.csit.gov.sg/internships-scholarships/internships" style="display:flex;width:31%;">
+		<a href="https://www.csit.gov.sg/internships-scholarships/internships" style="display:flex;width:31%;" target="_blank">
 		<img src="/images/internship-csit.png"/>
 	</a>
 	</div>
@@ -48,13 +48,13 @@ permalink: /careers-and-programmes
 </p>
 
 <div style="display:flex;justify-content:space-between;">
-	<a href="#" style="display:flex;width:31%;">
+	<a href="https://www.dsta.gov.sg/join-us/student/scholarships-awards" style="display:flex;width:31%;" target="_blank">
 		<img src="/images/scholarship-dsta.png"/>
 	</a>
-		<a href="#" style="display:flex;width:31%;">
+		<a href="https://www.dso.org.sg/join-us/students-and-undergraduates" style="display:flex;width:31%;" target="_blank">
 		<img src="/images/scholarship-dso.png"/>
 	</a>
-		<a href="#" style="display:flex;width:31%;">
+		<a href="https://www.csit.gov.sg/internships-scholarships/csit-undergraduate-scholarship" style="display:flex;width:31%;" target="_blank">
 		<img src="/images/scholarship-csit.png"/>
 	</a>
 	</div>
