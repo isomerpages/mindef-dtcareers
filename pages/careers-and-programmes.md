@@ -41,10 +41,23 @@ permalink: /careers-and-programmes
 	</a>
 	</div>
 
-<h4 style="font-weight:bold;margin-top:4rem;">Testimonials From Our People</h4>
-<img src="images/story-1.png" style="margin-bottom:1.25rem;"/>
-<img src="images/story-2.png" style="margin-bottom:1.25rem;"/>
-<img src="images/story-3.png" style=""/>
+	
+<h4 style="font-weight:bold;margin-top:2rem;">Scholarships</h4>
+
+<p style="margin-top:1rem;">Our scholarships are open to students holding Singapore Citizenship pursuing a diploma, ‘A’ levels or undergraduate degree in relevant STEM disciplines. To help you achieve your educational goals and make the transition to a professional setting, successful applicants are supported by our scholarship officers for career development and receive a wide range of benefits that cover tuition fees, living allowances, internship opportunities, and more. Application eligibilities and benefits vary across scholarships and agencies, so be sure to check them out to review your most suitable options.
+</p>
+
+<div style="display:flex;justify-content:space-between;">
+	<a href="#" style="display:flex;width:31%;">
+		<img src="/images/scholarship-dsta.png"/>
+	</a>
+		<a href="#" style="display:flex;width:31%;">
+		<img src="/images/scholarship-dso.png"/>
+	</a>
+		<a href="#" style="display:flex;width:31%;">
+		<img src="/images/scholarship-csit.png"/>
+	</a>
+	</div>
 
 <h3 style="font-weight:bold;margin-top:6rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h3>
 <table>
