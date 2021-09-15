@@ -9,7 +9,8 @@ Our future-facing stance on innovation and leveraging of tech as a force multipl
 of ever-evolving security threats such as terrorism, cyberattacks, resource contamination and 
 biochemical attacks.  
 	</p>
-<img src="/images/benefits.png" style="margin:2rem 0;" />
+	<h4 style="font-weight:bold;margin-top:2rem;">Who Forms the Defence Science & Technology sector?</h4>
+<img src="/images/about-banner-1.png" style="margin:2rem 0;" />
 
 <h4 style="font-weight:bold;margin-top:2rem;">Opportunities Within and Beyond The DS&T Sector</h4>
 <img src="images/join-opportunities.png"/>
