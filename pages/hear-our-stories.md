@@ -8,7 +8,15 @@ permalink: /hear-our-stories
 <h4 style="font-weight:bold;margin-top:2rem;">Our Culture</h4>
 <img src="images/joinus-workculture.png"/>
 
-<p style="margin-top:1rem;">DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force. We harness multidisciplinary expertise to equip our soldiers with advanced systems to defend Singapore. To achieve its mission, DSTA performs a variety of roles ranging from acquisition and procurement to cybersecurity and software development.</p>
+<p style="margin-top:1rem;">While each agency boasts its own quirks, culture and ethos, DS&T provides a common thread which drives and fosters a positive and flexible work environment where you can take ownership of and champion new initiatives that lead to more efficient processes, a healthier work-life balance, and greater inclusivity. </p>
+<p>
+For truly innovative work to happen, we also understand the importance of creating a safe, collaborative space. One that will allow you and your team to repeatedly test your ideas — and fail — before landing on successful outcomes. 
+</p>
+<p>
+Last but not least, a strong work ethic underpins the way we work and communicate. During your time 
+with us, we hope to impart the values of professionalism, integrity, passion, innovation, excellence 
+and teamwork. 
+</p>
 <a href="https://www.dsta.gov.sg/home" target="_blank" style="font-weight:bold;font-size:1.25rem;">Learn more about DSTA</a>
 	
 
