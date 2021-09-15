@@ -12,13 +12,13 @@ permalink: /careers-and-programmes
 </p>
 
 <div style="display:flex;justify-content:space-between;">
-	<a href="#" style="display:flex;width:30%;">
+	<a href="#" style="display:flex;width:31%;">
 		<img src="/images/position-dsta.png"/>
 	</a>
-		<a href="#" style="display:flex;width:30%;">
+		<a href="#" style="display:flex;width:31%;">
 		<img src="/images/position-dso.png"/>
 	</a>
-		<a href="#" style="display:flex;width:30%;">
+		<a href="#" style="display:flex;width:31%;">
 		<img src="/images/position-csit.png"/>
 	</a>
 	</div>
