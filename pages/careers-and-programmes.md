@@ -30,13 +30,13 @@ permalink: /careers-and-programmes
 </p>
 
 <div style="display:flex;justify-content:space-between;">
-	<a href="#" style="display:flex;width:31%;">
+	<a href="https://www.dsta.gov.sg/join-us/student/internship/internship-programme" style="display:flex;width:31%;">
 		<img src="/images/internship-dsta.png"/>
 	</a>
-		<a href="#" style="display:flex;width:31%;">
+		<a href="https://www.dso.org.sg/internship" style="display:flex;width:31%;">
 		<img src="/images/internship-dso.png"/>
 	</a>
-		<a href="#" style="display:flex;width:31%;">
+		<a href="https://www.csit.gov.sg/internships-scholarships/internships" style="display:flex;width:31%;">
 		<img src="/images/internship-csit.png"/>
 	</a>
 	</div>
