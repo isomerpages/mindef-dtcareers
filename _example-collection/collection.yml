@@ -1,5 +1,4 @@
 collections:
   example-collection:
     output: true
-    order:
-      - our-purpose.md
+    order: []
