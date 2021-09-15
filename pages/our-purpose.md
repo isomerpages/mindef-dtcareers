@@ -15,7 +15,7 @@ permalink: /our-purpose
 <img src="/images/purpose-dso.png" style=""/>
 <h3 style="font-weight:bold;margin-top:2rem;">What We Do at DSO National Laboratories (DSO)</h3>
 <p style="margin-top:1rem;">DSO is Singapore’s largest defence research and development organisation, with the critical mission to develop technological solutions to sharpen the cutting edge of Singapore’s national security. DSO investigates emerging technologies, matures promising ones and integrates them into innovative system concepts to meet Singapore’s defence and security needs.</p>
-<a href="https://www.dso.org.sg" style="font-weight:bold;margin-bottom:60px;font-size:1.25rem;" target="_blank">Learn more about DSO</a>
+<a href="https://www.dso.org.sg" target="_blank" style="font-weight:bold;margin-bottom:60px;font-size:1.25rem;">Learn more about DSO</a>
 
 <img src="images/purpose-csit.png" style=""/>
 <h3 style="font-weight:bold;margin-top:2rem;">What We Do at Centre for Strategic Infocomm Technologies (CSIT) </h3>
