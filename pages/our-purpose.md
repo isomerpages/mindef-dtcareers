@@ -9,10 +9,10 @@ permalink: /our-purpose
 <img src="images/purpose-dsta.png"/>
 <h3 style="font-weight:bold;margin-top:2rem;">What We Do at Defence Science and Technology Agency (DSTA)</h3>
 <p style="margin-top:1rem;">DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force. We harness multidisciplinary expertise to equip our soldiers with advanced systems to defend Singapore. To achieve its mission, DSTA performs a variety of roles ranging from acquisition and procurement to cybersecurity and software development.</p>
-<a href="https://www.dsta.gov.sg/home" target="_blank" style="font-weight:bold;margin-bottom:60px;font-size:1.25rem;">Learn more about DSTA</a>
+<a href="https://www.dsta.gov.sg/home" target="_blank" style="font-weight:bold;font-size:1.25rem;">Learn more about DSTA</a>
 	
 
-<img src="/images/purpose-dso.png" style=""/>
+<img src="/images/purpose-dso.png" style="margin-top:3.75rem;"/>
 <h3 style="font-weight:bold;margin-top:2rem;">What We Do at DSO National Laboratories (DSO)</h3>
 <p style="margin-top:1rem;">DSO is Singapore’s largest defence research and development organisation, with the critical mission to develop technological solutions to sharpen the cutting edge of Singapore’s national security. DSO investigates emerging technologies, matures promising ones and integrates them into innovative system concepts to meet Singapore’s defence and security needs.</p>
 <a href="https://www.dso.org.sg" target="_blank" style="font-weight:bold;margin-bottom:60px;font-size:1.25rem;">Learn more about DSO</a>
