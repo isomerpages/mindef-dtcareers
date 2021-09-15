@@ -18,17 +18,9 @@ with us, we hope to impart the values of professionalism, integrity, passion, in
 and teamwork. 
 </p>
 <h4 style="font-weight:bold;margin-top:2rem;">Testimonials From Our People</h4>
-<img src="images/joinus-workculture.png"/>
-
-<p style="margin-top:1rem;">While each agency boasts its own quirks, culture and ethos, DS&T provides a common thread which drives and fosters a positive and flexible work environment where you can take ownership of and champion new initiatives that lead to more efficient processes, a healthier work-life balance, and greater inclusivity. </p>
-<p>
-For truly innovative work to happen, we also understand the importance of creating a safe, collaborative space. One that will allow you and your team to repeatedly test your ideas — and fail — before landing on successful outcomes. 
-</p>
-<p>
-Last but not least, a strong work ethic underpins the way we work and communicate. During your time 
-with us, we hope to impart the values of professionalism, integrity, passion, innovation, excellence 
-and teamwork. 
-</p>
+<img src="images/story-1.png" style="margin-bottom:1.25rem;"/>
+<img src="images/story-2.png" style="margin-bottom:1.25rem;"/>
+<img src="images/story-3.png" style=""/>
 
 <h3 style="font-weight:bold;margin-top:6rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h3>
 <table>
