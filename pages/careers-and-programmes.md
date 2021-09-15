@@ -23,7 +23,7 @@ permalink: /careers-and-programmes
 	</a>
 	</div>
 	
-	<img src="images/careers-internships.png"/>
+<img src="images/careers-internships.png"/>
 <h4 style="font-weight:bold;margin-top:2rem;">Internships</h4>
 
 <p style="margin-top:1rem;">Our internship programmes provide an invaluable source of experience for undergraduates, polytechnic and JC students looking for an entry point or a taste of work in defence tech. Guided by mentors, our interns take on project related tasks to hone their skills and critical thinking in a professional capacity. Those who flourish during their internship placements have the chance to secure scholarships and/or full-time job offers upon graduation. Some of our most successful employees are former interns, and we’re looking to further support this pathway moving forward.
