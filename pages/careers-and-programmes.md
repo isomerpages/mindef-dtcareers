@@ -6,6 +6,7 @@ permalink: /careers-and-programmes
 <p style="margin-bottom:3rem;">The DS&T sector provides multiple openings, streams, and programmes that cater to applicants from a variety of experience levels and backgrounds — from students to mid-career switchers. We strive to provide a rewarding experience for all our employees by aligning their interests with a role and career path that optimises their capabilities, talents and growth.</p>
 
 <img src="images/joinus-professional.png"/>
+<h4 style="font-weight:bold;margin-top:2rem;">Graduates & Professionals</h4>
 
 <p style="margin-top:1rem;">While each agency boasts its own quirks, culture and ethos, DS&T provides a common thread which drives and fosters a positive and flexible work environment where you can take ownership of and champion new initiatives that lead to more efficient processes, a healthier work-life balance, and greater inclusivity. </p>
 <p>
