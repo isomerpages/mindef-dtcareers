@@ -9,16 +9,13 @@ permalink: /why-join-us
 <h4 style="font-weight:bold;margin-top:2rem;">Opportunities Within and Beyond The DS&T Sector</h4>
 <img src="images/join-opportunities.png"/>
 
-<p style="margin-top:1rem;">While each agency boasts its own quirks, culture and ethos, DS&T provides a common thread which drives and fosters a positive and flexible work environment where you can take ownership of and champion new initiatives that lead to more efficient processes, a healthier work-life balance, and greater inclusivity. </p>
+<p style="margin-top:1rem;">In the DS&T sector, much of our success is built on the foundation of effective inter and intra-agency knowledge sharing, teamwork and collaboration. We’re committed to the mobility of our people, and value the passion they have for continued learning and original, creative thought. 
+ </p>
 <p>
-For truly innovative work to happen, we also understand the importance of creating a safe, collaborative space. One that will allow you and your team to repeatedly test your ideas — and fail — before landing on successful outcomes. 
+We provide various opportunities — lateral ones for those eager to expand their scope and try new roles, and vertical ones for high-performers. Those who are recognised are rewarded through advancements and awards, and are given the chance to work with international partners and thought leaders.
 </p>
-<p>
-Last but not least, a strong work ethic underpins the way we work and communicate. During your time 
-with us, we hope to impart the values of professionalism, integrity, passion, innovation, excellence 
-and teamwork. 
-</p>
-<h4 style="font-weight:bold;margin-top:4rem;">Testimonials From Our People</h4>
+
+<h4 style="font-weight:bold;margin-top:4rem;">Collaborative Projects in the DS&T Sector</h4>
 <img src="images/story-1.png" style="margin-bottom:1.25rem;"/>
 <img src="images/story-2.png" style="margin-bottom:1.25rem;"/>
 <img src="images/story-3.png" style=""/>
