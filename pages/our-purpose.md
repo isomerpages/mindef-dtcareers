@@ -26,13 +26,12 @@ permalink: /our-purpose
 <table>
 	<tr>
 		<td>
-			DSTA
+			<img src="/images/dsta-logo.png" style="margin:2rem 0 1.25rem 0;"/>
+			<p>DSTA is a multidisciplinary defence agency that drives innovation and delivers state-of-the-art capabilities, equipment and technology to ensure that the SAF is a formidable fighting force.</p>
 		</td>
 		<td>
-			DSO
-		</td>
-		<td>
-			CSIT
+			<img src="/images/dsta-logo.png" style="margin:2rem 0 1.25rem 0;"/>
+			<p>DSTA is a multidisciplinary defence agency that drives innovation and delivers state-of-the-art capabilities, equipment and technology to ensure that the SAF is a formidable fighting force.</p>
 		</td>
 	</tr>
 	</table>
