@@ -47,6 +47,9 @@ permalink: /our-purpose
 	.dst-3-col{
 		flex-direction:column;
 	}
+	
+	.dst-col{
+	width:100%;}
 	}
 </style>
 
