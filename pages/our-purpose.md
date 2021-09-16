@@ -8,13 +8,13 @@ permalink: /our-purpose
 	a[target="_blank"]:after{display:none;}
 </style>
 <div style="display:flex;justify-content:space-between;">
-	<a href="#dsta" style="display:flex;width:31%;" target="_blank">
+	<a href="#dsta" style="display:flex;width:34%;" target="_blank">
 		<img src="images/purpose-1.png"  />
 	</a>
-		<a href="https://careers.dso.org.sg/career-openings/index.html" style="display:flex;width:31%;" target="_blank">
+		<a href="#dso" style="display:flex;width:32.2%;" target="_blank">
 		<img src="images/purpose-2.png"  />
 	</a>
-		<a href="https://www.csit.gov.sg/join-us/job-opportunities" style="display:flex;width:31%;" target="_blank">
+		<a href="#csit" style="display:flex;width:34%;" target="_blank">
 		<img src="images/purpose-3.png"  />
 	</a>
 	</div>
@@ -26,12 +26,12 @@ permalink: /our-purpose
 	
 
 <img src="/images/purpose-dso.png" style="margin-top:3.75rem;"/>
-<h4 style="font-weight:bold;margin-top:2rem;">What We Do at DSO National Laboratories (DSO)</h4>
+<h4 style="font-weight:bold;margin-top:2rem;" id="dso">What We Do at DSO National Laboratories (DSO)</h4>
 <p style="margin-top:1rem;">DSO is Singapore’s largest defence research and development organisation, with the critical mission to develop technological solutions to sharpen the cutting edge of Singapore’s national security. DSO investigates emerging technologies, matures promising ones and integrates them into innovative system concepts to meet Singapore’s defence and security needs.</p>
 <a href="https://www.dso.org.sg" target="_blank" style="font-weight:bold;font-size:1.25rem;">Learn more about DSO</a>
 
 <img src="images/purpose-csit.png" style="margin-top:3.75rem;"/>
-<h4 style="font-weight:bold;margin-top:2rem;">What We Do at Centre for Strategic Infocomm Technologies (CSIT) </h4>
+<h4 style="font-weight:bold;margin-top:2rem;" id="csit">What We Do at Centre for Strategic Infocomm Technologies (CSIT) </h4>
 <p style="margin-top:1rem;">CSIT is the leading agency in applied research and development of products that harness cutting-edge digital technologies in areas of Cybersecurity, Software Engineering, Data Analytics, and Cloud Infrastructure and Services, to advance Singapore’s security needs.</p>
 <a href="https://www.csit.gov.sg" target="_blank" style="font-weight:bold;margin-bottom:60px;font-size:1.25rem;">Learn more about CSIT</a>
 
