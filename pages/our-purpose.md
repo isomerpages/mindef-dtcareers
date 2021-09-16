@@ -8,7 +8,7 @@ permalink: /our-purpose
 	a[target="_blank"]:after{display:none;}
 </style>
 <div style="display:flex;justify-content:space-between;">
-	<a href="https://www.dsta.gov.sg/join-us/job-seeker/dsta-careers" style="display:flex;width:31%;" target="_blank">
+	<a href="#dsta" style="display:flex;width:31%;" target="_blank">
 		<img src="images/purpose-1.png"  />
 	</a>
 		<a href="https://careers.dso.org.sg/career-openings/index.html" style="display:flex;width:31%;" target="_blank">
@@ -20,7 +20,7 @@ permalink: /our-purpose
 	</div>
 
 <img src="images/purpose-dsta.png"/>
-<h4 style="font-weight:bold;margin-top:2rem;">What We Do at Defence Science and Technology Agency (DSTA)</h4>
+<h4 style="font-weight:bold;margin-top:2rem;" id="dsta">What We Do at Defence Science and Technology Agency (DSTA)</h4>
 <p style="margin-top:1rem;">DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force. We harness multidisciplinary expertise to equip our soldiers with advanced systems to defend Singapore. To achieve its mission, DSTA performs a variety of roles ranging from acquisition and procurement to cybersecurity and software development.</p>
 <a href="https://www.dsta.gov.sg/home" target="_blank" style="font-weight:bold;font-size:1.25rem;">Learn more about DSTA</a>
 	
