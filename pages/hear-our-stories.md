@@ -23,23 +23,40 @@ and teamwork.
 <img src="images/story-3.png" style=""/>
 
 <h3 style="font-weight:bold;margin-top:6rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h3>
-<table>
-	<tr>
-		<td>
-			<img src="/images/dsta-logo.png" style="width:auto;margin:2rem 0 1.25rem 0;"/>
-			<p style="font-size:0.8rem;line-height:1.2">DSTA is a multidisciplinary defence agency that drives innovation and delivers state-of-the-art capabilities, equipment and technology to ensure that the SAF is a formidable fighting force.</p>
-			<a href="https://www.dsta.gov.sg/home" target="_blank" style="font-weight:bold;font-size:0.8rem;line-height:1.2">www.dsta.gov.sg</a>
-		</td>
-		<td>
-			<img src="/images/dso-logo.png" style="width:auto;margin:2rem 0 1.25rem 0;"/>
-			<p style="font-size:0.8rem;line-height:1.2">DSO is Singapore’s largest defence research and development (R&D) organisation that develops critical and emerging technological solutions for national security in various scientific fields. 
+
+<style>
+    .dst-3-col{display:flex;justify-content:space-between;}
+    .dst-col{display:flex;width:30%;flex-direction:column;}
+    .dst-col img{
+    width:fit-content;
+    margin:2rem 0 0 0;
+    }
+    
+    @media (max-width:767px){
+    .dst-3-col{
+        flex-direction:column;
+    }
+    
+    .dst-col{
+    width:100%;}
+    }
+</style>
+
+<div class="dst-3-col">
+    <div class="dst-col">
+        <img src="/images/dsta-logo.png" style=""/>
+            <p style="font-size:0.8rem;line-height:1.2">DSTA is a multidisciplinary defence agency that drives innovation and delivers state-of-the-art capabilities, equipment and technology to ensure that the SAF is a formidable fighting force.</p>
+            <a href="https://www.dsta.gov.sg/home" target="_blank" style="font-weight:bold;font-size:0.8rem;line-height:1.2">www.dsta.gov.sg</a>
+    </div>
+    <div class="dst-col">
+        <img src="/images/dso-logo.png" style=""/>
+            <p style="font-size:0.8rem;line-height:1.2">DSO is Singapore’s largest defence research and development (R&D) organisation that develops critical and emerging technological solutions for national security in various scientific fields.
 </p>
-			<a href="https://www.dso.org.sg" target="_blank" style="font-weight:bold;font-size:0.8rem;line-height:1.2">www.dso.org.sg</a>
-		</td>
-		<td>
-			<img src="/images/csit-logo.png" style="width:auto;margin:2rem 0 1.25rem 0;"/>
-			<p style="font-size:0.8rem;line-height:1.2">DSTA is a multidisciplinary defence agency that drives innovation and delivers state-of-the-art capabilities, equipment and technology to ensure that the SAF is a formidable fighting force.</p>
-			<a href="https://www.csit.gov.sg" target="_blank" style="font-weight:bold;font-size:0.8rem;line-height:1.2">www.csit.gov.sg</a>
-		</td>
-	</tr>
-	</table>
+            <a href="https://www.dso.org.sg" target="_blank" style="font-weight:bold;font-size:0.8rem;line-height:1.2">www.dso.org.sg</a>
+    </div>
+    <div class="dst-col">
+        <img src="/images/csit-logo.png" style=""/>
+            <p style="font-size:0.8rem;line-height:1.2">DSTA is a multidisciplinary defence agency that drives innovation and delivers state-of-the-art capabilities, equipment and technology to ensure that the SAF is a formidable fighting force.</p>
+            <a href="https://www.csit.gov.sg" target="_blank" style="font-weight:bold;font-size:0.8rem;line-height:1.2">www.csit.gov.sg</a>
+    </div>
+</div>
