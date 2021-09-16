@@ -37,7 +37,7 @@ permalink: /our-purpose
 
 <style>
 	.dst-3-col{display:flex;justify-content:space-between;}
-	.dst-col{display:flex;width:32%;flex-direction:column;}
+	.dst-col{display:flex;width:30%;flex-direction:column;}
 	.dst-col img{
 	width:fit-content;
 	margin:2rem 0 0 0;
