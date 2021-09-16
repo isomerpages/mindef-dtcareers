@@ -4,9 +4,7 @@ permalink: /our-purpose
 ---
 ![Alt text for image on Isomer site](/images/banner_purpose.png)
 <p style="margin-bottom:4rem;">The DS&T sector is an interdisciplinary collective of leading experts and specialists dedicated to addressing Singapore’s national security. As the leaders in our sector, we develop, deliver, and advise on innovative scientific solutions to the Ministry of Defence and other government bodies. </p>
-<style>
-	a[target="_blank"]:after{display:none;}
-</style>
+
 <div style="display:flex;justify-content:space-between;">
 	<a href="#dsta" style="display:flex;width:34%;" >
 		<img src="images/purpose-1.png"  />
@@ -36,6 +34,33 @@ permalink: /our-purpose
 <a href="https://www.csit.gov.sg" target="_blank" style="font-weight:bold;margin-bottom:60px;font-size:1.25rem;">Learn more about CSIT</a>
 
 <h3 style="font-weight:bold;margin-top:6rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h3>
+
+<style>
+	.dst-3-col{display:flex}
+	.dst-col{display:flex;width:33.33%;flex-direction:column;}
+	.dst-col img{
+	width:auto;
+	}
+</style>
+
+<div class="dst-3-col">
+	<div class="dst-col">
+		<img src="/images/dsta-logo.png" style="width:auto;margin:2rem 0 1.25rem 0;"/>
+			<p style="font-size:0.8rem;line-height:1.2">DSTA is a multidisciplinary defence agency that drives innovation and delivers state-of-the-art capabilities, equipment and technology to ensure that the SAF is a formidable fighting force.</p>
+			<a href="https://www.dsta.gov.sg/home" target="_blank" style="font-weight:bold;font-size:0.8rem;line-height:1.2">www.dsta.gov.sg</a>
+	</div>
+	<div class="dst-col">
+		<img src="/images/dso-logo.png" style="width:auto;margin:2rem 0 1.25rem 0;"/>
+			<p style="font-size:0.8rem;line-height:1.2">DSO is Singapore’s largest defence research and development (R&D) organisation that develops critical and emerging technological solutions for national security in various scientific fields. 
+</p>
+			<a href="https://www.dso.org.sg" target="_blank" style="font-weight:bold;font-size:0.8rem;line-height:1.2">www.dso.org.sg</a>
+	</div>
+	<div class="dst-col">
+		<img src="/images/csit-logo.png" style="width:auto;margin:2rem 0 1.25rem 0;"/>
+			<p style="font-size:0.8rem;line-height:1.2">DSTA is a multidisciplinary defence agency that drives innovation and delivers state-of-the-art capabilities, equipment and technology to ensure that the SAF is a formidable fighting force.</p>
+			<a href="https://www.csit.gov.sg" target="_blank" style="font-weight:bold;font-size:0.8rem;line-height:1.2">www.csit.gov.sg</a>
+	</div>
+</div>
 <table>
 	<tr>
 		<td>
