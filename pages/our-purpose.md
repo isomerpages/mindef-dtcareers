@@ -8,13 +8,13 @@ permalink: /our-purpose
 	a[target="_blank"]:after{display:none;}
 </style>
 <div style="display:flex;justify-content:space-between;">
-	<a href="#dsta" style="display:flex;width:34%;" target="_blank">
+	<a href="#dsta" style="display:flex;width:34%;" >
 		<img src="images/purpose-1.png"  />
 	</a>
-		<a href="#dso" style="display:flex;width:32.2%;" target="_blank">
+		<a href="#dso" style="display:flex;width:32.2%;">
 		<img src="images/purpose-2.png"  />
 	</a>
-		<a href="#csit" style="display:flex;width:34%;" target="_blank">
+		<a href="#csit" style="display:flex;width:34%;" >
 		<img src="images/purpose-3.png"  />
 	</a>
 	</div>
