@@ -36,8 +36,8 @@ permalink: /our-purpose
 <h3 style="font-weight:bold;margin-top:6rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h3>
 
 <style>
-	.dst-3-col{display:flex}
-	.dst-col{display:flex;width:33.33%;flex-direction:column;}
+	.dst-3-col{display:flex;justify-content:space-between;}
+	.dst-col{display:flex;width:32%;flex-direction:column;}
 	.dst-col img{
 	width:auto;
 	}
