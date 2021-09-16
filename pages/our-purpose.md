@@ -41,6 +41,12 @@ permalink: /our-purpose
 	.dst-col img{
 	width:auto;
 	}
+	
+	@media (max-width:767px){
+	.dst-3-col{
+		flex-direction:column;
+	}
+	}
 </style>
 
 <div class="dst-3-col">
