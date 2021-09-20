@@ -10,7 +10,7 @@ of ever-evolving security threats such as terrorism, cyberattacks, resource cont
 biochemical attacks.  
 	</p>
 <h4 style="font-weight:bold;margin-top:2rem;">Who Forms the Defence Science & Technology sector?</h4>
-<img src="/images/about-banner-1.png" style="margin:2rem 0;" />
+<img src="/images/about/About_Hero.jpg" style="margin:2rem 0;" />
 <p>Singapore’s first foray into defence tech was in 1966 with just three engineers in the Logistics Department. Today, the community boasts over 6,500 scientists, engineers and IT specialists who support Singapore’s defence through their expertise in various fields of knowledge with, the leading agencies being DSTA, DSO and the CSIT. <p>
 	
 <h4 style="font-weight:bold;margin-top:2rem;">Our Defence Technology Ecosystem</h4>
