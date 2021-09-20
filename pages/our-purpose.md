@@ -2,18 +2,18 @@
 title: Our Purpose
 permalink: /our-purpose
 ---
-![Alt text for image on Isomer site](/images/banner_purpose.png)
+![Alt text for image on Isomer site](/images/purpose/Purpose_MainBanner.gif)
 <p style="margin-bottom:4rem;">The DS&T sector is an interdisciplinary collective of leading experts and specialists dedicated to addressing Singapore’s national security. As the leaders in our sector, we develop, deliver, and advise on innovative scientific solutions to the Ministry of Defence and other government bodies. </p>
 
 <div style="display:flex;justify-content:space-between;">
-	<a href="#dsta" style="display:flex;width:34%;" >
-		<img src="images/purpose-1.png"  />
+	<a href="#dsta" style="display:flex;width:33.3%;" >
+		<img src="images/purpose/Purpose_Box1-DSTA.png"  />
 	</a>
-		<a href="#dso" style="display:flex;width:32.2%;">
-		<img src="images/purpose-2.png"  />
+		<a href="#dso" style="display:flex;width:33.3%;">
+		<img src="images/purpose/Purpose_Box2-DSO.png"  />
 	</a>
-		<a href="#csit" style="display:flex;width:34%;" >
-		<img src="images/purpose-3.png"  />
+		<a href="#csit" style="display:flex;width:33.3%;" >
+		<img src="images/purpose/Purpose_Box3-CSIT.png"  />
 	</a>
 	</div>
 
