@@ -2,11 +2,11 @@
 title: HEAR OUR STORIES
 permalink: /hear-our-stories
 ---
-![Alt text for image on Isomer site](/images/story-banner.png)
+![Alt text for image on Isomer site](/images/stories/Stories_Banner.jpg)
 <p style="margin-bottom:4rem;">Our defence scientists and engineers are recognised for being at the top of their respective fields in computing, data, physics, bio-technology, environmental science, chemical engineering, systems engineering, cybersecurity, and more. Attached to different agencies and divisions, where they can best apply their expertise, they also work collaboratively towards one common goal — keeping Singapore safe. Here are some of their stories and achievements.</p>
 
 <h4 style="font-weight:bold;margin-top:2rem;">Our Culture</h4>
-<img src="images/joinus-workculture.png"/>
+<img src="images/stories/Stories_Culture.jpg"/>
 
 <p style="margin-top:1rem;">While each agency boasts its own quirks, culture and ethos, DS&T provides a common thread which drives and fosters a positive and flexible work environment where you can take ownership of and champion new initiatives that lead to more efficient processes, a healthier work-life balance, and greater inclusivity. </p>
 <p>
@@ -18,9 +18,9 @@ with us, we hope to impart the values of professionalism, integrity, passion, in
 and teamwork. 
 </p>
 <h4 style="font-weight:bold;margin-top:4rem;">Testimonials From Our People</h4>
-<img src="images/story-1.png" style="margin-bottom:1.25rem;"/>
-<img src="images/story-2.png" style="margin-bottom:1.25rem;"/>
-<img src="images/story-3.png" style=""/>
+<img src="images/stories/Stories_Testimonial1.jpg" style="margin-bottom:1.25rem;"/>
+<img src="images/stories/Stories_Testimonial2.jpg" style="margin-bottom:1.25rem;"/>
+<img src="images/stories/Stories_Testimonial3.jpg" style=""/>
 
 <h3 style="font-weight:bold;margin-top:6rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h3>
 
