@@ -34,9 +34,9 @@ sections:
       alt: Join Us Now
   - infopic:
       title: Hear from  Our Brightest Minds
-      description: The Defence Science & Technology sector supports to nurture an
-        ecosystem of individuals empowered to transform cutting-edge ideas to
-        reality.
+      description: Foster critical thinking in the Defence Science & Technology sector
+        (DS&T) - a place that empowers individuals to transform cutting-edge
+        ideas to reality.
       button: Read their stories
       url: /our-stories
       alt: Image alt text
