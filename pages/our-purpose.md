@@ -56,7 +56,7 @@ permalink: /our-purpose
 <div class="dst-3-col">
 	<div class="dst-col">
 		<img src="/images/dsta-logo.png" style=""/>
-			<p style="font-size:0.8rem;line-height:1.2">DSTA is a multidisciplinary defence agency that drives innovation and delivers state-of-the-art capabilities, equipment and technology to ensure that the SAF is a formidable fighting force.</p>
+			<p style="font-size:0.8rem;line-height:1.2">DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force.</p>
 			<a href="https://www.dsta.gov.sg/home" target="_blank" style="font-weight:bold;font-size:0.8rem;line-height:1.2">www.dsta.gov.sg</a>
 	</div>
 	<div class="dst-col">
@@ -67,7 +67,7 @@ permalink: /our-purpose
 	</div>
 	<div class="dst-col">
 		<img src="/images/csit-logo.png" style=""/>
-			<p style="font-size:0.8rem;line-height:1.2">DSTA is a multidisciplinary defence agency that drives innovation and delivers state-of-the-art capabilities, equipment and technology to ensure that the SAF is a formidable fighting force.</p>
+			<p style="font-size:0.8rem;line-height:1.2">CSIT is the leading agency in applied research and development of products that harness cutting-edge digital technologies to advance Singapore's security needs, such as in cybersecurity and counter-terrorism.</p>
 			<a href="https://www.csit.gov.sg" target="_blank" style="font-weight:bold;font-size:0.8rem;line-height:1.2">www.csit.gov.sg</a>
 	</div>
 </div>
