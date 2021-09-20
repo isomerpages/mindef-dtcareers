@@ -30,7 +30,7 @@ permalink: /our-purpose
 
 <img src="images/purpose/Purpose_SubBanner3-CSIT.png" style="margin-top:3.75rem;"/>
 <h4 style="font-weight:bold;margin-top:2rem;" id="csit">What We Do at Centre for Strategic Infocomm Technologies (CSIT) </h4>
-<p style="margin-top:1rem;">CSIT is the leading agency in applied research and development of products that harness cutting-edge digital technologies in areas of Cybersecurity, Software Engineering, Data Analytics, and Cloud Infrastructure and Services, to advance Singapore’s security needs.</p>
+<p style="margin-top:1rem;">CSIT is the leading agency in applied research and development of products that harness cutting-edge digital technologies in areas of Cybersecurity, Software Engineering, Data Analytics and Cloud Infrastructure and Services, to advance Singapore’s security needs.</p>
 <a href="https://www.csit.gov.sg" target="_blank" style="font-weight:bold;margin-bottom:60px;font-size:1.25rem;">Learn more about CSIT</a>
 
 <h3 style="font-weight:bold;margin-top:6rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h3>
