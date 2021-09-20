@@ -38,7 +38,7 @@ sections:
         (DS&T) - a place that empowers individuals to transform cutting-edge
         ideas to reality.
       button: Read their stories
-      url: /our-stories
+      url: /hear-our-stories
       alt: Image alt text
       image: /images/Home_Our%20Stories%20Section%20Image%202.png
 ---
