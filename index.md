@@ -25,9 +25,9 @@ sections:
       url: /our-purpose
   - infopic:
       title: Join a Community of Innovators
-      description: Take charge of your career with multiple pathways, from
-        scholarships and internships to development programmes. Specialise in a
-        field you’re passionate about.
+      description: Take charge of your career via multiple paths, from scholarships
+        and internships to development programmes. Pursue your passion or
+        explore different domains.​
       button: Find Out More
       image: /images/Home_JoinUs.jpg
       url: /why-join-us
