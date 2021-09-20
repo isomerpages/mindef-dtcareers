@@ -7,7 +7,7 @@ permalink: /
 notification: " "
 sections:
   - hero:
-      background: /images/Landing-KV-V2.jpg
+      background: /images/Home_Banner.jpg
       key_highlights:
         - title: OUR PURPOSE
           description: We create new possibilities with tech to defend Singapore. 
@@ -29,7 +29,7 @@ sections:
         scholarships and internships to development programmes. Specialise in a
         field you’re passionate about.
       button: Find Out More
-      image: /images/home-2.png
+      image: /images/Home_JoinUs.jpg
       url: /why-join-us
   - infopic:
       title: Hear from  Our Brightest Minds
@@ -39,5 +39,5 @@ sections:
       button: Read their stories
       url: /our-stories
       alt: Image alt text
-      image: /images/Home_Our%20Stories%20Section%20Image.png
+      image: /images/Home_Our%20Stories%20Section%20Image%202.png
 ---
