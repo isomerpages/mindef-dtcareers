@@ -31,6 +31,7 @@ sections:
       button: Find Out More
       image: /images/Home_JoinUs.jpg
       url: /why-join-us
+      alt: Join Us Now
   - infopic:
       title: Hear from  Our Brightest Minds
       description: The Defence Science & Technology sector supports to nurture an
