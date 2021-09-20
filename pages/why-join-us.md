@@ -16,9 +16,8 @@ We provide various opportunities — lateral ones for those eager to expand thei
 </p>
 
 <h4 style="font-weight:bold;margin-top:4rem;">Collaborative Projects in the DS&T Sector</h4>
-<img src="images/testimonial-1.png" style="margin-bottom:1.25rem;"/>
-<img src="images/testimonial-2.png" style="margin-bottom:1.25rem;"/>
-<img src="images/testimonial-3.png" style=""/>
+<img src="images/join/Join_Project1-MRTTHangar.jpg" style="margin-bottom:1.25rem;"/>
+<img src="images/join/Join_Project2-V15UAV.jpg" style="margin-bottom:1.25rem;"/>
 
 <h3 style="font-weight:bold;margin-top:6rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h3>
 
