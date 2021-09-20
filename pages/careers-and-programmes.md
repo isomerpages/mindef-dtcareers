@@ -2,10 +2,10 @@
 title: CAREERS & PROGRAMMES
 permalink: /careers-and-programmes
 ---
-![Alt text for image on Isomer site](/images/page-banner_careers.png)
+![Alt text for image on Isomer site](/images/careers/Careers_Banner.jpg)
 <p style="margin-bottom:3rem;">The DS&T sector provides multiple openings, streams, and programmes that cater to applicants from a variety of experience levels and backgrounds — from students to mid-career switchers. We strive to provide a rewarding experience for all our employees by aligning their interests with a role and career path that optimises their capabilities, talents and growth.</p>
 
-<img src="images/joinus-professional.png"/>
+<img src="images/careers/Careers_1Careers.png"/>
 <h4 style="font-weight:bold;margin-top:2rem;">Graduates & Professionals</h4>
 
 <p style="margin-top:1rem;">Our agencies offer a managerial career track and technical career track for graduates and experienced professionals with different levels of professional experience and interests. These are further staggered across the various programme centres and business functions unique to each agency. Whatever your goals are — be it in digital specialties, engineering, research or corporate strategy — we will work closely with you to reach them through a defined and flexible career path.
