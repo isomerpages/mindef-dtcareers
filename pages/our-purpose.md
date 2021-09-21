@@ -2,6 +2,10 @@
 title: OUR PURPOSE
 permalink: /our-purpose
 ---
+<style>
+	a[target="_blank"]:after,.float-buttons{
+	display:none;}
+</style>
 ![Alt text for image on Isomer site](/images/purpose/Purpose_MainBanner.gif)
 <p style="margin-bottom:4rem;">The DS&T sector is an interdisciplinary collective of leading experts and specialists dedicated to addressing Singapore’s national security. As the leaders in our sector, we develop, deliver, and advise on innovative scientific solutions to the Ministry of Defence and other government bodies. </p>
 
