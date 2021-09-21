@@ -3,7 +3,7 @@ title: CAREERS & PROGRAMMES
 permalink: /careers-and-programmes
 ---
 <style>
-	a[target="_blank"]:after{
+	a[target="_blank"]:after,.float-buttons{
 	display:none;}
 </style>
 ![Alt text for image on Isomer site](/images/careers/Careers_Banner.jpg)
