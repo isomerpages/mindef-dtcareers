@@ -16,6 +16,9 @@ We provide various opportunities — lateral ones for those eager to expand thei
 </p>
 
 <h4 style="font-weight:bold;margin-top:4rem;">Collaborative Projects in the DS&T Sector</h4>
+<style>
+	a[target="_blank"]:after{display:none;}
+</style>
 <a target="_blank" href="https://www.dsta.gov.sg/latest-news/spotlight/building-sustainability"><img src="images/join/Join_Project1-MRTTHangar.jpg" style="margin-bottom:1.25rem;"/></a>
 <img src="images/join/Join_Project2-V15UAV.jpg" style="margin-bottom:1.25rem;"/>
 
