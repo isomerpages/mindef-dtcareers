@@ -2,7 +2,6 @@
 title: WHY JOIN US
 permalink: /why-join-us
 ---
-
 ![Alt text for image on Isomer site](/images/join/Join_Banner.png)
 <p style="">Our work in national security and defence has led to groundbreaking technological solutions that continue to shape Singapore’s progress, diplomacy, and the lives of our people. Be a part of the bigger picture through our agencies. This is where you’ll  get to cultivate your intellectual curiosity to tackle evolving challenges on a national scale. Contribute and create a lasting, positive impact on future generations. As you do so, you’ll also be provided opportunities for growth and the support to transform your boldest ideas into reality.</p>
 <img src="/images/join/Join_Benefits.png" style="margin:2rem 0;" />
@@ -18,7 +17,7 @@ We provide various opportunities — lateral ones for those eager to expand thei
 
 <h4 style="font-weight:bold;margin-top:4rem;">Collaborative Projects in the DS&T Sector</h4>
 <img src="images/join/Join_Project1-MRTTHangar.jpg" style="margin-bottom:1.25rem;"/>
-<img src="images/join/Join_Project2-V15UAV.jpg" style="margin-bottom:1.25rem;"/>
+<a target="_blank" href="https://www.dsta.gov.sg/latest-news/spotlight/building-sustainability"><img src="images/join/Join_Project2-V15UAV.jpg" style="margin-bottom:1.25rem;"/></a>
 
 <h3 style="font-weight:bold;margin-top:6rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h3>
 
