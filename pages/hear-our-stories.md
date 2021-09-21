@@ -2,6 +2,10 @@
 title: HEAR OUR STORIES
 permalink: /hear-our-stories
 ---
+<style>
+	a[target="_blank"]:after,.float-buttons{
+	display:none;}
+</style>
 ![Alt text for image on Isomer site](/images/stories/Stories_Banner.jpg)
 <p style="margin-bottom:4rem;">Our defence scientists and engineers are recognised for being at the top of their respective fields in computing, data, physics, bio-technology, environmental science, chemical engineering, systems engineering, cybersecurity, and more. Attached to different agencies and divisions, where they can best apply their expertise, they also work collaboratively towards one common goal — keeping Singapore safe. Here are some of their stories and achievements.</p>
 
