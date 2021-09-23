@@ -9,19 +9,21 @@ permalink: /why-join-us
 	.join-benefits{
 	display:flex;
 	}
-	@screen and (min-width:768px){
+	
+	@media only screen and (min-width:768px){
 	.join-benefits img{
 		display:flex;
 	width:50%;
 	}
 	}
 
-	@screen and (max-width:767px){
+	@media only screen and (max-width:767px){
 	.join-benefits{
 	flex-direction:column;
 
 	}
 	}
+	
 </style>
 ![Alt text for image on Isomer site](/images/join/Join_Banner.png)
 <p style="">Our work in national security and defence has led to groundbreaking technological solutions that continue to shape Singapore’s progress, diplomacy, and the lives of our people. Be a part of the bigger picture through our agencies. This is where you’ll  get to cultivate your intellectual curiosity to tackle evolving challenges on a national scale. Contribute and create a lasting, positive impact on future generations. As you do so, you’ll also be provided opportunities for growth and the support to transform your boldest ideas into reality.</p>
