@@ -56,6 +56,9 @@ biochemical attacks.
 	margin:0;
 	}
 	
+	img.social-icon{
+	margin-top:1rem;}
+	
 	.social{
 	display:flex;}
 	
