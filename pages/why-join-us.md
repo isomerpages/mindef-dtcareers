@@ -9,13 +9,13 @@ permalink: /why-join-us
 	.join-benefits{
 	display:flex;
 	}
-	
 	@screen and (min-width:768px){
 	.join-benefits img{
-	display:flex;
+		display:flex;
 	width:50%;
 	}
-		}
+	}
+
 	@screen and (max-width:767px){
 	.join-benefits{
 	flex-direction:column;
