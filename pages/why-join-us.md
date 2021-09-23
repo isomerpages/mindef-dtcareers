@@ -7,7 +7,7 @@ permalink: /why-join-us
 	display:none;}
 	
 	@screen and (min-width:768px){
-	.join-benefits{
+	.join-benefits img{
 	width:50%;
 	}
 	}
