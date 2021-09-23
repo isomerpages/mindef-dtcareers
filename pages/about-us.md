@@ -67,6 +67,12 @@ biochemical attacks.
 			<a href="https://www.facebook.com/SingaporeDSTA" target="_blank">
 				<img src="/images/icons/facebook.svg" class="social-icon" />
 			</a>
+			<a href="https://www.facebook.com/SingaporeDSTA" target="_blank">
+				<img src="/images/icons/instagram.svg" class="social-icon" />
+			</a>
+			<a href="https://www.facebook.com/SingaporeDSTA" target="_blank">
+				<img src="/images/icons/linkedin.svg" class="social-icon" />
+			</a>
 		</div>
 	</div>
 	<div class="dst-col">
