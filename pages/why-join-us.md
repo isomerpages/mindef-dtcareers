@@ -12,6 +12,7 @@ permalink: /why-join-us
 	
 	@screen and (min-width:768px){
 	.join-benefits img{
+	display:flex;
 	width:50%;
 	}
 		}
