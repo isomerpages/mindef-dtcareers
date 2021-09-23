@@ -11,13 +11,13 @@ permalink: /our-purpose
 
 <div style="display:flex;">
 	<a href="#dsta" style="display:flex;width:33.3%;" >
-		<img src="images/purpose/Purpose_Box1-DSTA.png"  />
+		<img src="images/purpose/Box1.png"  />
 	</a>
 		<a href="#dso" style="display:flex;width:33.3%;">
-		<img src="images/purpose/Purpose_Box2-DSO.png"  />
+		<img src="images/purpose/Box2.png"  />
 	</a>
 		<a href="#csit" style="display:flex;width:33.3%;" >
-		<img src="images/purpose/Purpose_Box3-CSIT.png"  />
+		<img src="images/purpose/Box3.png"  />
 	</a>
 	</div>
 
