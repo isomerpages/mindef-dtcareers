@@ -13,7 +13,7 @@ permalink: /why-join-us
 <h4 style="font-weight:bold;margin-top:2rem;">Opportunities Within and Beyond The DS&T Sector</h4>
 <img src="images/join/Join_CollaborativeNetwork.png"/>
 
-<p style="margin-top:1rem;">In the DS&T sector, much of our success is built on the foundation of effective inter and intra-agency knowledge sharing, teamwork and collaboration. We’re committed to the mobility of our people, and value the passion they have for continued learning and original, creative thought. 
+<p style="margin-top:1rem;">In the  Defence Science & Technology  (DS&T) sector, much of our success is built on the foundation of effective inter and intra-agency knowledge sharing, teamwork and collaboration. We’re committed to the mobility of our people, and value the passion they have for continued learning and original, creative thought. 
  </p>
 <p>
 We provide various opportunities — lateral ones for those eager to expand their scope and try new roles, and vertical ones for high-performers. Those who are recognised are rewarded through advancements and awards, and are given the chance to work with international partners and thought leaders.
