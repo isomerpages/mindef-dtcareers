@@ -52,7 +52,7 @@ biochemical attacks.
 	font-weight:bold;font-size:0.8rem;line-height:1.2
 	}
 	
-	.social a{
+	.social > a{
 	margin:0;
 	}
 	
