@@ -20,31 +20,32 @@ biochemical attacks.
 	
 <h4 style="font-weight:bold;margin-top:2rem;">Our Defence Technology Ecosystem</h4>
 <p>Beyond the three agencies, there is a larger ecosystem that includes local industry organisations, local research institutes, and foreign partners in public and private sectors. These partnerships help us to further maximise our capabilities development. It also advances our defence diplomacy and relations, helping us gain access to technology, training, and test facilities.  <p>
-	
-<img src="/images/about/About_DTCEcosystem.jpg" style="margin:2rem 0;" />
-<h3 style="font-weight:bold;margin-top:6rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h3>
+	<br><br>
+<hr>
+
+<h4  style="font-weight:bold;margin-top:2rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h4>
 
 <style>
-    .dst-3-col{display:flex;justify-content:space-between;}
-    .dst-col{display:flex;width:30%;flex-direction:column;}
-    .dst-col img{
-    width:fit-content;
-    margin:2rem 0 0 0;
-    }
-    
+	.dst-3-col{display:flex;justify-content:space-between;}
+	.dst-col{display:flex;width:30%;flex-direction:column;}
+	.dst-col img{
+	width:fit-content;
+	margin:2rem 0 0 0;
+	}
+	
 	@media (max-width:767px){
-    .dst-3-col{
-        flex-direction:column;
-    }
-    
-    .dst-col{
-    width:100%;}
-    }
+	.dst-3-col{
+		flex-direction:column;
+	}
+	
+	.dst-col{
+	width:100%;}
+	}
 </style>
 
 <div class="dst-3-col">
 	<div class="dst-col">
-		<img src="/images/dsta-logo.png" style=""/>
+		<img src="/images/dsta-logo-DTCareers.png" style=""/>
 			<p style="font-size:0.8rem;line-height:1.2">DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force.</p>
 			<a href="https://www.dsta.gov.sg/home" target="_blank" style="font-weight:bold;font-size:0.8rem;line-height:1.2">www.dsta.gov.sg</a>
 	</div>
