@@ -45,8 +45,8 @@ biochemical attacks.
 	}
 	
 	.social-icon{
-	width:30px;
-	height:30px;}
+	width:24px;
+	height:24px;}
 	
 	.dst-3-col a{
 	font-weight:bold;font-size:0.8rem;line-height:1.2
@@ -56,8 +56,12 @@ biochemical attacks.
 	margin:0;
 	}
 	
+	.social{
+	display:flex;}
+	
 	.social > a{
-	margin:0;
+	margin:0 8px 0 0;
+	
 	}
 	
 </style>
@@ -68,14 +72,14 @@ biochemical attacks.
 			<p style="font-size:0.8rem;line-height:1.2">DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force.</p>
 			<a href="https://www.dsta.gov.sg/home" target="_blank" class="site-url">www.dsta.gov.sg</a>
 		<div class="social">
+			<a href="https://www.linkedin.com/company/dsta/" target="_blank">
+				<img src="/images/icons/linkedin.svg" class="social-icon" />
+			</a>
 			<a href="https://www.facebook.com/SingaporeDSTA" target="_blank">
 				<img src="/images/icons/facebook.svg" class="social-icon" />
 			</a>
 			<a href="https://www.instagram.com/singaporedsta" target="_blank">
 				<img src="/images/icons/instagram.svg" class="social-icon" />
-			</a>
-			<a href="https://www.linkedin.com/company/dsta/" target="_blank">
-				<img src="/images/icons/linkedin.svg" class="social-icon" />
 			</a>
 		</div>
 	</div>
