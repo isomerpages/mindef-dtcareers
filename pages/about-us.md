@@ -48,8 +48,12 @@ biochemical attacks.
 	width:24px;
 	height:24px;}
 	
+	.dst-3-col p{
+	font-size:0.8rem;line-height:1.2
+	}
+	
 	.dst-3-col a{
-	font-weight:bold;font-size:0.8rem;line-height:1.2
+	font-weight:bold;
 	}
 	
 	a.site-url{
@@ -64,7 +68,6 @@ biochemical attacks.
 	
 	.social > a{
 	margin:0 8px 0 0;
-	
 	}
 	
 </style>
@@ -72,7 +75,7 @@ biochemical attacks.
 <div class="dst-3-col">
 	<div class="dst-col">
 		<img src="/images/dsta-logo-DTCareers.png" style=""/>
-			<p style="font-size:0.8rem;line-height:1.2">DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force.</p>
+			<p >DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force.</p>
 			<a href="https://www.dsta.gov.sg/home" target="_blank" class="site-url">www.dsta.gov.sg</a>
 		<div class="social">
 			<a href="https://www.linkedin.com/company/dsta/" target="_blank">
