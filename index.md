@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: DESIGN. DEVELOP. DEFEND.
-description: Brief site description here
+description: Defence science & technology site is part of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: " "
