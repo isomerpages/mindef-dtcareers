@@ -12,7 +12,7 @@ permalink: /hear-our-stories
 <h4 style="font-weight:bold;margin-top:2rem;">Our Culture</h4>
 <img src="images/stories/Stories_Culture.jpg"/>
 
-<p style="margin-top:1rem;">While each agency boasts its own quirks, culture and ethos, DS&T provides a common thread which drives and fosters a positive and flexible work environment where you can take ownership of and champion new initiatives that lead to more efficient processes, a healthier work-life balance, and greater inclusivity. </p>
+<p style="margin-top:1rem;">While each agency boasts its own quirks, culture and ethos, Defence Science & Technology (DS&T) provides a common thread which drives and fosters a positive and flexible work environment where you can take ownership of and champion new initiatives that lead to more efficient processes, a healthier work-life balance, and greater inclusivity. </p>
 <p>
 For truly innovative work to happen, we also understand the importance of creating a safe, collaborative space. One that will allow you and your team to repeatedly test your ideas — and fail — before landing on successful outcomes. 
 </p>
