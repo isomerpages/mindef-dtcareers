@@ -7,11 +7,18 @@ permalink: /why-join-us
 	display:none;}
 	
 	.join-benefits{
-	display:flex;}
+	display:flex;
+	}
 	
 	@screen and (min-width:768px){
 	.join-benefits img{
 	width:50%;
+	}
+		}
+	@screen and (max-width:767px){
+	.join-benefits{
+	flex-direction:column;
+
 	}
 	}
 </style>
