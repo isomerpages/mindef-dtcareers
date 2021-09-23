@@ -6,6 +6,9 @@ permalink: /why-join-us
 	a[target="_blank"]:after,.float-buttons{
 	display:none;}
 	
+	.join-benefits{
+	display:flex;}
+	
 	@screen and (min-width:768px){
 	.join-benefits img{
 	width:50%;
