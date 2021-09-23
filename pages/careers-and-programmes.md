@@ -7,7 +7,7 @@ permalink: /careers-and-programmes
 	display:none;}
 </style>
 ![Alt text for image on Isomer site](/images/careers/Careers_Banner.jpg)
-<p style="margin-bottom:3rem;">The Defence Science & Technology  (DS&T) sector provides multiple openings, streams, and programmes that cater to applicants from a variety of experience levels and backgrounds — from students to mid-career switchers. We strive to provide a rewarding experience for all our employees by aligning their interests with a role and career path that optimises their capabilities, talents and growth.</p>
+<p style="margin-bottom:3rem;">The Defence Science & Technology (DS&T) sector provides multiple openings, streams, and programmes that cater to applicants from a variety of experience levels and backgrounds — from students to mid-career switchers. We strive to provide a rewarding experience for all our employees by aligning their interests with a role and career path that optimises their capabilities, talents and growth.</p>
 
 <img src="images/careers/Careers_1Careers.png"/>
 <h4 style="font-weight:bold;margin-top:2rem;">Graduates & Professionals</h4>
