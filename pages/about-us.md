@@ -91,10 +91,34 @@ biochemical attacks.
 			<p style="font-size:0.8rem;line-height:1.2">DSO is Singapore’s largest defence research and development (R&D) organisation that develops critical and emerging technological solutions for national security in various scientific fields. 
 </p>
 			<a href="https://www.dso.org.sg" target="_blank" style="font-weight:bold;font-size:0.8rem;line-height:1.2">www.dso.org.sg</a>
+		<div class="social">
+			<a href="https://www.linkedin.com/company/dsta/" target="_blank">
+				<img src="/images/icons/linkedin.svg" class="social-icon" />
+			</a>
+			<a href="https://www.facebook.com/SingaporeDSTA" target="_blank">
+				<img src="/images/icons/facebook.svg" class="social-icon" />
+			</a>
+			<a href="https://www.instagram.com/singaporedsta" target="_blank">
+				<img src="/images/icons/instagram.svg" class="social-icon" />
+			</a>
+		</div>
+	</div>
 	</div>
 	<div class="dst-col">
 		<img src="/images/csit-logo.png" style=""/>
 			<p style="font-size:0.8rem;line-height:1.2">CSIT is the leading agency in applied research and development of products that harness cutting-edge digital technologies to advance Singapore's security needs, such as in cybersecurity and counter-terrorism.</p>
 			<a href="https://www.csit.gov.sg" target="_blank" style="font-weight:bold;font-size:0.8rem;line-height:1.2">www.csit.gov.sg</a>
+	<div class="social">
+			<a href="https://www.linkedin.com/company/dsta/" target="_blank">
+				<img src="/images/icons/linkedin.svg" class="social-icon" />
+			</a>
+			<a href="https://www.facebook.com/SingaporeDSTA" target="_blank">
+				<img src="/images/icons/facebook.svg" class="social-icon" />
+			</a>
+			<a href="https://www.instagram.com/singaporedsta" target="_blank">
+				<img src="/images/icons/instagram.svg" class="social-icon" />
+			</a>
+		</div>
+	</div>
 	</div>
 </div>
