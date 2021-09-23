@@ -8,7 +8,7 @@ permalink: /about-us
 </style>
 <h4 style="font-weight:bold;margin-top:2rem;">About Defence Science & Technology</h4>
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/x829y3A4blA' frameborder='0' allowfullscreen></iframe></div>
-<p style="">Singapore is a small state with limited resources like land and manpower. Coupled with an unpredictable security environment and a lack of strategic depth, we face a tall hurdle in maintaining our borders and the safety of our people. DS&T plays a key role in Singapore’s efforts to overcome these challenges by adapting its defensive capabilities to these unique circumstances.</p>
+<p style="">Singapore is a small state with limited resources like land and manpower. Coupled with an unpredictable security environment and a lack of strategic depth, we face a tall hurdle in maintaining our borders and the safety of our people.  Defence Science & Technology (DS&T) plays a key role in Singapore’s efforts to overcome these challenges by adapting its defensive capabilities to these unique circumstances.</p>
 <p>
 Our future-facing stance on innovation and leveraging of tech as a force multiplier is crucial in the face 
 of ever-evolving security threats such as terrorism, cyberattacks, resource contamination and 
