@@ -83,23 +83,77 @@ permalink: /careers-and-programmes
 	.dst-col{
 	width:100%;}
 	}
+	
+	.social-icon{
+	width:24px;
+	height:24px;}
+	
+	.dst-3-col p, .dst-3-col a{
+	font-size:0.8rem;line-height:1.2;
+	}
+	
+	.dst-3-col a{
+	font-weight:bold;
+	}
+	
+	a.site-url{
+	margin:0;
+	}
+	
+	img.social-icon{
+	margin-top:1rem;}
+	
+	.social{
+	display:flex;}
+	
+	.social > a{
+	margin:0 8px 0 0;
+	}
+	
 </style>
 
 <div class="dst-3-col">
 	<div class="dst-col">
 		<img src="/images/dsta-logo-DTCareers.png" style=""/>
-			<p style="font-size:0.8rem;line-height:1.2">DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force.</p>
-			<a href="https://www.dsta.gov.sg/home" target="_blank" style="font-weight:bold;font-size:0.8rem;line-height:1.2">www.dsta.gov.sg</a>
+			<p >DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force.</p>
+			<a href="https://www.dsta.gov.sg/home" target="_blank" class="site-url">www.dsta.gov.sg</a>
+		<div class="social">
+			<a href="https://www.linkedin.com/company/dsta/" target="_blank">
+				<img src="/images/icons/linkedin.svg" class="social-icon" />
+			</a>
+			<a href="https://www.facebook.com/SingaporeDSTA" target="_blank">
+				<img src="/images/icons/facebook.svg" class="social-icon" />
+			</a>
+			<a href="https://www.instagram.com/singaporedsta" target="_blank">
+				<img src="/images/icons/instagram.svg" class="social-icon" />
+			</a>
+		</div>
 	</div>
 	<div class="dst-col">
 		<img src="/images/dso-logo.png" style=""/>
-			<p style="font-size:0.8rem;line-height:1.2">DSO is Singapore’s largest defence research and development (R&D) organisation that develops critical and emerging technological solutions for national security in various scientific fields. 
+			<p>DSO is Singapore’s largest defence research and development (R&D) organisation that develops critical and emerging technological solutions for national security in various scientific fields. 
 </p>
-			<a href="https://www.dso.org.sg" target="_blank" style="font-weight:bold;font-size:0.8rem;line-height:1.2">www.dso.org.sg</a>
+			<a href="https://www.dso.org.sg" class="site-url" target="_blank">www.dso.org.sg</a>
+		<div class="social">
+			<a href="https://www.linkedin.com/company/dso-national-laboratories" target="_blank">
+				<img src="/images/icons/linkedin.svg" class="social-icon" />
+			</a>
+			<a href="https://www.facebook.com/dso.sg/" target="_blank">
+				<img src="/images/icons/facebook.svg" class="social-icon" />
+			</a>
+			<a href="https://www.instagram.com/discoverdso/" target="_blank">
+				<img src="/images/icons/instagram.svg" class="social-icon" />
+			</a>
+		</div>
 	</div>
 	<div class="dst-col">
 		<img src="/images/csit-logo.png" style=""/>
-			<p style="font-size:0.8rem;line-height:1.2">CSIT is the leading agency in applied research and development of products that harness cutting-edge digital technologies to advance Singapore's security needs, such as in cybersecurity and counter-terrorism.</p>
-			<a href="https://www.csit.gov.sg" target="_blank" style="font-weight:bold;font-size:0.8rem;line-height:1.2">www.csit.gov.sg</a>
+			<p>CSIT is the leading agency in applied research and development of products that harness cutting-edge digital technologies to advance Singapore's security needs, such as in cybersecurity and counter-terrorism.</p>
+			<a href="https://www.csit.gov.sg" target="_blank" class="site-url">www.csit.gov.sg</a>
+	<div class="social">
+			<a href="https://www.linkedin.com/company/centre-for-strategic-infocomm-technologies/" target="_blank">
+				<img src="/images/icons/linkedin.svg" class="social-icon" />
+			</a>
+		</div>
 	</div>
 </div>
