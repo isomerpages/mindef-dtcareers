@@ -47,7 +47,7 @@ We provide various opportunities — lateral ones for those eager to expand thei
 
 <div class="join-benefits">
 <img src="/images/join/Innovations_DSO-a-1.jpg" />
-<img src="/images/join/Innovations_DSO-b-1.jpg"  />
+<a target="_blank" href="https://www.dsta.gov.sg/latest-news/spotlight/building-sustainability"><img src="/images/join/Innovations_DSO-b-1.jpg"  /></a>
 	</div>
 
 <a target="_blank" href="https://www.dsta.gov.sg/latest-news/spotlight/building-sustainability"><img src="images/join/Join_Project1-MRTTHangar-1.jpg" style="margin-bottom:1.25rem;"/></a>
