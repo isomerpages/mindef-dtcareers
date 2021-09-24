@@ -16,37 +16,45 @@ permalink: /careers-and-programmes
 
 <p style="margin-top:1rem;">Our agencies offer a managerial career track and technical career track for graduates and experienced professionals with different levels of professional experience and interests. These are further staggered across the various programme centres and business functions unique to each agency. Whatever your goals are — be it in digital specialties, engineering, research or corporate strategy — we will work closely with you to reach them through a defined and flexible career path.
 </p>
-
-<div style="display:flex;justify-content:space-between;">
-	<a href="https://www.dsta.gov.sg/join-us/job-seeker/dsta-careers" style="display:flex;width:31%;" target="_blank">
-		<img src="/images/position-dsta.png"/>
-	</a>
-		<a href="https://careers.dso.org.sg/career-openings/index.html" style="display:flex;width:31%;" target="_blank">
-		<img src="/images/position-dso.png"/>
-	</a>
-		<a href="https://www.csit.gov.sg/join-us/job-opportunities" style="display:flex;width:31%;" target="_blank">
-		<img src="/images/position-csit.png"/>
+<div class="dst-3-col">
+	<div class="dst-col">
+	<a class="nommargin" href="https://www.dsta.gov.sg/join-us/job-seeker/dsta-careers" target="_blank">
+		<img class="nommargin" src="/images/position-dsta.png"/>
 	</a>
 	</div>
+	<div class="dst-col">
+		<a class="nommargin"href="https://careers.dso.org.sg/career-openings/index.html" target="_blank">
+		<img class="nommargin" src="/images/position-dso.png"/>
+	</a>
+	</div>
+	<div class="dst-col"><a class="nommargin" href="https://www.csit.gov.sg/join-us/job-opportunities" target="_blank">
+		<img class="nommargin" src="/images/position-csit.png"/>
+	</a>
+	</div>
+</div>
+ 
 	
 <img src="images/careers/Careers_2Programmes.png"/>
 <h4 style="font-weight:bold;margin-top:2rem;">Internships</h4>
 
 <p style="margin-top:1rem;">Our internship programmes provide an invaluable source of experience for undergraduates, polytechnic and JC students looking for an entry point or a taste of work in defence tech. Guided by mentors, our interns take on project related tasks to hone their skills and critical thinking in a professional capacity. Those who flourish during their internship placements have the chance to secure scholarships and/or full-time job offers upon graduation. Some of our most successful employees are former interns, and we’re looking to further support this pathway moving forward.
 </p>
-
-<div style="display:flex;justify-content:space-between;">
-	<a href="https://www.dsta.gov.sg/join-us/student/internship/internship-programme" style="display:flex;width:31%;" target="_blank">
-		<img src="/images/internship-dsta.png"/>
-	</a>
-		<a href="https://www.dso.org.sg/internship" style="display:flex;width:31%;" target="_blank">
-		<img src="/images/internship-dso.png"/>
-	</a>
-		<a href="https://www.csit.gov.sg/internships-scholarships/internships" style="display:flex;width:31%;" target="_blank">
-		<img src="/images/internship-csit.png"/>
+<div class="dst-3-col">
+	<div class="dst-col">
+	<a class="nommargin" href="https://www.dsta.gov.sg/join-us/student/internship/internship-programme"  target="_blank">
+		<img class="nommargin" src="/images/internship-dsta.png"/>
 	</a>
 	</div>
-
+	<div class="dst-col">
+		<a class="nommargin" href="https://www.dso.org.sg/internship"  target="_blank">
+		<img class="nommargin" src="/images/internship-dso.png"/>
+	</a>
+	</div>
+	<div class="dst-col"><a class="nommargin" href="https://www.csit.gov.sg/internships-scholarships/internships" target="_blank">
+		<img class="nommargin" src="/images/internship-csit.png"/>
+	</a>
+	</div>
+</div>
 	
 <h4 style="font-weight:bold;margin-top:2rem;">Scholarships</h4>
 
