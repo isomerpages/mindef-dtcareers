@@ -5,37 +5,64 @@ permalink: /our-purpose
 <style>
 	a[target="_blank"]:after,.float-buttons{
 	display:none;}
-</style>
-![Alt text for image on Isomer site](/images/purpose/Purpose_MainBanner.gif)
-<p style="margin-bottom:4rem;">The Defence Science & Technology (DS&T) sector is an interdisciplinary collective of leading experts and specialists dedicated to addressing Singapore’s national security. As the leaders in our sector, we develop, deliver, and advise on innovative scientific solutions to the Ministry of Defence and other government bodies. </p>
-
-<div style="display:flex;">
-	<a href="#dsta" style="display:flex;width:33.3%;" >
-		<img src="images/purpose/Box1.png"  />
-	</a>
-		<a href="#dso" style="display:flex;width:33.3%;">
-		<img src="images/purpose/Box2.png"  />
-	</a>
-		<a href="#csit" style="display:flex;width:33.3%;" >
-		<img src="images/purpose/Box3.png"  />
-	</a>
-	</div>
-
-<img src="images/purpose/Purpose_SubBanner1-DSTA.png"/>
-<h4 style="font-weight:bold;margin-top:2rem;" id="dsta">What We Do at Defence Science and Technology Agency (DSTA)</h4>
-<p style="margin-top:1rem;">DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force. We harness multidisciplinary expertise to equip our soldiers with advanced systems to defend Singapore. To achieve its mission, DSTA performs a variety of roles ranging from acquisition and procurement to cybersecurity and software development.</p>
-<a href="https://www.dsta.gov.sg/who-we-are/overview" target="_blank" style="font-weight:bold;font-size:1.25rem;">Learn more about DSTA</a>
 	
 
-<img src="/images/purpose/Purpose_SubBanner2-DSO.png" style="margin-top:3.75rem;"/>
-<h4 style="font-weight:bold;margin-top:2rem;" id="dso">What We Do at DSO National Laboratories (DSO)</h4>
-<p style="margin-top:1rem;">DSO is Singapore’s largest defence research and development organisation, with the critical mission to develop technological solutions to sharpen the cutting edge of Singapore’s national security. DSO investigates emerging technologies, matures promising ones and integrates them into innovative system concepts to meet Singapore’s defence and security needs.</p>
-<a href="https://www.dso.org.sg/about/" target="_blank" style="font-weight:bold;font-size:1.25rem;">Learn more about DSO</a>
+	.join-benefits{
+	display:flex;
+	}
+	
+	@media only screen and (min-width:768px){
+	.join-benefits img{
+		display:flex;
+	width:50%;
+	}
+	}
 
-<img src="images/purpose/Purpose_SubBanner3-CSIT.png" style="margin-top:3.75rem;"/>
-<h4 style="font-weight:bold;margin-top:2rem;" id="csit">What We Do at Centre for Strategic Infocomm Technologies (CSIT) </h4>
-<p style="margin-top:1rem;">CSIT is the leading agency in applied research and development of products that harness cutting-edge digital technologies in areas of Cybersecurity, Software Engineering, Data Analytics and Cloud Infrastructure and Services, to advance Singapore’s security needs.</p>
-<a href="https://www.csit.gov.sg/about-csit/who-we-are" target="_blank" style="font-weight:bold;margin-bottom:60px;font-size:1.25rem;">Learn more about CSIT</a>
+	@media only screen and (max-width:767px){
+	.join-benefits{
+	flex-direction:column;
+
+	}
+	}
+	
+</style>
+<img src="/images/join/Join_Banner.png" />
+<p style="">Our work in national security and defence has led to groundbreaking technological solutions that continue to shape Singapore’s progress, diplomacy, and the lives of our people. Be a part of the bigger picture through our agencies. This is where you’ll  get to cultivate your intellectual curiosity to tackle evolving challenges on a national scale. Contribute and create a lasting, positive impact on future generations. As you do so, you’ll also be provided opportunities for growth and the support to transform your boldest ideas into reality.</p>
+<div class="join-benefits">
+<img src="/images/join/join-benefits-1.png" />
+<img src="/images/join/join-benefits-2.png" />
+	</div>
+<h4 style="font-weight:bold;margin-top:2rem;">Opportunities Within and Beyond The DS&T Sector</h4>
+<img src="images/join/Join_CollaborativeNetwork.png"/>
+
+<p style="margin-top:1rem;">In the  Defence Science & Technology  (DS&T) sector, much of our success is built on the foundation of effective inter and intra-agency knowledge sharing, teamwork and collaboration. We’re committed to the mobility of our people, and value the passion they have for continued learning and original, creative thought. 
+ </p>
+<p>
+We provide various opportunities — lateral ones for those eager to expand their scope and try new roles, and vertical ones for high-performers. Those who are recognised are rewarded through advancements and awards, and are given the chance to work with international partners and thought leaders.
+</p>
+
+<h4 style="font-weight:bold;margin-top:4rem;">Collaborative Projects in the DS&T Sector</h4>
+<style>
+	a[target="_blank"]:after{display:none;}
+</style>
+
+<div class="join-benefits">
+<img src="/images/join/Innovations_DSTA-a-1.jpg" />
+<a target="_blank" href="https://www.dsta.gov.sg/latest-news/spotlight/building-sustainability"><img src="/images/join/Innovations_DSTA-b-1.jpg" /></a>
+	</div>
+
+<a target="_blank" href="https://www.dso.org.sg/Media/Default/News/021117-CNA-Cutting-edge%20drones%20and%20unmanned%20vehicles%20to%20boost%20Singapore's%20surveillance%20capabilities.pdf">
+<div class="join-benefits">
+<img src="/images/join/Innovations_DSO-a-1.jpg" />
+<img src="/images/join/Innovations_DSO-b-1.jpg" />
+	</div>
+	</a>
+
+
+<a target="_blank" href="https://www.dsta.gov.sg/latest-news/spotlight/building-sustainability"><img src="images/join/Join_Project1-MRTTHangar-1.jpg" style="margin-bottom:1.25rem;"/></a>
+
+<a target="_blank" href="https://www.dso.org.sg/Media/Default/News/021117-CNA-Cutting-edge%20drones%20and%20unmanned%20vehicles%20to%20boost%20Singapore's%20surveillance%20capabilities.pdf"><img src="images/join/Join_Project2-V15UAV-1.jpg" style="margin-bottom:1.25rem;"/></a>
+
 
 <br><br>
 <hr>
