@@ -64,12 +64,12 @@ permalink: /careers-and-programmes
 	</style>
 	<div class="dst-col">
 		 <a class="nommargin" href="https://www.dsta.gov.sg/join-us/student/scholarships-awards"  target="_blank">
-		<img   src="/images/scholarship-dsta.png"/>
+		<img class="nommargin" src="/images/scholarship-dsta.png"/>
 	</a>
 	</div>
 	<div class="dst-col">
 		<a href="https://www.dso.org.sg/join-us/students-and-undergraduates" class="nommargin" target="_blank">
-		<img src="/images/scholarship-dso.png"/>
+		<img class="nommargin" src="/images/scholarship-dso.png"/>
 	</a>
 	</div>
 	<div class="dst-col">
