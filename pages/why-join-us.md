@@ -6,6 +6,7 @@ permalink: /why-join-us
 	a[target="_blank"]:after,.float-buttons{
 	display:none;}
 	
+
 	.join-benefits{
 	display:flex;
 	}
