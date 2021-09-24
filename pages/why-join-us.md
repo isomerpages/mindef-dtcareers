@@ -58,7 +58,7 @@ We provide various opportunities — lateral ones for those eager to expand thei
 	</a>
 
 
-<a target="_blank" href="https://www.dso.org.sg/Media/Default/News/021117-CNA-Cutting-edge%20drones%20and%20unmanned%20vehicles%20to%20boost%20Singapore's%20surveillance%20capabilities.pdf"><img src="images/join/Join_Project1-MRTTHangar-1.jpg" style="margin-bottom:1.25rem;"/></a>
+<a target="_blank" href="https://www.dsta.gov.sg/latest-news/spotlight/building-sustainability"><img src="images/join/Join_Project1-MRTTHangar-1.jpg" style="margin-bottom:1.25rem;"/></a>
 
 <a target="_blank" href="https://www.dso.org.sg/Media/Default/News/021117-CNA-Cutting-edge%20drones%20and%20unmanned%20vehicles%20to%20boost%20Singapore's%20surveillance%20capabilities.pdf"><img src="images/join/Join_Project2-V15UAV-1.jpg" style="margin-bottom:1.25rem;"/></a>
 
