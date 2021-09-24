@@ -84,24 +84,24 @@ permalink: /careers-and-programmes
 	</a>
 	</div>
 	<div class="dst-col">
-		 <a href="https://www.dsta.gov.sg/join-us/student/scholarships-awards" style="display:flex;width:31%;" target="_blank">
+		 <a href="https://www.dsta.gov.sg/join-us/student/scholarships-awards" style="display:flex;width:100%;" target="_blank">
 		<img src="/images/scholarship-dsta.png"/>
 	</a>
-		<a href="https://www.dso.org.sg/join-us/students-and-undergraduates" style="display:flex;width:31%;" target="_blank">
+		<a href="https://www.dso.org.sg/join-us/students-and-undergraduates" style="display:flex;width:100%;" target="_blank">
 		<img src="/images/scholarship-dso.png"/>
 	</a>
-		<a href="https://www.csit.gov.sg/internships-scholarships/csit-undergraduate-scholarship" style="display:flex;width:31%;" target="_blank">
+		<a href="https://www.csit.gov.sg/internships-scholarships/csit-undergraduate-scholarship" style="display:flex;width:100%;" target="_blank">
 		<img src="/images/scholarship-csit.png"/>
 	</a>
 	</div>
 	<div class="dst-col">
-		 <a href="https://www.dsta.gov.sg/join-us/student/scholarships-awards" style="display:flex;width:31%;" target="_blank">
+		 <a href="https://www.dsta.gov.sg/join-us/student/scholarships-awards"  target="_blank">
 		<img src="/images/scholarship-dsta.png"/>
 	</a>
-		<a href="https://www.dso.org.sg/join-us/students-and-undergraduates" style="display:flex;width:31%;" target="_blank">
+		<a href="https://www.dso.org.sg/join-us/students-and-undergraduates"  target="_blank">
 		<img src="/images/scholarship-dso.png"/>
 	</a>
-		<a href="https://www.csit.gov.sg/internships-scholarships/csit-undergraduate-scholarship" style="display:flex;width:31%;" target="_blank">
+		<a href="https://www.csit.gov.sg/internships-scholarships/csit-undergraduate-scholarship"  target="_blank">
 		<img src="/images/scholarship-csit.png"/>
 	</a>
 	</div>
