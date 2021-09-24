@@ -16,13 +16,17 @@ permalink: /careers-and-programmes
 
 <p style="margin-top:1rem;">Our agencies offer a managerial career track and technical career track for graduates and experienced professionals with different levels of professional experience and interests. These are further staggered across the various programme centres and business functions unique to each agency. Whatever your goals are — be it in digital specialties, engineering, research or corporate strategy — we will work closely with you to reach them through a defined and flexible career path.
 </p>
+
 <div class="dst-3-col">
 	<div class="dst-col">
-	<a class="nommargin" href="https://www.dsta.gov.sg/join-us/job-seeker/dsta-careers" target="_blank">
+	<a class="nommargin" href="https://www.dsta.gov.sg/join-us/job-seeker/dsta-careers"  target="_blank">
 		<img class="nommargin" src="/images/position-dsta.png"/>
 	</a>
 	</div>
-	<div class="dst-col"><a class="nommargin"href="https://careers.dso.org.sg/career-openings/index.html" target="_blank"><img class="nommargin" src="/images/position-dso.png"/></a>
+	<div class="dst-col">
+		<a class="nommargin" href="https://careers.dso.org.sg/career-openings/index.htm"  target="_blank">
+		<img class="nommargin" src="/images/position-dso.png"/>
+	</a>
 	</div>
 	<div class="dst-col"><a class="nommargin" href="https://www.csit.gov.sg/join-us/job-opportunities" target="_blank">
 		<img class="nommargin" src="/images/position-csit.png"/>
