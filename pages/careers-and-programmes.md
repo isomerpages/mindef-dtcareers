@@ -22,10 +22,7 @@ permalink: /careers-and-programmes
 		<img class="nommargin" src="/images/position-dsta.png"/>
 	</a>
 	</div>
-	<div class="dst-col">
-		<a class="nommargin"href="https://careers.dso.org.sg/career-openings/index.html" target="_blank">
-		<img class="nommargin" src="/images/position-dso.png"/>
-	</a>
+	<div class="dst-col"><a class="nommargin"href="https://careers.dso.org.sg/career-openings/index.html" target="_blank"><img class="nommargin" src="/images/position-dso.png"/></a>
 	</div>
 	<div class="dst-col"><a class="nommargin" href="https://www.csit.gov.sg/join-us/job-opportunities" target="_blank">
 		<img class="nommargin" src="/images/position-csit.png"/>
