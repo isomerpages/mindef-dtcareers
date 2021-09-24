@@ -48,19 +48,19 @@ and teamwork.
 <h4 style="font-weight:bold;margin-top:4rem;">Testimonials From Our People</h4>
 
 <div class="split" style="margin-bottom:1.25rem;">
-<img src="images/stories/testi-dso_a.jpg" />
-<img src="images/stories/testi-dso_b.jpg" />
+<img src="images/stories/testi-dso_a-2x.jpg" />
+<img src="images/stories/testi-dso_b-2x.jpg" />
 </div>
 
 
 <div class="split" style="margin-bottom:1.25rem;">
-<img src="images/stories/testi-dsta_a.jpg" />
-<img src="images/stories/testi-dsta_b.jpg" />
+<img src="images/stories/testi-dsta_a-2x.jpg" />
+<img src="images/stories/testi-dsta_b-2x.jpg" />
 </div>
 
 <div class="split" style="margin-bottom:1.25rem;">
-<img src="images/stories/testi-csit_a.jpg" />
-<img src="images/stories/testi-csit_b.jpg" />
+<img src="images/stories/testi-csit_a-2x.jpg" />
+<img src="images/stories/testi-csit_b-2x.jpg" />
 </div>
 
 
