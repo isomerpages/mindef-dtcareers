@@ -1,13 +1,13 @@
 ---
 layout: homepage
 title: DESIGN. DEVELOP. DEFEND.
-description: Brief site description here
+description: Defence science & technology site is part of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: " "
 sections:
   - hero:
-      background: /images/Home_Banner.jpg
+      background: /images/DTCareerBanner.png
       key_highlights:
         - title: OUR PURPOSE
           description: We create new possibilities with tech to defend Singapore. 
@@ -29,7 +29,7 @@ sections:
         and internships to development programmes. Pursue your passion or
         explore different domains.​
       button: Find Out More
-      image: /images/Home_JoinUs.jpg
+      image: /images/Home-group.png
       url: /why-join-us
       alt: Join Us Now
   - infopic:
