@@ -5,8 +5,29 @@ permalink: /hear-our-stories
 <style>
 	a[target="_blank"]:after,.float-buttons{
 	display:none;}
+
+	.join-benefits{
+	display:flex;
+	}
+	
+	@media only screen and (min-width:768px){
+	.split img{
+		display:flex;
+	width:49%;
+	}
+	}
+
+	@media only screen and (max-width:767px){
+	.split{
+	flex-direction:column;
+
+	}
+	}
+	
 </style>
-![Alt text for image on Isomer site](/images/stories/Stories_Banner.jpg)
+
+
+![Hear our story](/images/stories/Stories_Banner.jpg)
 <p style="margin-bottom:4rem;">Our defence scientists and engineers are recognised for being at the top of their respective fields in computing, data, physics, bio-technology, environmental science, chemical engineering, systems engineering, cybersecurity, and more. Attached to different agencies and divisions, where they can best apply their expertise, they also work collaboratively towards one common goal — keeping Singapore safe. Here are some of their stories and achievements.</p>
 
 <h4 style="font-weight:bold;margin-top:2rem;">Our Culture</h4>
@@ -22,9 +43,22 @@ with us, we hope to impart the values of professionalism, integrity, passion, in
 and teamwork. 
 </p>
 <h4 style="font-weight:bold;margin-top:4rem;">Testimonials From Our People</h4>
-<img src="images/stories/Stories_Testimonial1.jpg" style="margin-bottom:1.25rem;"/>
-<img src="images/stories/Stories_Testimonial2.jpg" style="margin-bottom:1.25rem;"/>
-<img src="images/stories/Stories_Testimonial3.jpg" style=""/>
+
+<div class="split" style="margin-bottom:1.25rem;">
+<img src="images/stories/testi-dso_a.jpg" />
+<img src="images/stories/testi-dso_b.jpg" />
+</div>
+
+
+<div class="split" style="margin-bottom:1.25rem;">
+<img src="images/stories/testi-dsta_a.jpg" />
+<img src="images/stories/testi-dsta_b.jpg" />
+</div>
+
+<div class="split" style="margin-bottom:1.25rem;">
+<img src="images/stories/testi-csit_a.jpg" />
+<img src="images/stories/testi-csit_b.jpg" />
+</div>
 
 
 <br><br>
