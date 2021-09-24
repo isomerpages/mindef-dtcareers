@@ -20,7 +20,7 @@ biochemical attacks.
 	
 <h4 style="font-weight:bold;margin-top:2rem;">Our Defence Technology Ecosystem</h4>
 <p>Beyond the three agencies, there is a larger ecosystem that includes local industry organisations, local research institutes, and foreign partners in public and private sectors. These partnerships help us to further maximise our capabilities development. It also advances our defence diplomacy and relations, helping us gain access to technology, training, and test facilities.  <p>
-<img src="/images/about/WhatIsDTC.png" style="margin:2rem 0;" />
+<img src="/images/about/AboutEcosystem.png" style="margin:2rem 0;" />
 	
 <br><br>
 <hr>
