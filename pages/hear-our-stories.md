@@ -6,7 +6,7 @@ permalink: /hear-our-stories
 	a[target="_blank"]:after,.float-buttons{
 	display:none;}
 
-	.join-benefits{
+	.split{
 	display:flex;
 	}
 	
