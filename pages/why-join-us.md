@@ -56,7 +56,7 @@ We provide various opportunities — lateral ones for those eager to expand thei
 <img src="/images/join/CaseB-1.png" />
 <img src="/images/join/CaseB-2.png" />
 	</div>
-<a target="_blank" href="https://www.dso.org.sg/research/robotics"><img src="/images/join/CaseB-3.png" style="margin-bottom:1.25rem;"/></a>
+<a target="_blank" href="https://www.dso.org.sg/research/robotics"><img src="/images/join/CaseB-3.png" style="margin-bottom:1.25rem; width:382px; height: 75px"/></a>
 
 
 <br><br>
