@@ -53,55 +53,33 @@ permalink: /careers-and-programmes
 <p style="margin-top:1rem;">Our scholarships are open to students holding Singapore Citizenship pursuing a diploma, ‘A’ levels or undergraduate degree in relevant STEM disciplines. To help you achieve your educational goals and make the transition to a professional setting, successful applicants are supported by our scholarship officers for career development and receive a wide range of benefits that cover tuition fees, living allowances, internship opportunities, and more. Application eligibilities and benefits vary across scholarships and agencies, so be sure to check them out to review your most suitable options.
 </p>
 
-<div style="display:flex;justify-content:space-between;">
-	<a href="https://www.dsta.gov.sg/join-us/student/scholarships-awards" style="display:flex;width:31%;" target="_blank">
-		<img src="/images/scholarship-dsta.png"/>
-	</a>
-		<a href="https://www.dso.org.sg/join-us/students-and-undergraduates" style="display:flex;width:31%;" target="_blank">
-		<img src="/images/scholarship-dso.png"/>
-	</a>
-		<a href="https://www.csit.gov.sg/internships-scholarships/csit-undergraduate-scholarship" style="display:flex;width:31%;" target="_blank">
-		<img src="/images/scholarship-csit.png"/>
-	</a>
-	</div>
-
+ 
 <div class="dst-3-col">
 	<style>
 	a[target="_blank"]:after{display:none !important;}
 	.dst-col a{
 		flex-direction:column;
+		vertical-align: top;
 	}
 	</style>
 	<div class="dst-col">
 		 <a class="nommargin" href="https://www.dsta.gov.sg/join-us/student/scholarships-awards"  target="_blank">
-		<img class="nommargin" src="/images/careers/CSIT-sclr1.png"/>
-	</a>
-		<a href="https://www.dso.org.sg/join-us/students-and-undergraduates" class="nommargin"  target="_blank">
-		<img class="nommargin" src="/images/careers/CSIT-sclr2.png"/>
-	</a>
-		<a class="nommargin" href="https://www.csit.gov.sg/internships-scholarships/csit-undergraduate-scholarship"  target="_blank">
-		<img class="nommargin" src="/images/careers/CSIT-sclr3.png"/>
+		<img   src="/images/scholarship-dsta.png"/>
 	</a>
 	</div>
 	<div class="dst-col">
-		 <a class="nommargin" href="https://www.dsta.gov.sg/join-us/student/scholarships-awards"  target="_blank">
-		<img class="nommargin" src="/images/careers/CSIT-sclr1.png"/>
-	</a>
-		<a href="https://www.dso.org.sg/join-us/students-and-undergraduates" class="nommargin"  target="_blank">
-		<img class="nommargin" src="/images/careers/CSIT-sclr2.png"/>
-	</a>
-		<a class="nommargin" href="https://www.csit.gov.sg/internships-scholarships/csit-undergraduate-scholarship"  target="_blank">
-		<img class="nommargin" src="/images/careers/CSIT-sclr3.png"/>
+		<a href="https://www.dso.org.sg/join-us/students-and-undergraduates" class="nommargin" target="_blank">
+		<img src="/images/scholarship-dso.png"/>
 	</a>
 	</div>
 	<div class="dst-col">
-		 <a class="nommargin" href="https://www.dsta.gov.sg/join-us/student/scholarships-awards"  target="_blank">
+		 <a class="nommargin" href="https://www.csit.gov.sg/internships-scholarships/csit-undergraduate-scholarship"  target="_blank">
 		<img class="nommargin" src="/images/careers/CSIT-sclr1.png"/>
 	</a>
-		<a href="https://www.dso.org.sg/join-us/students-and-undergraduates" class="nommargin"  target="_blank">
+		<a href="https://www.csit.gov.sg/internships-scholarships/csit-diploma-scholarship" class="nommargin"  target="_blank">
 		<img class="nommargin" src="/images/careers/CSIT-sclr2.png"/>
 	</a>
-		<a class="nommargin" href="https://www.csit.gov.sg/internships-scholarships/csit-undergraduate-scholarship"  target="_blank">
+		<a class="nommargin" href="https://www.csit.gov.sg/internships-scholarships/csit-computing-scholarship"  target="_blank">
 		<img class="nommargin" src="/images/careers/CSIT-sclr3.png"/>
 	</a>
 	</div>
