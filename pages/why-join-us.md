@@ -14,7 +14,7 @@ permalink: /why-join-us
 	@media only screen and (min-width:768px){
 	.join-benefits img{
 		display:flex;
-	width:49%;
+	width:50%;
 	}
 	}
 
@@ -46,11 +46,17 @@ We provide various opportunities — lateral ones for those eager to expand thei
 	a[target="_blank"]:after{display:none;}
 </style>
 
- 
+<div class="join-benefits">
+<img src="/images/join/CaseA-1.png"/><img src="/images/join/CaseA-2.png" />
+	</div>
+<a target="_blank" href="https://www.dsta.gov.sg/latest-news/spotlight/building-sustainability"><img src="/images/join/CaseA-3.png" style="margin-bottom:1.25rem;"/></a>
 
-<a target="_blank" href="https://www.dsta.gov.sg/latest-news/spotlight/building-sustainability"><img src="images/join/Join_Project1-MRTTHangar-1.jpg" style="margin-bottom:1.25rem;"/></a>
 
-<a target="_blank" href="https://www.dso.org.sg/Media/Default/News/021117-CNA-Cutting-edge%20drones%20and%20unmanned%20vehicles%20to%20boost%20Singapore's%20surveillance%20capabilities.pdf"><img src="images/join/Join_Project2-V15UAV-1.jpg" style="margin-bottom:1.25rem;"/></a>
+<div class="join-benefits">
+<img src="/images/join/CaseB-1.png" />
+<img src="/images/join/CaseB-2.png" />
+	</div>
+<a target="_blank" href="https://www.dso.org.sg/research/robotics"><img src="/images/join/CaseB-3.png" style="margin-bottom:1.25rem;"/></a>
 
 
 <br><br>
