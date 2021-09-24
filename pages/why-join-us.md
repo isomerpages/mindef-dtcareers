@@ -154,4 +154,4 @@ We provide various opportunities — lateral ones for those eager to expand thei
 			</a>
 		</div>
 	</div>
-</div>![Alt text for image on Isomer site](/images/CaseA-3-1.png)
+</div>
