@@ -48,15 +48,16 @@ We provide various opportunities — lateral ones for those eager to expand thei
 
 <div class="join-benefits">
 <img src="/images/join/CaseA-1.png"/><img src="/images/join/CaseA-2.png" />
-<a target="_blank" href="https://www.dsta.gov.sg/latest-news/spotlight/building-sustainability"><img src="/images/CaseA-3-1.png" style="margin-bottom:1.25rem;"/></a></div>
+<a target="_blank" href="https://www.dsta.gov.sg/latest-news/spotlight/building-sustainability"><img src="/images/CaseA-3-1.png"style="margin-bottom:1.25rem; width:382px; height: 75px"/></a></div>
 
-
+<br>
 
 <div class="join-benefits">
 <img src="/images/join/CaseB-1.png" />
 <img src="/images/join/CaseB-2.png" />
+<a target="_blank" href="https://www.dso.org.sg/research/robotics"><img src="/images/join/CaseB-3-2.png" style="margin-bottom:1.25rem; width:382px; height: 75px"/></a>
 	</div>
-<a target="_blank" href="https://www.dso.org.sg/research/robotics"><img src="/images/join/CaseB-3.png" style="margin-bottom:1.25rem; width:382px; height: 75px"/></a>
+
 
 
 <br><br>
