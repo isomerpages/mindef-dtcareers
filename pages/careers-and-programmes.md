@@ -5,6 +5,8 @@ permalink: /careers-and-programmes
 <style>
 	a[target="_blank"]:after,.float-buttons{
 	display:none;}
+	
+	a[target="_blank"]:after{display:none;}
 </style>
 ![Alt text for image on Isomer site](/images/careers/Careers_Banner.jpg)
 <p style="margin-bottom:3rem;">The Defence Science & Technology (DS&T) sector provides multiple openings, streams, and programmes that cater to applicants from a variety of experience levels and backgrounds — from students to mid-career switchers. We strive to provide a rewarding experience for all our employees by aligning their interests with a role and career path that optimises their capabilities, talents and growth.</p>
@@ -62,6 +64,50 @@ permalink: /careers-and-programmes
 		<img src="/images/scholarship-csit.png"/>
 	</a>
 	</div>
+
+<div class="dst-3-col">
+	<style>
+	a[target="_blank"]:after{display:none !important;}
+	.dst-col a{
+		flex-direction:column;
+	}
+	</style>
+	<div class="dst-col">
+		 <a href="https://www.dsta.gov.sg/join-us/student/scholarships-awards" style=" width:100%;" target="_blank">
+		<img src="/images/scholarship-dsta.png"/>
+	</a>
+		<a href="https://www.dso.org.sg/join-us/students-and-undergraduates" style=" width:100%;" target="_blank">
+		<img src="/images/scholarship-dso.png"/>
+	</a>
+		<a href="https://www.csit.gov.sg/internships-scholarships/csit-undergraduate-scholarship" style=" width:100%;" target="_blank">
+		<img src="/images/scholarship-csit.png"/>
+	</a>
+	</div>
+	<div class="dst-col">
+		 <a href="https://www.dsta.gov.sg/join-us/student/scholarships-awards" style="display:flex;width:31%;" target="_blank">
+		<img src="/images/scholarship-dsta.png"/>
+	</a>
+		<a href="https://www.dso.org.sg/join-us/students-and-undergraduates" style="display:flex;width:31%;" target="_blank">
+		<img src="/images/scholarship-dso.png"/>
+	</a>
+		<a href="https://www.csit.gov.sg/internships-scholarships/csit-undergraduate-scholarship" style="display:flex;width:31%;" target="_blank">
+		<img src="/images/scholarship-csit.png"/>
+	</a>
+	</div>
+	<div class="dst-col">
+		 <a href="https://www.dsta.gov.sg/join-us/student/scholarships-awards" style="display:flex;width:31%;" target="_blank">
+		<img src="/images/scholarship-dsta.png"/>
+	</a>
+		<a href="https://www.dso.org.sg/join-us/students-and-undergraduates" style="display:flex;width:31%;" target="_blank">
+		<img src="/images/scholarship-dso.png"/>
+	</a>
+		<a href="https://www.csit.gov.sg/internships-scholarships/csit-undergraduate-scholarship" style="display:flex;width:31%;" target="_blank">
+		<img src="/images/scholarship-csit.png"/>
+	</a>
+	</div>
+</div>
+
+
 <br><br>
 <hr>
 
@@ -109,6 +155,7 @@ permalink: /careers-and-programmes
 	.social > a{
 	margin:0 8px 0 0;
 	}
+}
 	
 </style>
 
