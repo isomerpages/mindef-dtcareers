@@ -13,7 +13,7 @@ permalink: /why-join-us
 	@media only screen and (min-width:768px){
 	.join-benefits img{
 		display:flex;
-	width:50%;
+	width:49%;
 	}
 	}
 
@@ -25,11 +25,11 @@ permalink: /why-join-us
 	}
 	
 </style>
-![Alt text for image on Isomer site](/images/join/Join_Banner.png)
+<img src="/images/join/Join_Banner.png" />
 <p style="">Our work in national security and defence has led to groundbreaking technological solutions that continue to shape Singapore’s progress, diplomacy, and the lives of our people. Be a part of the bigger picture through our agencies. This is where you’ll  get to cultivate your intellectual curiosity to tackle evolving challenges on a national scale. Contribute and create a lasting, positive impact on future generations. As you do so, you’ll also be provided opportunities for growth and the support to transform your boldest ideas into reality.</p>
 <div class="join-benefits">
 <img src="/images/join/join-benefits-1.png" />
-<img src="/images/join/join-benefits-2.png"  />
+<img src="/images/join/join-benefits-2.png" />
 	</div>
 <h4 style="font-weight:bold;margin-top:2rem;">Opportunities Within and Beyond The DS&T Sector</h4>
 <img src="images/join/Join_CollaborativeNetwork.png"/>
@@ -46,11 +46,18 @@ We provide various opportunities — lateral ones for those eager to expand thei
 </style>
 
 <div class="join-benefits">
-<img src="/images/join/Innovations_DSO-a-1.jpg" />
-<a target="_blank" href="https://www.dsta.gov.sg/latest-news/spotlight/building-sustainability"><img src="/images/join/Innovations_DSO-b-1.jpg"  /></a>
+<img src="/images/join/Innovations_DSTA-a-1.jpg" />
+<a target="_blank" href="https://www.dsta.gov.sg/latest-news/spotlight/building-sustainability"><img src="/images/join/Innovations_DSTA-b-1.jpg"  /></a>
 	</div>
 
-<a target="_blank" href="https://www.dsta.gov.sg/latest-news/spotlight/building-sustainability"><img src="images/join/Join_Project1-MRTTHangar-1.jpg" style="margin-bottom:1.25rem;"/></a>
+
+<div class="join-benefits">
+<img src="/images/join/Innovations_DSO-a-1.jpg" />
+<a target="_blank" href="https://www.dso.org.sg/Media/Default/News/021117-CNA-Cutting-edge%20drones%20and%20unmanned%20vehicles%20to%20boost%20Singapore's%20surveillance%20capabilities.pdf"><img src="/images/join/Innovations_DSO-b-1.jpg"  /></a>
+	</div>
+
+
+<a target="_blank" href="https://www.dso.org.sg/Media/Default/News/021117-CNA-Cutting-edge%20drones%20and%20unmanned%20vehicles%20to%20boost%20Singapore's%20surveillance%20capabilities.pdf"><img src="images/join/Join_Project1-MRTTHangar-1.jpg" style="margin-bottom:1.25rem;"/></a>
 
 <a target="_blank" href="https://www.dso.org.sg/Media/Default/News/021117-CNA-Cutting-edge%20drones%20and%20unmanned%20vehicles%20to%20boost%20Singapore's%20surveillance%20capabilities.pdf"><img src="images/join/Join_Project2-V15UAV-1.jpg" style="margin-bottom:1.25rem;"/></a>
 
