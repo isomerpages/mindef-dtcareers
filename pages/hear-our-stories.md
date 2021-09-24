@@ -13,7 +13,7 @@ permalink: /hear-our-stories
 	@media only screen and (min-width:768px){
 	.split img{
 		display:flex;
-	width:49%;
+	width:50%;
 	}
 	}
 
@@ -24,6 +24,9 @@ permalink: /hear-our-stories
 	}
 	}
 	
+</style>
+<style>
+	a[target="_blank"]:after{display:none;}
 </style>
 
 
