@@ -26,7 +26,7 @@ permalink: /why-join-us
 	}
 	
 </style>
-<img src="/images/join/Join_Banner.png" />
+<img src="/images/join/banner1.png" />
 <p style="">Our work in national security and defence has led to groundbreaking technological solutions that continue to shape Singapore’s progress, diplomacy, and the lives of our people. Be a part of the bigger picture through our agencies. This is where you’ll  get to cultivate your intellectual curiosity to tackle evolving challenges on a national scale. Contribute and create a lasting, positive impact on future generations. As you do so, you’ll also be provided opportunities for growth and the support to transform your boldest ideas into reality.</p>
 <div class="join-benefits">
 <img src="/images/join/join-benefits-1.png" />
