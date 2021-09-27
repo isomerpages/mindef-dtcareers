@@ -33,12 +33,12 @@ contacts:
     title: CSIT
   - content:
       - phone: +65 6776 2255
-      - email: contact_us@dso.org.sg
+      - email: recruitment@dso.org.sg
       - other: ""
     title: DSO
   - content:
       - phone: +65 6819 5333
-      - email: feedback@dsta.gov.sg
+      - email: hrjobs@dsta.gov.sg
       - other: ""
     title: DSTA
 ---
