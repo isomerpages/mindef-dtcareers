@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: DEFENCE SCIENCE & TECHNOLOGY
+agency_name: the agencies in the Defence Science and Technology sector
 locations:
   - address:
       - CSIT Building, Science Park 2
@@ -21,8 +21,24 @@ locations:
   - address:
       - "1 Depot Road "
       - Singapore 109679
-      - ""
+      - feedback@dsta.gov.sg
     operating_hours: []
     maps_link: https://goo.gl/maps/jsF9QMBxFFiAros8A
+    title: DSTA
+contacts:
+  - content:
+      - phone: +65 6412 7218
+      - email: hr@csit.gov.sg
+      - other: ""
+    title: CSIT
+  - content:
+      - phone: +65 6776 2255
+      - email: contact_us@dso.org.sg
+      - other: ""
+    title: DSO
+  - content:
+      - phone: +65 6819 5333
+      - email: feedback@dsta.gov.sg
+      - other: ""
     title: DSTA
 ---
