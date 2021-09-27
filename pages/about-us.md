@@ -25,7 +25,7 @@ biochemical attacks.
 <br><br>
 <hr>
 
-<h4  style="font-weight:bold;margin-top:2rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h4>
+<h4  style="font-weight:bold;margin-top:2rem;color:#0C1926;">FIND OUT MORE ABOUT OUR LEADING AGENCIES</h4>
 
 <style>
 	.dst-3-col{display:flex;justify-content:space-between;}
