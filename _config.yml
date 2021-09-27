@@ -53,3 +53,4 @@ plugins:
 staging: https://mindef-stem-staging.netlify.app
 prod: https://mindef-stem-prod.netlify.app
 is_government: true
+shareicon: /images/Page%20Logo.png
