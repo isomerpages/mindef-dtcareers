@@ -24,7 +24,7 @@ permalink: /careers-and-programmes
 	</a>
 	</div>
 	<div class="dst-col">
-		<a class="nommargin" href="https://careers.dso.org.sg/career-openings/index.htm"  target="_blank">
+		<a class="nommargin" href="https://careers.dso.org.sg/career-openings/index.html"  target="_blank">
 		<img class="nommargin" src="/images/position-dso.png"/>
 	</a>
 	</div>
