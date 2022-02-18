@@ -25,8 +25,8 @@ c.	For your convenience, we may also display to you data you had previously supp
 6. This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites. 
 
 *Contact Information*
-7. Please contact us at [1800-3676767](tel:18003676767) (from Singapore) or [+65 6567 6767](tel:+6565676767) (from overseas) if you: 
-a. Have any enquiries or feedback on our data protection policies and procedures or, 
+7. Please contact us at [1800-3676767](tel:18003676767) (from Singapore) or [+65 6567 6767](tel:+6565676767) (from overseas) if you: <br>
+a. Have any enquiries or feedback on our data protection policies and procedures or, <br>
 b. Need more information on or access to data which you have provided to us in the past. 
 
 *Definitions* 
