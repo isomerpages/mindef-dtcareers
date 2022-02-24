@@ -90,6 +90,11 @@ description: ""
 	</div>
 </div>
 
+<div class="d-flex flex-column">
+	<img src="/images/1_prizeImage_1_01.jpg" class="col-6"/>
+	<img src="/images/1_prizeImage_1_02.jpg" class="col-6"/>
+</div>
+
 
 
 
