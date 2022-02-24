@@ -35,7 +35,7 @@ description: ""
 	}
 	
 </style>
-	<div class="display-flex">
+<div class="display_-">
 	<img src="/images/pageBanner_1_01.jpg" class="col-2"/>
 	<img src="/images/pageBanner_1_02.jpg" class="col-2"/>
 </div>
