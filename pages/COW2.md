@@ -105,15 +105,26 @@ description: ""
 </div>
 
 <div class="d-flex flex-column mt-40">
-	<img src="/images/1_prizeImage_1_01.jpg" class="col-6"/>
-	<img src="/images/1_prizeImage_1_02.jpg" class="col-6"/>
+	<img src="/images/2_prizeImage_1_01.jpg" class="col-6"/>
+	<img src="/images/2_prizeImage_1_02.jpg" class="col-6"/>
 </div>
 
-<p class="challenge-text">One lucky winner will win a <b>Google Nest Mini</b> and a <b>Steelseries Arctis Pro</b> wireless headset worth <b>$669</b> in total.
+<p class="challenge-text">One lucky winner will win a <b>DJI Mini 2 Drone</b> and a <b>Professional 3D Printing Pen</b> worth <b>$688</b> in total.
 
 We are also giving away a LinkedIn E-certiﬁcate and $10 Grab Voucher for correct submissions to the challenges.
 
 Look out for our email to see if you have scored yourself some prizes.
+</p>
+
+<h4 class="mt-40">
+	In Case You Missed It
+</h4>
+
+<p class="challenge-text">
+Got an appetite for more tech? Have a go at our previous challenges and geek out over how our latest defence innovations and solutions are engineered.
+<br><br>
+Try them out below!
+	
 </p>
 
 <h4 class="mt-40">
