@@ -8,12 +8,11 @@ description: ""
 	display:none;}
 	
 
-	.join-benefits{
+	.join-benefits,.d-flex{
 	display:flex;
 	}
 	
-.display-flex{
-	display:flex;}	
+
 	@media only screen and (min-width:768px){
 	
 	.col-2{
@@ -35,7 +34,7 @@ description: ""
 	}
 	
 </style>
-<div class="display_-">
+<div class="d-flex">
 	<img src="/images/pageBanner_1_01.jpg" class="col-2"/>
 	<img src="/images/pageBanner_1_02.jpg" class="col-2"/>
 </div>
