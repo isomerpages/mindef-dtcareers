@@ -78,7 +78,7 @@ description: ""
 <img src="/images/1_titleChallenge_01.jpg" class="mt-60"/>
 
 <div class="d-flex flex-column mt-40">
-	<div class='embed-container col-8 mr-16'><iframe src='https://www.youtube.com/embed/NzWd8bCxxBU' frameborder='0' allowfullscreen></iframe>
+	<div class="embed-container col-8 mr-16"><iframe src='https://www.youtube.com/embed/NzWd8bCxxBU' frameborder='0' allowfullscreen></iframe>
 	</div>
 	
 	<div class="col-4 self-center">
