@@ -22,6 +22,10 @@ description: ""
 	
 		.mt-40{
 	margin-top:40px;}
+	
+	.cta-text{
+	font-size:12px;
+	line-height:1;}
 
 
 	@media only screen and (min-width:768px){
@@ -59,6 +63,8 @@ description: ""
 	.mt-sm-12{
 	margin-top:12px;}
 	}
+	
+	
 	
 </style>
 <div class="d-flex flex-column">
