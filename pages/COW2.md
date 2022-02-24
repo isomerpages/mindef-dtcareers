@@ -127,7 +127,7 @@ Try them out below!
 	
 </p>
 
-<div class="d-flex flex-column mt-60">
+<div class="d-flex flex-column mt-40">
 	<a href="#" target="_blank" class="mr-16">
 		<img src="/images/pastChallenge1.jpg" class=""/>
 	</a>
