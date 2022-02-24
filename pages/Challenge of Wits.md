@@ -25,7 +25,7 @@ description: ""
 	
 	.cta-text{
 	font-size:12px;
-	line-height:1;}
+	line-height:1.2;}
 	
 	.self-center{
 	align-self:center;}
