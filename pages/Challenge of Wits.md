@@ -27,6 +27,10 @@ description: ""
 	font-size:0.8rem;
 	line-height:1.3}
 	
+	p.challenge-text{
+		font-size:1rem;
+	line-height:1.3}
+	
 	.self-center{
 	align-self:center;}
 
@@ -95,7 +99,7 @@ description: ""
 	<img src="/images/1_prizeImage_1_02.jpg" class="col-6"/>
 </div>
 
-<p class="cta-text">One lucky winner will win a <b>Google Nest Mini</b> and a <b>Steelseries Arctis Pro</b> wireless headset worth <b>$669</b> in total.
+<p class="challenge-text">One lucky winner will win a <b>Google Nest Mini</b> and a <b>Steelseries Arctis Pro</b> wireless headset worth <b>$669</b> in total.
 
 We are also giving away a LinkedIn E-certiﬁcate and $10 Grab Voucher for correct submissions to the challenges.
 
@@ -105,9 +109,9 @@ Look out for our email to see if you have scored yourself some prizes.
 <h4>
 	Still Have Questions About Our Challenge?
 </h4>
-
+<p class="challenge-text">
 Check out our <a href="https://mindef-stem-staging.netlify.app/challenge-of-wits" target="_blank">Terms & Conditions and Frequently Asked Questions.</a> For any other enquiries, you can contact us at <a href="mailto:DTC@mindef.gov.sg">DTC@mindef.gov.sg</a>.
-
+</p>
 
 <h4  style="font-weight:bold;margin-top:2rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h4>
 
