@@ -134,12 +134,10 @@ Try them out below!
 </p>
 
 <div class="d-flex flex-column mt-20">
-	<a href="#" target="_blank" class="mr-16">
+	<a href="#" target="_blank" class="col-6">
 		<img src="/images/pastChallenge1.jpg" class=""/>
 	</a>
-	<a href="#" target="_blank">
-	<img src="/images/pastChallenge2.jpg" class=""/>
-	</a>
+	
 </div>
 
 <h4 class="mt-20">
