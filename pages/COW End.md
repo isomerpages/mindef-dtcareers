@@ -86,35 +86,8 @@ description: ""
 	
 
 
-
-<div class="d-flex flex-column mt-40">
-	<div class="embed-container col-8 mr-16"><iframe src='https://www.youtube.com/embed/NzWd8bCxxBU' frameborder='0' allowfullscreen></iframe>
-	</div>
-	
-	<div class="col-4 self-center">
-	<p class="cta-text mt-sm-12">
-		Navigation is a crucial element for success in the battleﬁeld, especially with unmanned systems. Fancy yourself an expert in mapping coordinates? Showcase your brilliance in this challenge.
-		<br><br>
-	
-
-		Download the challenge materials <a href="https://mindef-stem-staging.netlify.app/challenge-of-wits" target="_blank">here</a>.
-
-		</p>
-	<a href="https://form.gov.sg/#!/61625264a8ffec00132447fb" target="_blank"><img src="/images/buttonSubmit.png" class="mt-60"/>
-		</a>
-	</div>
-</div>
-
-<div class="d-flex flex-column mt-40">
-	<img src="/images/2_prizeImage_1_01.jpg" class="col-6"/>
-	<img src="/images/2_prizeImage_1_02.jpg" class="col-6"/>
-</div>
-
-<p class="challenge-text">One lucky winner will win a <b>DJI Mini 2 Drone</b> and a <b>Professional 3D Printing Pen</b> worth <b>$688</b> in total.
-
-We are also giving away a LinkedIn E-certiﬁcate and $10 Grab Voucher for correct submissions to the challenges.
-
-Look out for our email to see if you have scored yourself some prizes.
+<p class="challenge-text">
+	Well done to all <a href="#" target="_blank">winners</a> and participants, you have proven your mettle! Follow us on social media for more exciting content up ahead. Who knows what other fun activities we have in store for you in the future?
 </p>
 
 <h4 class="mt-40">
