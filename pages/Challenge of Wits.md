@@ -108,13 +108,13 @@ We are also giving away a LinkedIn E-certiﬁcate and $10 Grab Voucher for corre
 Look out for our email to see if you have scored yourself some prizes.
 </p>
 
-<h2>
+<h4>
 	Still Have Questions About Our Challenge?
-</h2>
+</h4>
 
-<p>
+
 	Check out our <a href="https://mindef-stem-staging.netlify.app/challenge-of-wits" target="_blank">Terms & Conditions and Frequently Asked Questions. For any other enquiries, you can contact us at <a href="mailto:DTC@mindef.gov.sg">DTC@mindef.gov.sg</a>.
-</p>
+
 
 <h4  style="font-weight:bold;margin-top:2rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h4>
 
