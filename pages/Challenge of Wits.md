@@ -26,6 +26,9 @@ description: ""
 	.cta-text{
 	font-size:12px;
 	line-height:1;}
+	
+	.self-center{
+	align-self:center;}
 
 
 	@media only screen and (min-width:768px){
@@ -78,7 +81,7 @@ description: ""
 	<div class='embed-container col-8 mr-16 mt-sm-12'><iframe src='https://www.youtube.com/embed/NzWd8bCxxBU' frameborder='0' allowfullscreen></iframe>
 	</div>
 	
-	<div class="col-4">
+	<div class="col-4 self-center">
 	<p class="cta-text">
 		Virtual reality adds a whole slew of possibilities for immersive mission scenarios in training. Can you make defence tech solutions a reality with some mathematical computations? Showcase your brilliance in this challenge.
 		</p>
