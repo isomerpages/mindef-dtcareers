@@ -19,6 +19,9 @@ description: ""
 	
 	.mt-60{
 	margin-top:60px;}
+	
+		.mt-40{
+	margin-top:40px;}
 
 	@media only screen and (min-width:768px){
 	
@@ -58,11 +61,14 @@ description: ""
 
 <img src="/images/1_titleChallenge_01.jpg" class="mt-60"/>
 
-<div class="d-flex flex-column mt-60">
+<div class="d-flex flex-column mt-40">
 	<div class='embed-container col-8'><iframe src='https://www.youtube.com/embed/NzWd8bCxxBU' frameborder='0' allowfullscreen></iframe>
 	</div>
 	
-	<img src="/images/pageBanner_1_02.jpg" class="col-4"/>
+	<div class="col-4">
+	
+	Virtual reality adds a whole slew
+of possibili</div>
 </div>
 
 
