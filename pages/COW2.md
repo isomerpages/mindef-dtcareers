@@ -139,7 +139,7 @@ Try them out below!
 	</a>
 </div>
 
-<h4 class="mt-40">
+<h4 class="mt-20">
 	Still Have Questions About Our Challenge?
 </h4>
 <p class="challenge-text">
