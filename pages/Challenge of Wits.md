@@ -23,7 +23,11 @@ description: ""
 		.mt-40{
 	margin-top:40px;}
 
+
 	@media only screen and (min-width:768px){
+	
+	.pr-16{
+	padding-right:16px;}
 	
 	.col-6{
 	width:50%!important;
@@ -62,7 +66,7 @@ description: ""
 <img src="/images/1_titleChallenge_01.jpg" class="mt-60"/>
 
 <div class="d-flex flex-column mt-40">
-	<div class='embed-container col-8'><iframe src='https://www.youtube.com/embed/NzWd8bCxxBU' frameborder='0' allowfullscreen></iframe>
+	<div class='embed-container col-8 pr-16'><iframe src='https://www.youtube.com/embed/NzWd8bCxxBU' frameborder='0' allowfullscreen></iframe>
 	</div>
 	
 	<div class="col-4">
