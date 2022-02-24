@@ -24,7 +24,7 @@ description: ""
 	margin-top:40px;}
 	
 	p.cta-text{
-	font-size:12px;
+	font-size:1.33rem;
 	line-height:1.3}
 	
 	.self-center{
