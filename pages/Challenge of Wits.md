@@ -13,7 +13,7 @@ description: ""
 	}
 	
 	.col-2{
-	display:flex;}
+	display:flex!important;}
 	
 	.mt-60{
 	margin-top:60px;}
