@@ -16,7 +16,7 @@ description: ""
 	@media only screen and (min-width:768px){
 	
 	.col-2{
-	width:50%
+	width:50%;
 	display:flex;
 	}
 	
