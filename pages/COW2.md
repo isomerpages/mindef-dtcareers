@@ -18,13 +18,16 @@ description: ""
 	}
 	
 	.mt-60{
-	margin-top:60px;}
+	margin-top:60px!important;}
 	
 		.mt-40{
-	margin-top:40px;}
+	margin-top:40px!important;}
 	
 			.mt-20{
-	margin-top:20px;}
+	margin-top:20px!important;}
+	
+				.mt-0{
+	margin-top:0px!important;}
 	
 	p.cta-text{
 	font-size:0.8rem;
