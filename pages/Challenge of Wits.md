@@ -12,6 +12,8 @@ description: ""
 	display:flex;
 	}
 	
+
+	
 	.col-2{
 	display:flex!important;}
 	
@@ -31,7 +33,7 @@ description: ""
 	}
 
 	@media only screen and (max-width:767px){
-	.join-benefits{
+	.join-benefits,.flex-column{
 	flex-direction:column;
 
 	}
