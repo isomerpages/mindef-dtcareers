@@ -26,6 +26,9 @@ description: ""
 			.mt-20{
 	margin-top:20px;}
 	
+				.mt-0{
+	margin-top:0px;}
+	
 	p.cta-text{
 	font-size:0.8rem;
 	line-height:1.3}
@@ -109,7 +112,7 @@ Revisit The Challenges and See How You Match Up Against Other Next-Gen Minds</h4
 	</a>
 </div>
 
-<h4 class="mt-20">
+<h4 class="mt-0">
 	Still Have Questions About Our Challenge?
 </h4>
 <p class="challenge-text">
