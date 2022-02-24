@@ -23,7 +23,7 @@ description: ""
 		.mt-40{
 	margin-top:40px;}
 	
-	.cta-text{
+	p.cta-text{
 	font-size:12px;
 	line-height:1.2;}
 	
