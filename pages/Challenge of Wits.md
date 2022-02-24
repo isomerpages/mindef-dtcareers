@@ -24,7 +24,7 @@ description: ""
 	margin-top:40px;}
 	
 	p.cta-text{
-	font-size:1.33rem;
+	font-size:1rem;
 	line-height:1.3}
 	
 	.self-center{
@@ -95,13 +95,7 @@ description: ""
 	<img src="/images/1_prizeImage_1_02.jpg" class="col-6"/>
 </div>
 
-
-
-
-
-
-
-<p style="">One lucky winner will win a **Google Nest Mini** and a **Steelseries Arctis Pro** wireless headset worth **$669** in total.
+<p class="cta-text">One lucky winner will win a <b>Google Nest Mini</b> and a <b>Steelseries Arctis Pro</b> wireless headset worth <b>$669</b> in total.
 
 We are also giving away a LinkedIn E-certiﬁcate and $10 Grab Voucher for correct submissions to the challenges.
 
