@@ -78,11 +78,11 @@ description: ""
 <img src="/images/1_titleChallenge_01.jpg" class="mt-60"/>
 
 <div class="d-flex flex-column mt-40">
-	<div class='embed-container col-8 mr-16 mt-sm-12'><iframe src='https://www.youtube.com/embed/NzWd8bCxxBU' frameborder='0' allowfullscreen></iframe>
+	<div class='embed-container col-8 mr-16'><iframe src='https://www.youtube.com/embed/NzWd8bCxxBU' frameborder='0' allowfullscreen></iframe>
 	</div>
 	
 	<div class="col-4 self-center">
-	<p class="cta-text">
+	<p class="cta-text mt-sm-12">
 		Virtual reality adds a whole slew of possibilities for immersive mission scenarios in training. Can you make defence tech solutions a reality with some mathematical computations? Showcase your brilliance in this challenge.
 		</p>
 	<a href="https://form.gov.sg/#!/61625264a8ffec00132447fb" target="_blank"><img src="/images/buttonSubmit.png" class="mt-60"/>
