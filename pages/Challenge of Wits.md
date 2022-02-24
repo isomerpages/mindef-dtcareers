@@ -26,8 +26,8 @@ description: ""
 
 	@media only screen and (min-width:768px){
 	
-	.pr-16{
-	padding-right:16px;}
+	.mr-16{
+	margin-right:16px;}
 	
 	.col-6{
 	width:50%!important;
