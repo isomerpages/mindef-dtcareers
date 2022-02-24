@@ -79,7 +79,12 @@ description: ""
 	<img src="/images/pageBanner_1_02.jpg" class="col-6"/>
 </div>
 
-<img src="/images/1_titleChallenge_01.jpg" class="mt-60"/>
+
+<div class="d-flex flex-column mt-60">
+	<img src="/images/1_titleChallenge_01.jpg" class="col-6"/>
+	<img src="/images/1_titleChallenge_02.jpg" class="col-6"/>
+</div>
+
 
 <div class="d-flex flex-column mt-40">
 	<div class="embed-container col-8 mr-16"><iframe src='https://www.youtube.com/embed/NzWd8bCxxBU' frameborder='0' allowfullscreen></iframe>
