@@ -96,10 +96,10 @@ Revisit The Challenges and See How You Match Up Against Other Next-Gen Minds</h4
 
 <div class="d-flex flex-column mt-20">
 	<a href="#" target="_blank" class="mr-16">
-		<img src="/images/pastChallenge1.jpg" class=""/>
+		<img src="/images/pastChallenge1.jpg" />
 	</a>
 	<a href="#" target="_blank">
-	<img src="/images/pastChallenge2.jpg" class=""/>
+	<img src="/images/pastChallenge2.jpg" />
 	</a>
 </div>
 
