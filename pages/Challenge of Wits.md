@@ -4,6 +4,11 @@ permalink: /challenge-of-wits
 description: ""
 ---
 <style>
+	
+	.embed-container 
+	{ position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } 
+	.embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+	
 	a[target="_blank"]:after,.float-buttons{
 	display:none;}
 	
@@ -54,9 +59,10 @@ description: ""
 <img src="/images/1_titleChallenge_01.jpg" class="mt-60"/>
 
 <div class="d-flex">
-	<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/NzWd8bCxxBU' frameborder='0' allowfullscreen></iframe></div>
+	<div class='embed-container col-8'><iframe src='https://www.youtube.com/embed/NzWd8bCxxBU' frameborder='0' allowfullscreen></iframe>
+	</div>
 	
-	<img src="/images/pageBanner_1_02.jpg" class="col-2"/>
+	<img src="/images/pageBanner_1_02.jpg" class="col-4"/>
 </div>
 
 
