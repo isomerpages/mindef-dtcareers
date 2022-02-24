@@ -12,12 +12,14 @@ description: ""
 	display:flex;
 	}
 	
+	.col-2{
+	display:flex;}
 
 	@media only screen and (min-width:768px){
 	
 	.col-2{
 	width:50%!important;
-	display:flex;
+	
 	}
 	
 	.join-benefits img{
