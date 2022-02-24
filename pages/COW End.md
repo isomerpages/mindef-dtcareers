@@ -83,23 +83,13 @@ description: ""
 </div>
 
 <img src="/images/titleChallenge_completed.jpg" class="mt-20"/>
-	
-
 
 <p class="challenge-text">
 	Well done to all <a href="#" target="_blank">winners</a> and participants, you have proven your mettle! Follow us on social media for more exciting content up ahead. Who knows what other fun activities we have in store for you in the future?
 </p>
 
 <h4 class="mt-40">
-	In Case You Missed It
-</h4>
-
-<p class="challenge-text">
-Got an appetite for more tech? Have a go at our previous challenges and geek out over how our latest defence innovations and solutions are engineered.
-<br><br>
-Try them out below!
-	
-</p>
+Revisit The Challenges and See How You Match Up Against Other Next-Gen Minds</h4>
 
 <div class="d-flex flex-column mt-20">
 	<a href="#" target="_blank" class="mr-16">
@@ -107,6 +97,12 @@ Try them out below!
 	</a>
 	<a href="#" target="_blank">
 	<img src="/images/pastChallenge2.jpg" class=""/>
+	</a>
+		<a href="#" target="_blank">
+	<img src="/images/pastChallenge3.jpg" class=""/>
+	</a>
+		<a href="#" target="_blank">
+	<img src="/images/pastChallenge4.jpg" class=""/>
 	</a>
 </div>
 
