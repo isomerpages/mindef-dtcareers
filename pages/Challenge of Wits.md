@@ -106,8 +106,7 @@ Look out for our email to see if you have scored yourself some prizes.
 	Still Have Questions About Our Challenge?
 </h4>
 
-
-	Check out our <a href="https://mindef-stem-staging.netlify.app/challenge-of-wits" target="_blank">Terms & Conditions and Frequently Asked Questions.</a> For any other enquiries, you can contact us at <a href="mailto:DTC@mindef.gov.sg">DTC@mindef.gov.sg</a>.
+Check out our <a href="https://mindef-stem-staging.netlify.app/challenge-of-wits" target="_blank">Terms & Conditions and Frequently Asked Questions.</a> For any other enquiries, you can contact us at <a href="mailto:DTC@mindef.gov.sg">DTC@mindef.gov.sg</a>.
 
 
 <h4  style="font-weight:bold;margin-top:2rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h4>
