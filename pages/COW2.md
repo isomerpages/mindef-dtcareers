@@ -23,6 +23,9 @@ description: ""
 		.mt-40{
 	margin-top:40px;}
 	
+			.mt-20{
+	margin-top:20px;}
+	
 	p.cta-text{
 	font-size:0.8rem;
 	line-height:1.3}
@@ -127,7 +130,7 @@ Try them out below!
 	
 </p>
 
-<div class="d-flex flex-column mt-40">
+<div class="d-flex flex-column mt-20">
 	<a href="#" target="_blank" class="mr-16">
 		<img src="/images/pastChallenge1.jpg" class=""/>
 	</a>
