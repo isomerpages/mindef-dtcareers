@@ -6,7 +6,7 @@ description: ""
 <style>
 	
 	.embed-container 
-	{ position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } 
+	{ position: relative; padding-bottom: 37.5%; height: 0; overflow: hidden; max-width: 100%; } 
 	.embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 	
 	a[target="_blank"]:after,.float-buttons{
