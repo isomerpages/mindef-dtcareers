@@ -127,6 +127,11 @@ Try them out below!
 	
 </p>
 
+<div class="d-flex flex-column mt-60">
+	<img src="/images/pastChallenge1.jpg" class="col-6 mr-16"/>
+	<img src="/images/pastChallenge2.jpg" class="col-6"/>
+</div>
+
 <h4 class="mt-40">
 	Still Have Questions About Our Challenge?
 </h4>
