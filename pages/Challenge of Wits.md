@@ -14,12 +14,14 @@ description: ""
 	
 	.col-2{
 	display:flex;}
+	
+	.mt-60{
+	margin-top:60px;}
 
 	@media only screen and (min-width:768px){
 	
 	.col-2{
 	width:50%!important;
-	
 	}
 	
 	.join-benefits img{
@@ -40,6 +42,9 @@ description: ""
 	<img src="/images/pageBanner_1_01.jpg" class="col-2"/>
 	<img src="/images/pageBanner_1_02.jpg" class="col-2"/>
 </div>
+
+<img src="/images/1_titleChallenge_01.jpg" class="mt-60"/>
+
 
 <p style="">Our work in national security and defence has led to groundbreaking technological solutions that continue to shape Singapore’s progress, diplomacy, and the lives of our people. Be a part of the bigger picture through our agencies. This is where you’ll  get to cultivate your intellectual curiosity to tackle evolving challenges on a national scale. Contribute and create a lasting, positive impact on future generations. As you do so, you’ll also be provided opportunities for growth and the support to transform your boldest ideas into reality.</p>
 <div class="join-benefits">
