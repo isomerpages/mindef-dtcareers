@@ -58,7 +58,7 @@ description: ""
 
 <img src="/images/1_titleChallenge_01.jpg" class="mt-60"/>
 
-<div class="d-flex">
+<div class="d-flex mt-60">
 	<div class='embed-container col-8'><iframe src='https://www.youtube.com/embed/NzWd8bCxxBU' frameborder='0' allowfullscreen></iframe>
 	</div>
 	
