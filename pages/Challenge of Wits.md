@@ -106,7 +106,7 @@ We are also giving away a LinkedIn E-certiﬁcate and $10 Grab Voucher for corre
 Look out for our email to see if you have scored yourself some prizes.
 </p>
 
-<h4>
+<h4 class="mt-40">
 	Still Have Questions About Our Challenge?
 </h4>
 <p class="challenge-text">
