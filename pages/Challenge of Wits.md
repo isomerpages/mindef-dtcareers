@@ -97,7 +97,8 @@ description: ""
 	
 	<div class="col-4 self-center">
 	<p class="cta-text mt-sm-12">
-		Navigation is a crucial element for success in the battleﬁeld, especially with unmanned systems. Fancy yourself an expert in mapping coordinates? Showcase your brilliance in this challenge.
+Virtual reality adds a whole slew of possibilities for immersive mission scenarios in training. Can you make defence tech solutions a reality with some mathematical computations? Showcase your brilliance in this challenge
+
 		<br><br>
 	
 
