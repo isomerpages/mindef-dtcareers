@@ -102,7 +102,7 @@ description: ""
 	<div class="embed-container col-8 mr-16"><iframe src='https://www.youtube.com/embed/NzWd8bCxxBU' frameborder='0' allowfullscreen></iframe>
 	</div>
 	
-	<div class="col-4 self-center">
+	<div class="col-4">
 	<p class="cta-text mt-sm-12 mt-8">
 		Navigation is a crucial element for success in the battleﬁeld, especially with unmanned systems. Fancy yourself an expert in mapping coordinates? Showcase your brilliance in this challenge.
 		<br><br>
