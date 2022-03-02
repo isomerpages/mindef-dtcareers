@@ -3,8 +3,6 @@ title: CHALLENGE OF WITS END
 permalink: /cow-end
 description: ""
 ---
-
-
 <style>
 	
 	.embed-container 
@@ -41,6 +39,10 @@ description: ""
 	
 	.self-center{
 	align-self:center;}
+	
+		.bold{
+	font-weight:bold;
+	}
 
 
 	@media only screen and (min-width:768px){
@@ -93,7 +95,7 @@ description: ""
 	Well done to all <a href="#" target="_blank">winners</a> and participants, you have proven your mettle! Follow us on social media for more exciting content up ahead. Who knows what other fun activities we have in store for you in the future?
 </p>
 
-<h4 class="mt-40">
+<h4 class="mt-40 bold">
 Revisit The Challenges and See How You Match Up Against Other Next-Gen Minds</h4>
 
 <div class="d-flex flex-column mt-20">
@@ -114,7 +116,7 @@ Revisit The Challenges and See How You Match Up Against Other Next-Gen Minds</h4
 	</a>
 </div>
 
-<h4 class="mt-0">
+<h4 class="mt-0 bold">
 	Still Have Questions About Our Challenge?
 </h4>
 <p class="challenge-text">
