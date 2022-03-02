@@ -105,8 +105,7 @@ description: ""
 	
 	<div class="col-4 self-center">
 	<p class="cta-text mt-sm-12">
-Virtual reality adds a whole slew of possibilities for immersive mission scenarios in training. Can you make defence tech solutions a reality with some mathematical computations? Showcase your brilliance in this challenge,
-
+Virtual reality adds a whole slew of possibilities for immersive mission scenarios in training. Can you make defence tech solutions a reality with some mathematical computations? Showcase your brilliance in this challenge.
 
 		</p>
 	<a href="https://form.gov.sg/621dd28083d7800014a24378" target="_blank"><img src="/images/buttonSubmit.png" class="mt-20"/>
