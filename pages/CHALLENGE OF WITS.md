@@ -16,6 +16,9 @@ description: ""
 	.join-benefits,.d-flex{
 	display:flex!important;
 	}
+	
+	.bold{
+	font-weight:bold;}
 		.mt-60{
 	margin-top:60px!important;}
 	
