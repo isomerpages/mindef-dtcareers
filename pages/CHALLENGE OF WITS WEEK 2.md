@@ -3,7 +3,6 @@ title: CHALLENGE OF WITS WEEK 2
 permalink: /cow-2
 description: ""
 ---
-
 <style>
 	
 	.embed-container 
@@ -26,6 +25,10 @@ description: ""
 	
 			.mt-20{
 	margin-top:20px!important;}
+	
+	.mt-8{
+	margin-top:8px!important;}
+	
 	
 				.mt-0{
 	margin-top:0px!important;}
