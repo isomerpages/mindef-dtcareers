@@ -3,7 +3,7 @@ title: TERMS & CONDITIONS AND FREQUENTLY ASKED QUESTIONS
 permalink: /TERMS-CONDITIONS-AND-FREQUENTLY-ASKED-QUESTIONS
 description: ""
 ---
-**Terms and Conditions**
+**Terms & Conditions**
 1.	The Challenge of Wits (“Challenge”) will be governed by these terms and conditions, and accompanying FAQs (collectively the “Terms”). 
 2.	Each entrant agrees that he/she has read and understood this document and by their participation in the Challenge, each entrant agrees to be bound by the Terms.
 3.	The Organiser of this Challenge is MINDEF.
