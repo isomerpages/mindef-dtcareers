@@ -98,7 +98,9 @@ description: ""
 
 
 <div class="d-flex flex-column mt-40">
-	<div class="embed-container col-8 mr-16"><iframe src='https://www.youtube.com/embed/NzWd8bCxxBU' frameborder='0' allowfullscreen></iframe>
+	<div class="col-8 mr-16">
+		<div class="embed-container"><iframe src='https://www.youtube.com/embed/NzWd8bCxxBU' frameborder='0' allowfullscreen></iframe>
+	</div>
 	</div>
 	
 	<div class="col-4 self-center">
