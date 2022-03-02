@@ -36,19 +36,10 @@ One randomly selected winner in each challenge will win a Grand Prize Package. <
 | Challenge 3: Cyber Forensics | 	Logitech Pro X Keyboard, Logitech Pro Wireless Gaming Mouse and a Razer Barracuda X – Black Headphones |
 | Challenge 4: C2 Systems	| Secretlab Titan Evo 2022 and Rocketbook Everlast Smart Reusable Notebook, Executive Size. |
 
-
-Weekly Challenges	Grand Prizes
-Challenge 1: Simulation & Training	Steelseries Artic Pro Wireless headset and a Google Nest Mini
-Challenge 2: Guided Systems
-	DJI Mini 2 - Ultralight Foldable 3-Axis Gimbal 4K Camera Drone and a MYNT3D Professional Printing 3D Pen
-Challenge 3: Cyber Forensics
-	Logitech Pro X Keyboard, Logitech Pro Wireless Gaming Mouse and a Razer Barracuda X – Black Headphones
-Challenge 4: C2 Systems	Secretlab Titan Evo 2022 and Rocketbook Everlast Smart Reusable Notebook, Executive Size.
-
-6. How do I know if I have won? If so, how do I collect my prize?
+**6. How do I know if I have won? If so, how do I collect my prize?**<br>
 You will receive an email from us if you have won. The collection details will be stated in the email.
 
-Terms and Conditions
+**Terms and Conditions**
 1.	The Challenge of Wits (“Challenge”) will be governed by these terms and conditions, and accompanying FAQs (collectively the “Terms”). 
 2.	Each entrant agrees that he/she has read and understood this document and by their participation in the Challenge, each entrant agrees to be bound by the Terms.
 3.	The Organiser of this Challenge is MINDEF.
