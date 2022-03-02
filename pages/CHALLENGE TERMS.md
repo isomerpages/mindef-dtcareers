@@ -29,7 +29,7 @@ For everyone who submits a correct entry, we are giving away a LinkedIn E-certif
 One randomly selected winner in each challenge will win a Grand Prize Package. <br>
 
 
-| Weekly Challenges	| Grand Prizes |
+| **Weekly Challenges	| Grand Prizes** |
 | -------- | -------- |
 | Challenge 1: Simulation & Training | Steelseries Artic Pro Wireless headset and a Google Nest Mini |
 | Challenge 2: Guided Systems	| DJI Mini 2 - Ultralight Foldable 3-Axis Gimbal 4K Camera Drone and a MYNT3D Professional Printing 3D Pen |
@@ -84,4 +84,3 @@ Terms and Conditions
 32.	By voluntarily providing the Organiser with your personal particulars, entrants consent to the use and disclosure of personal data to Non-Government entities to carry out specific Government services. 
 33.	Refer to https://www.dtcareers.gov.sg/privacy/ for more details. 
 34.	Any queries regarding the Challenges should specify the name of the Challenge and be addressed to DTC@mindef.gov.sg.
-
