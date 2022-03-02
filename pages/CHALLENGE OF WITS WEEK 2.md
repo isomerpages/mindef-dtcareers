@@ -101,7 +101,7 @@ description: ""
 	</div>
 	
 	<div class="col-4 self-center">
-	<p class="cta-text mt-sm-12">
+	<p class="cta-text mt-sm-12 mt-8">
 		Navigation is a crucial element for success in the battleﬁeld, especially with unmanned systems. Fancy yourself an expert in mapping coordinates? Showcase your brilliance in this challenge.
 		<br><br>
 	
@@ -109,7 +109,7 @@ description: ""
 		Download the challenge materials <a href="https://mindef-stem-staging.netlify.app/challenge-of-wits" target="_blank">here</a>.
 
 		</p>
-	<a href="https://form.gov.sg/#!/61625264a8ffec00132447fb" target="_blank"><img src="/images/buttonSubmit.png" class="mt-60"/>
+	<a href="https://form.gov.sg/#!/61625264a8ffec00132447fb" target="_blank"><img src="/images/buttonSubmit.png" class="mt-20"/>
 		</a>
 	</div>
 </div>
