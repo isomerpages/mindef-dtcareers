@@ -37,7 +37,7 @@ description: ""
 30.	By voluntarily providing the Organiser with your personal particulars, the entrant has voluntarily initiated communications with the Organiser and consents to receiving information, such as, but not limited to winner notifications, from the Organiser through SMS, email, or any other forms of communication voluntarily provided. 
 31.	By initiating contact with the Organiser through the submission of answers, entrants consent for the Organiser to contact them via SMS, email or telephone calls for future notifications, including but not limited to the provision of relevant and appropriate information about various aspects of the defence sector in Singapore, regardless of whether the Entrant’s number is listed on Singapore’s “Do Not Call” Registry or not.
 32.	By voluntarily providing the Organiser with your personal particulars, entrants consent to the use and disclosure of personal data to Non-Government entities to carry out specific Government services. 
-33.	Refer to https://www.dtcareers.gov.sg/privacy/ for more details. 
+33.	Refer to [https://www.dtcareers.gov.sg/privacy/](https://www.dtcareers.gov.sg/privacy/) for more details. 
 34.	Any queries regarding the Challenges should specify the name of the Challenge and be addressed to [DTC@mindef.gov.sg](mailto:DTC@mindef.gov.sg).
 
 <br>
