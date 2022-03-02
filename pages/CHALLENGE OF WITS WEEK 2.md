@@ -74,13 +74,15 @@ description: ""
 	}
 
 	@media only screen and (max-width:767px){
+	
+
 	.join-benefits,.flex-column{
 	flex-direction:column;
 
 	}
 	
 	.mt-sm-12{
-	margin-top:12px;}
+	margin-top:12px!important;}
 	}
 	
 	
