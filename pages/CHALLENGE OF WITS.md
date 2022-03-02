@@ -104,7 +104,7 @@ description: ""
 	</div>
 	
 	<div class="col-4 self-center">
-	<p class="cta-text mt-sm-12"
+	<p class="cta-text mt-sm-12">
 Virtual reality adds a whole slew of possibilities for immersive mission scenarios in training. Can you make defence tech solutions a reality with some mathematical computations? Showcase your brilliance in this challenge
 
 
