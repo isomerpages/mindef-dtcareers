@@ -34,7 +34,7 @@ description: ""
 	margin-top:0px!important;}
 	
 	p.cta-text{
-	font-size:0.8rem;
+	font-size:1rem;
 	line-height:1.3}
 	
 	p.challenge-text{
