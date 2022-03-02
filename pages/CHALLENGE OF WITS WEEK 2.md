@@ -104,8 +104,8 @@ description: ""
 	</div>
 	</div>
 	
-	<div class="col-4">
-	<p class="cta-text mt-sm-12 mt-8">
+	<div class="col-4 self-center">
+	<p class="cta-text mt-sm-12">
 		Navigation is a crucial element for success in the battleﬁeld, especially with unmanned systems. Fancy yourself an expert in mapping coordinates? Showcase your brilliance in this challenge.
 		<br><br>
 	
