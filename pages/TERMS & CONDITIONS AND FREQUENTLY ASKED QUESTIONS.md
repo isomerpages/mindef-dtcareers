@@ -41,7 +41,7 @@ description: ""
 34.	Any queries regarding the Challenges should specify the name of the Challenge and be addressed to [DTC@mindef.gov.sg](mailto:DTC@mindef.gov.sg).
 
 <br>
-**Terms and Conditions**<br>
+**Frequently Asked Questions**<br>
 **1. Who is eligible to participate in the weekly challenges?**<br>
 Only Singaporeans are eligible.
 
@@ -77,4 +77,3 @@ One randomly selected winner in each challenge will win a Grand Prize Package. <
 
 **6. How do I know if I have won? If so, how do I collect my prize?**<br>
 You will receive an email from us if you have won. The collection details will be stated in the email.
-
