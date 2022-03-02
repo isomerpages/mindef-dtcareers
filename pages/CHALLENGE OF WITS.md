@@ -109,7 +109,7 @@ Virtual reality adds a whole slew of possibilities for immersive mission scenari
 
 
 		</p>
-	<a href="https://form.gov.sg/#!/61625264a8ffec00132447fb" target="_blank"><img src="/images/buttonSubmit.png" class="mt-20"/>
+	<a href="https://form.gov.sg/621dd28083d7800014a24378" target="_blank"><img src="/images/buttonSubmit.png" class="mt-20"/>
 		</a>
 	</div>
 </div>
