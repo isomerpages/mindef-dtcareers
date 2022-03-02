@@ -12,7 +12,9 @@ description: ""
 	a[target="_blank"]:after,.float-buttons{
 	display:none;}
 	
-
+	.bold{
+	font-weight:bold;
+	}
 	.join-benefits,.d-flex{
 	display:flex!important;
 	}
@@ -126,7 +128,7 @@ We are also giving away a LinkedIn E-certiﬁcate and $10 Grab Voucher for corre
 Look out for our email to see if you have scored yourself some prizes.
 </p>
 
-<h4 class="mt-40">
+<h4 class="mt-40 bold">
 	In Case You Missed It
 </h4>
 
@@ -144,7 +146,7 @@ Try them out below!
 	
 </div>
 
-<h4 class="mt-20">
+<h4 class="mt-20 bold">
 	Still Have Questions About Our Challenge?
 </h4>
 <p class="challenge-text">
