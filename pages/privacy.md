@@ -42,7 +42,7 @@ permalink: /privacy/
 
 <ol start="7">
   <li>
-   Please contact us at [1800-3676767](tel:18003676767) (from Singapore) or [+65 6567 6767](tel:+6565676767) (from overseas) if you:
+		Please contact us at <a href="tel:18003676767">1800-3676767</a> (from Singapore) or <a href="tel:+6565676767">+65 6567 6767</a> (from overseas) if you:
   </li>
 	<ol class="a">
   <li>
