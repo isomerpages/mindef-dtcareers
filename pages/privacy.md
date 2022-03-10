@@ -39,9 +39,20 @@ permalink: /privacy/
 </ol>
 
 *Contact Information*
-7. Please contact us at [1800-3676767](tel:18003676767) (from Singapore) or [+65 6567 6767](tel:+6565676767) (from overseas) if you: <br>
-a. Have any enquiries or feedback on our data protection policies and procedures or, <br>
-b. Need more information on or access to data which you have provided to us in the past. 
+
+<ol start="7">
+  <li>
+    <p>Please contact us at [1800-3676767](tel:18003676767) (from Singapore) or [+65 6567 6767](tel:+6565676767) (from overseas) if you:</p>
+  </li>
+	<ol class="a">
+  <li>
+    <p>Have any enquiries or feedback on our data protection policies and procedures or,</p>
+  </li>
+		<li>
+    <p>Need more information on or access to data which you have provided to us in the past. </p>
+  </li>
+</ol>
+</ol>
 
 *Definitions* 
 
