@@ -4,7 +4,7 @@ permalink: /privacy/
 ---
 <style>
 	.a{
-	list-style:lower-alpha;
+	list-style:lower-alpha!important;
 	}
 </style>
 ### **GOVERNMENT OF SINGAPORE PRIVACY STATEMENT**
