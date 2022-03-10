@@ -95,8 +95,8 @@ description: ""
 
 
 <div class="d-flex flex-column mt-60">
-	<img src="/images/2_titleChallenge_01.jpg" class="col-6"/>
-	<img src="/images/2_titleChallenge_02.jpg" class="col-6"/>
+	<img src="/images/3_titleChallenge_01.jpg" class="col-6"/>
+	<img src="/images/3_titleChallenge_02.jpg" class="col-6"/>
 </div>
 
 
