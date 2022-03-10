@@ -14,12 +14,13 @@ permalink: /privacy/
 
 <ol start="4">
   <li>If you provide us with personally identifiable data:</li>
-</ol>
-<ol type="a">	
+	<ol type="a">	
   <li>We may share necessary data with other Government agencies, so as to improve the discharge of public functions, and to serve you in the most efficient and effective way unless such sharing is prohibited by law.</li>
   <li>We may share your personal data with non-Government entities that have been authorised to carry out specific Government services. We will NOT share your Personal Data with non- Government entities, without your consent except where such sharing complies with the law.</li>
   <li>For your convenience, we may also display to you data you had previously supplied us or other Government Agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.</li>
 </ol>
+</ol>
+
 
 *Protection of Data* 
 
