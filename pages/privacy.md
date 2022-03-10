@@ -23,9 +23,14 @@ permalink: /privacy/
 
 *Protection of Data* 
 
-5. To safeguard your Personal Data, all electronic storage and transmission of Personal Data is secured with appropriate security technologies. 
-
-6. This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites. 
+<ol start="5">
+  <li>
+    <p>To safeguard your Personal Data, all electronic storage and transmission of Personal Data is secured with appropriate security technologies.</p>
+  </li>
+  <li>
+    <p>This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.</p>
+  </li>
+</ol>
 
 *Contact Information*
 7. Please contact us at [1800-3676767](tel:18003676767) (from Singapore) or [+65 6567 6767](tel:+6565676767) (from overseas) if you: <br>
