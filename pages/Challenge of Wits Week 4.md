@@ -83,6 +83,9 @@ description: ""
 	
 	.mt-sm-12{
 	margin-top:12px!important;}
+	
+	.justify-center{
+	justify-content:center;}
 	}
 	
 	
@@ -147,8 +150,8 @@ Try them out below!
 		<img src="/images/pastChallenge2.jpg" class=""/>
 	</a>
 </div>
-<div class="d-flex flex-column">
-	<a href="https://www.youtube.com/watch?v=meMMPPDgFOI" target="_blank" class="col-6 mr-16">
+<div class="d-flex justify-center">
+	<a href="https://www.youtube.com/watch?v=meMMPPDgFOI" target="_blank" class="col-6">
 		<img src="/images/pastChallenge3.jpg" class=""/>
 	</a>
 		
