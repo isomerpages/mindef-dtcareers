@@ -102,30 +102,31 @@ description: ""
 
 <div class="d-flex flex-column mt-40">
 	<div class="col-8 mr-16">
-		<div class="embed-container"><iframe src='https://www.youtube.com/embed/NzWd8bCxxBU' frameborder='0' allowfullscreen></iframe>
+		<div class="embed-container"><iframe src='https://www.youtube.com/embed/meMMPPDgFOI' frameborder='0' allowfullscreen></iframe>
 	</div>
 	</div>
 	
 	<div class="col-4 self-center">
 	<p class="cta-text mt-sm-12">
-		Navigation is one of the crucial element for success in the battleﬁeld, especially with unmanned systems. Fancy yourself an expert in mapping coordinates? Showcase your brilliance in this challenge.
+		Cybersecurity threats can be hidden in plain sight. Do you
+have the programming knowhow to sniff them out? Get cracking on this challenge.
 		<br><br>
 	
 
 		Download the challenge materials <a href="/files/DSO%20Guided%20Systems%20-%20Full%20List%20of%20Questions.pdf" target="_blank">here</a>.
 
 		</p>
-	<a href="https://form.gov.sg/621dd2685d6f620012977292" target="_blank"><img src="/images/buttonSubmit.png" class="mt-20"/>
+	<a href="https://form.gov.sg/621c32cb9c0ecc0014b16ca7" target="_blank"><img src="/images/buttonSubmit.png" class="mt-20"/>
 		</a>
 	</div>
 </div>
 
 <div class="d-flex flex-column mt-40">
-	<img src="/images/2_prizeImage_1_01.jpg" class="col-6"/>
-	<img src="/images/2_prizeImage_1_02.jpg" class="col-6"/>
+	<img src="/images/3_prizeImage_1_01.jpg" class="col-6"/>
+	<img src="/images/3_prizeImage_1_02.jpg" class="col-6"/>
 </div>
 
-<p class="challenge-text">One lucky winner will win a <b>DJI Mini 2 Drone</b> and a <b>Professional 3D Printing Pen</b> worth <b>$688</b> in total.
+<p class="challenge-text">One lucky winner will win a <b>Razer Barracuda X, Logitech G Pro Wireless Gaming Mouse</b> and a <b>Logitech G Pro X Keyboard</b> worth <b>$638</b> in total.
 
 We are also giving away a LinkedIn E-certiﬁcate and $10 Grab Voucher for correct submissions to the challenges.
 
@@ -144,7 +145,7 @@ Try them out below!
 </p>
 
 <div class="d-flex flex-column mt-20">
-	<a href="https://www.youtube.com/watch?v=NzWd8bCxxBU" target="_blank" class="col-6 mr-16">
+	<a href="https://www.youtube.com/watch?v=1c8Z63taquM" target="_blank" class="col-6 mr-16">
 		<img src="/images/pastChallenge1.jpg" class=""/>
 	</a>
 	
