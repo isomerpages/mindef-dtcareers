@@ -108,7 +108,7 @@ description: ""
 	
 	<div class="col-4 self-center">
 	<p class="cta-text mt-sm-12">
-		Navigation is one of the crucial element for success in the battleﬁeld, especially with unmanned systems. Fancy yourself an expert in mapping coordinates? Showcase your brilliance in this challenge.
+		Navigation is one of the crucial elements for success in the battleﬁeld, especially with unmanned systems. Fancy yourself an expert in mapping coordinates? Showcase your brilliance in this challenge.
 		<br><br>
 	
 
