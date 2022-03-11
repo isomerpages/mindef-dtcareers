@@ -126,9 +126,9 @@ have the programming knowhow to sniff them out? Get cracking on this challenge.
 	<img src="/images/3_prizeImage_1_02.jpg" class="col-6"/>
 </div>
 
-<p class="challenge-text">One lucky winner will win a <b>Razer Barracuda X, Logitech G Pro Wireless Gaming Mouse</b> and a <b>Logitech G Pro X Keyboard</b> worth <b>$638</b> in total.
+<p class="challenge-text">One lucky winner will win a <b>Razer Barracuda X, Logitech G Pro Wireless Gaming Mouse</b> and a <b>Logitech G Pro X Keyboard</b> worth <b>$638</b> in total.<br><br>
 
-We are also giving away a LinkedIn E-certiﬁcate and $10 Grab Voucher for correct submissions to the challenges.
+We are also giving away a LinkedIn E-certiﬁcate and $10 Grab Voucher for correct submissions to the challenges.<br><br>
 
 Look out for our email to see if you have scored yourself some prizes.
 </p>
