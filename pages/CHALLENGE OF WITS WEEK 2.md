@@ -102,7 +102,7 @@ description: ""
 
 <div class="d-flex flex-column mt-40">
 	<div class="col-8 mr-16">
-		<div class="embed-container"><iframe src='https://www.youtube.com/embed/NzWd8bCxxBU' frameborder='0' allowfullscreen></iframe>
+		<div class="embed-container"><iframe src='https://www.youtube.com/embed/8WkOIOieEqg' frameborder='0' allowfullscreen></iframe>
 	</div>
 	</div>
 	
@@ -115,7 +115,7 @@ description: ""
 		Download the challenge materials <a href="/files/DSO%20Guided%20Systems%20-%20Full%20List%20of%20Questions.pdf" target="_blank">here</a>.
 
 		</p>
-	<a href="https://form.gov.sg/621dd2685d6f620012977292" target="_blank"><img src="/images/buttonSubmit.png" class="mt-20"/>
+	<a href="https://form.gov.sg/621c32ab9c0ecc0014b16318" target="_blank"><img src="/images/buttonSubmit.png" class="mt-20"/>
 		</a>
 	</div>
 </div>
