@@ -45,6 +45,10 @@ description: ""
 	
 	.self-center{
 	align-self:center;}
+	
+		.justify-center{
+	justify-content:center;
+	}
 
 
 	@media only screen and (min-width:768px){
@@ -84,8 +88,7 @@ description: ""
 	.mt-sm-12{
 	margin-top:12px!important;}
 	
-	.justify-center{
-	justify-content:center;}
+
 	}
 	
 	
