@@ -107,7 +107,7 @@ Revisit The Challenges and See How You Match Up Against Other Next-Gen Minds</h4
 	</a>
 </div>
 <div class="d-flex flex-column">
-	<a href="https://www.youtube.com/watch?v=meMMPPDgFOI" target="_blank" class="col-6">
+	<a href="https://www.youtube.com/watch?v=meMMPPDgFOI" target="_blank" class="col-6 mr-16">
 		<img src="/images/pastChallenge3.jpg" class=""/>
 	</a>
 		<a href="https://www.youtube.com/watch?v=6Gn4OGTvxPo" target="_blank" class="col-6">
