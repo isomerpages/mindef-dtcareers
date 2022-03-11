@@ -125,9 +125,9 @@ description: ""
 	<img src="/images/2_prizeImage_1_02.jpg" class="col-6"/>
 </div>
 
-<p class="challenge-text">One lucky winner will win a <b>DJI Mini 2 Drone</b> and a <b>Professional 3D Printing Pen</b> worth <b>$688</b> in total.
+<p class="challenge-text">One lucky winner will win a <b>DJI Mini 2 Drone</b> and a <b>Professional 3D Printing Pen</b> worth <b>$688</b> in total.<br><br>
 
-We are also giving away a LinkedIn E-certiﬁcate and $10 Grab Voucher for correct submissions to the challenges.
+We are also giving away a LinkedIn E-certiﬁcate and $10 Grab Voucher for correct submissions to the challenges.<br><br>
 
 Look out for our email to see if you have scored yourself some prizes.
 </p>
