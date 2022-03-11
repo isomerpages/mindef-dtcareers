@@ -99,22 +99,22 @@ description: ""
 Revisit The Challenges and See How You Match Up Against Other Next-Gen Minds</h4>
 
 <div class="d-flex flex-column mt-20">
-	<a href="#" target="_blank" class="mr-16">
-		<img src="/images/pastChallenge1.jpg" />
+	<a href="https://www.youtube.com/watch?v=1c8Z63taquM" target="_blank" class="col-6 mr-16">
+		<img src="/images/pastChallenge1.jpg" class=""/>
 	</a>
-	<a href="#" target="_blank">
-	<img src="/images/pastChallenge2.jpg" />
-	</a>
-</div>
-
-<div class="d-flex flex-column mt-0">
-		<a href="#" target="_blank" class="mr-16">
-	<img src="/images/pastChallenge3.jpg" />
-	</a>
-		<a href="#" target="_blank">
-	<img src="/images/pastChallenge4.jpg" class=""/>
+		<a href="https://www.youtube.com/watch?v=8WkOIOieEqg" target="_blank" class="col-6">
+		<img src="/images/pastChallenge2.jpg" class=""/>
 	</a>
 </div>
+<div class="d-flex flex-column">
+	<a href="https://www.youtube.com/watch?v=meMMPPDgFOI" target="_blank" class="col-6">
+		<img src="/images/pastChallenge3.jpg" class=""/>
+	</a>
+		<a href="https://www.youtube.com/watch?v=6Gn4OGTvxPo" target="_blank" class="col-6">
+		<img src="/images/pastChallenge4.jpg" class=""/>
+	</a>
+		
+	</div>
 
 <h4 class="mt-0 bold">
 	Still Have Questions About Our Challenge?
