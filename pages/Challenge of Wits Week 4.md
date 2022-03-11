@@ -120,7 +120,8 @@ mission success. Can you make the right call based on real-time information? Sho
 	<img src="/images/4_prizeImage_1_02.jpg" class="col-6"/>
 </div>
 
-<p class="challenge-text">One lucky winner will win a <b>Razer Barracuda X, Logitech G Pro Wireless Gaming Mouse</b> and a <b>Logitech G Pro X Keyboard</b> worth <b>$638</b> in total.<br><br>
+<p class="challenge-text">One lucky winner will win a <b>Secretlab Titan Evo 2022</b> and a <b>Rocketbook Everlast Smart Reusable Notebook,
+Executive</b> worth <b>$644</b> in total.<br><br>
 
 We are also giving away a LinkedIn E-certiﬁcate and $10 Grab Voucher for correct submissions to the challenges.<br><br>
 
