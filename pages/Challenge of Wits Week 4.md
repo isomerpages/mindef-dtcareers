@@ -146,6 +146,8 @@ Try them out below!
 		<a href="https://www.youtube.com/watch?v=8WkOIOieEqg" target="_blank" class="col-6">
 		<img src="/images/pastChallenge2.jpg" class=""/>
 	</a>
+	</div>
+	<div class="d-flex flex-column">
 		<a href="https://www.youtube.com/watch?v=meMMPPDgFOI" target="_blank" class="col-6 mr-16">
 		<img src="/images/pastChallenge3.jpg" class=""/>
 	</a>
