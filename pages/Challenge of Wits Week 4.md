@@ -146,6 +146,14 @@ Try them out below!
 		<a href="https://www.youtube.com/watch?v=8WkOIOieEqg" target="_blank" class="col-6">
 		<img src="/images/pastChallenge2.jpg" class=""/>
 	</a>
+</div>
+<div class="d-flex flex-column mt-20">
+	<a href="https://www.youtube.com/watch?v=1c8Z63taquM" target="_blank" class="col-6 mr-16">
+		<img src="/images/pastChallenge1.jpg" class=""/>
+	</a>
+		<a href="https://www.youtube.com/watch?v=8WkOIOieEqg" target="_blank" class="col-6">
+		<img src="/images/pastChallenge2.jpg" class=""/>
+	</a>
 	</div>
 
 <h4 class="mt-20 bold">
