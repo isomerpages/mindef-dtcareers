@@ -40,89 +40,87 @@ description: ""
 33.	Refer to [https://www.dtcareers.gov.sg/privacy/](https://www.dtcareers.gov.sg/privacy/) for more details. 
 34.	Any queries regarding the Challenges should specify the name of the Challenge and be addressed to [DTC@mindef.gov.sg](mailto:DTC@mindef.gov.sg).
 
-
 <style>
-  dl{
-    font-size:1.25rem;
-  }
-  
-  dt.qn{
-    font-weight:bold;
+dl{
+  font-size:1.25rem;
+}
+
+dt.qn{
+  font-weight:bold;
+}
+
+dd{
+    margin-left:1em!important;
   }
 
-  dd{
-    margin-left:1em;
-  }
+</style>
+
+<dl>
+  <dt class="qn">1. Who is eligible to participate in the weekly challenges?</dt>
+  <dd>Only Singaporeans are eligible. </dd>
+</dl>
+<dl>
+  <dt class="qn">2. Is there a different challenge every week?</dt>
+  <dd>Yes, each challenge will tap into a different aspect of defence within Defence Science & Technology sector:<br><br>
+
+    Challenge 1: Simulation & Training<br>
+    Challenge 2: Guided Systems<br>
+    Challenge 3: Cyber Forensics<br>
+    Challenge 4: C2 Systems
+  </dd>
+</dl>
+<dl>
+  <dt class="qn">3. How long does each challenge last for?</dt>
+  <dd>
+    Each challenge lasts for 1 week, unless stated otherwise.<br><br>
+
+Challenge 1: 18 Mar 2022, 10am to 24 Mar 2022, 10am<br>
+Challenge 2: 25 Mar 2022, 10am to 31 Mar2022, 10am<br>
+Challenge 3: 1 Apr 2022, 10am to 7 Apr 2022, 10am<br>
+Challenge 4: 8 Apr 2022, 10am to 14 Apr 2022, 10am<br>
+  </dd>
+</dl>
+<dl>
+  <dt class="qn">4. Can I submit multiple entries for each challenge?</dt>
+  <dd>No. Only the first entry counts.</dd>
+</dl>
+<dl>
+  <dt class="qn">5. What are the prizes to be won?</dt>
   
-  </style>
-  <br>
-  **Frequently Asked Questions**<br>
-  <dl>
-    <dt class="qn">1. Who is eligible to participate in the weekly challenges?</dd>
-    <dd>Only Singaporeans are eligible. </dd>
-  </dl>
-  <dl>
-    <dt class="qn">2. Is there a different challenge every week?</dd>
-    <dd>Yes, each challenge will tap into a different aspect of defence within Defence Science & Technology sector:<br><br>
-  
-      Challenge 1: Simulation & Training<br>
-      Challenge 2: Guided Systems<br>
-      Challenge 3: Cyber Forensics<br>
-      Challenge 4: C2 Systems
-    </dd>
-  </dl>
-  <dl>
-    <dt class="qn">3. How long does each challenge last for?</dd>
-    <dd>
-      Each challenge lasts for 1 week, unless stated otherwise.<br><br>
-  
-  Challenge 1: 18 Mar 2022, 10am to 24 Mar 2022, 10am<br>
-  Challenge 2: 25 Mar 2022, 10am to 31 Mar2022, 10am<br>
-  Challenge 3: 1 Apr 2022, 10am to 7 Apr 2022, 10am<br>
-  Challenge 4: 8 Apr 2022, 10am to 14 Apr 2022, 10am<br>
-    </dd>
-  </dl>
-  <dl>
-    <dt class="qn">4. Can I submit multiple entries for each challenge?</dd>
-    <dd>No. Only the first entry counts.</dd>
-  </dl>
-  <dl>
-    <dt class="qn">5. What are the prizes to be won?</dd>
-    
-    <dd>
-      For everyone who submits a correct entry, we are giving away a LinkedIn E-certificate and $10 Grab Voucher.<br><br>
-  
-      One randomly selected winner in each challenge will win a Grand Prize Package.<br><br>
-      <div class="horizontal-scroll"><table>
-        <thead>
-          <tr>
-            <th><strong>Weekly Challenges</strong></th>
-            <th><strong>Grand Prizes</strong></th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Challenge 1: Simulation &amp; Training</td>
-            <td>Steelseries Artic Pro Wireless headset and a Google Nest Mini</td>
-          </tr>
-          <tr>
-            <td>Challenge 2: Guided Systems</td>
-            <td>DJI Mini 2 - Ultralight Foldable 3-Axis Gimbal 4K Camera Drone and a MYNT3D Professional Printing 3D Pen</td>
-          </tr>
-          <tr>
-            <td>Challenge 3: Cyber Forensics</td>
-            <td>Logitech Pro X Keyboard, Logitech Pro Wireless Gaming Mouse and a Razer Barracuda X – Black Headphones</td>
-          </tr>
-          <tr>
-            <td>Challenge 4: C2 Systems</td>
-            <td>Secretlab Titan Evo 2022 and Rocketbook Everlast Smart Reusable Notebook, Executive Size.</td>
-          </tr>
-        </tbody>
-      </table></div>
-    </dd>
-  </dl>
-  <dl>
-    <dt class="qn">6. How do I know if I have won? If so, how do I collect my prize?</dd>
-  
-    <dd>You will receive an email from us if you have won. The collection details will be stated in the email.</dd>
-  </dl>
+  <dd>
+    For everyone who submits a correct entry, we are giving away a LinkedIn E-certificate and $10 Grab Voucher.<br><br>
+
+    One randomly selected winner in each challenge will win a Grand Prize Package.<br><br>
+    <div class="horizontal-scroll"><table>
+      <thead>
+        <tr>
+          <th><strong>Weekly Challenges</strong></th>
+          <th><strong>Grand Prizes</strong></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Challenge 1: Simulation &amp; Training</td>
+          <td>Steelseries Artic Pro Wireless headset and a Google Nest Mini</td>
+        </tr>
+        <tr>
+          <td>Challenge 2: Guided Systems</td>
+          <td>DJI Mini 2 - Ultralight Foldable 3-Axis Gimbal 4K Camera Drone and a MYNT3D Professional Printing 3D Pen</td>
+        </tr>
+        <tr>
+          <td>Challenge 3: Cyber Forensics</td>
+          <td>Logitech Pro X Keyboard, Logitech Pro Wireless Gaming Mouse and a Razer Barracuda X – Black Headphones</td>
+        </tr>
+        <tr>
+          <td>Challenge 4: C2 Systems</td>
+          <td>Secretlab Titan Evo 2022 and Rocketbook Everlast Smart Reusable Notebook, Executive Size.</td>
+        </tr>
+      </tbody>
+    </table></div>
+  </dd>
+</dl>
+<dl>
+  <dt class="qn">6. How do I know if I have won? If so, how do I collect my prize?</dt>
+
+  <dd>You will receive an email from us if you have won. The collection details will be stated in the email.</dd>
+</dl>
