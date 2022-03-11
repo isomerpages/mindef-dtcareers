@@ -151,7 +151,6 @@ Try them out below!
 		<a href="https://www.youtube.com/watch?v=meMMPPDgFOI" target="_blank" class="col-6 mr-16">
 		<img src="/images/pastChallenge3.jpg" class=""/>
 	</a>
-	
 </div>
 
 <h4 class="mt-20 bold">
