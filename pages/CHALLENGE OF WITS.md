@@ -99,7 +99,7 @@ description: ""
 
 <div class="d-flex flex-column mt-40">
 	<div class="col-8 mr-16">
-		<div class="embed-container"><iframe src='https://www.youtube.com/embed/NzWd8bCxxBU' frameborder='0' allowfullscreen></iframe>
+		<div class="embed-container"><iframe src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
 	</div>
 	</div>
 	
@@ -108,7 +108,7 @@ description: ""
 Virtual reality adds a whole slew of possibilities for immersive mission scenarios in training. Can you make defence tech solutions a reality with some mathematical computations? Showcase your brilliance in this challenge.
 
 		</p>
-	<a href="https://form.gov.sg/621dd28083d7800014a24378" target="_blank"><img src="/images/buttonSubmit.png" class="mt-20"/>
+	<a href="https://form.gov.sg/61ea1bd438bcc9001344d56e" target="_blank"><img src="/images/buttonSubmit.png" class="mt-20"/>
 		</a>
 	</div>
 </div>
