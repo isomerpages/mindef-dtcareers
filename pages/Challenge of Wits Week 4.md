@@ -146,17 +146,21 @@ Try them out below!
 </p>
 
 <div class="d-flex flex-column mt-20">
-	<a href="https://www.youtube.com/watch?v=1c8Z63taquM" target="_blank" class="col-6 mr-16">
-		<img src="/images/pastChallenge1.jpg" class=""/>
-	</a>
-		<a href="https://www.youtube.com/watch?v=8WkOIOieEqg" target="_blank" class="col-6">
-		<img src="/images/pastChallenge2.jpg" class=""/>
-	</a>
-</div>
+	<div class="col-6 mr-16">
+		<div class="embed-container"><iframe src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
+	</div>
+	</div>
+		<div class="col-6">
+		<div class="embed-container"><iframe src='https://www.youtube.com/embed/8WkOIOieEqg' frameborder='0' allowfullscreen></iframe>
+	</div>
+	</div>
+	</div>
+
 <div class="d-flex justify-center">
-	<a href="https://www.youtube.com/watch?v=meMMPPDgFOI" target="_blank" class="col-6">
-		<img src="/images/pastChallenge3.jpg" class=""/>
-	</a>
+		<div class="col-6">
+		<div class="embed-container"><iframe src='https://www.youtube.com/embed/meMMPPDgFOI' frameborder='0' allowfullscreen></iframe>
+	</div>
+	</div>
 		
 	</div>
 
