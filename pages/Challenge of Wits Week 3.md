@@ -149,7 +149,7 @@ Try them out below!
 		<div class="embed-container"><iframe src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
 	</div>
 	</div>
-		<div class="col-6 mr-16">
+		<div class="col-6">
 		<div class="embed-container"><iframe src='https://www.youtube.com/embed/8WkOIOieEqg' frameborder='0' allowfullscreen></iframe>
 	</div>
 	</div>
