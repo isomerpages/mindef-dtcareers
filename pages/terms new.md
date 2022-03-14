@@ -11,11 +11,11 @@ description: ""
 
 2.	We may revise these Terms at any time by updating this page. You should visit this page from time to time and review the current Terms because they are binding on you. We may modify or discontinue any information or features that form part of this Digital Service at any time, with or without notice to you, and without liability.
 
-3.	Access to this Digital Service. The accessibility and operation of this Digital Service relies on technologies outside our control. We do not guarantee continuous accessibility or uninterrupted operation of this Digital Service.
+3.	<u>Access to this Digital Service</u>. The accessibility and operation of this Digital Service relies on technologies outside our control. We do not guarantee continuous accessibility or uninterrupted operation of this Digital Service.
 
-4.	Relying on Information. We provide this Digital Service as a general information source only and we are not involved in giving professional advice here. This Digital Service may not cover all information available on a particular issue. Before relying on this Digital Service, you should do your own checks or obtain professional advice on your particular circumstances.
+4.	<u>Relying on Information</u>. We provide this Digital Service as a general information source only and we are not involved in giving professional advice here. This Digital Service may not cover all information available on a particular issue. Before relying on this Digital Service, you should do your own checks or obtain professional advice on your particular circumstances.
 
-5.	Security. Where appropriate, we use available technology to protect the security of communications made through this Digital Service. However, we do not accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through this Digital Service.
+5.	<u>Security</u>. Where appropriate, we use available technology to protect the security of communications made through this Digital Service. However, we do not accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through this Digital Service.
 
 6.	Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that this Digital Service is free of infection by computer viruses or other unauthorised software.
 
@@ -37,14 +37,14 @@ d.	We reserve all rights to disable any links to, or frames of any digital servi
 
 e.	We reserve the right to disable any unauthorised links or frames to this Digital Service and disclaim any responsibility for the content available on any other digital service reached by links to or from this Digital Service or any of its contents.
 
-11.	Intellectual Property. All material displayed on this Digital Service, including the images of people or places, is either the property of us, or has been used with the permission of the relevant rights holder.
+11.	<u>Intellectual Property</u>. All material displayed on this Digital Service, including the images of people or places, is either the property of us, or has been used with the permission of the relevant rights holder.
 
 12.	Accordingly, downloading, reproduction or use of such material by any other person, IS STRICTLY PROHIBITED, unless such downloading, reproduction or use complies with the Terms contained within this Digital Service, and prior consent in writing is obtained from us, and from the relevant rights holder (if applicable).
 
 13.	We maintain this Digital Service for the information and education of its users. As such, users may only download, reproduce or use materials displayed on this Digital Service for strictly non-commercial and personal purposes, and are strictly prohibited from downloading, reproducing, modifying, distributing, re-posting, framing or using any such materials, including but not limited to text, images, photographs, and audio and video files or programs, for any public or commercial purpose, including for sale, unless prior written permission is first obtained from us.
 
-14.	Privacy Policy. Please click here to view this Digital Service’s Privacy Statement.
+14.	<u>Privacy Policy</u>. Please click here to view this Digital Service’s Privacy Statement.
 
-15.	Disclaimer and Limitation of Liability. We will not be liable for any loss or damage (i) that you may incur on account of using, visiting or relying on any statements, opinion, representation or information in this Digital Service, (ii) resulting from any delay in operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software, or (iii) the conduct or the views of any person who accesses or uses this Digital Service.
+15.	<u>Disclaimer and Limitation of Liability</u>. We will not be liable for any loss or damage (i) that you may incur on account of using, visiting or relying on any statements, opinion, representation or information in this Digital Service, (ii) resulting from any delay in operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software, or (iii) the conduct or the views of any person who accesses or uses this Digital Service.
 
-16.	Applicable Law. Use of this Digital Service and these Terms are governed by the laws of Singapore. Any claim relating to the use of this Digital Service shall be heard by Singapore Courts.
+16.	<u>Applicable Law</u>. Use of this Digital Service and these Terms are governed by the laws of Singapore. Any claim relating to the use of this Digital Service shall be heard by Singapore Courts.
