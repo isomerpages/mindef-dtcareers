@@ -112,7 +112,7 @@ description: ""
 		<br><br>
 	
 
-		Download the challenge materials <a href="/files/DSO%20Guided%20Systems%20-%20Full%20List%20of%20Questions.pdf" target="_blank">here</a>.
+		Download the challenge materials <a href="/files/Challenge-of-Wits_Guided-Systems_DSO-National-Laboratories.pdf" target="_blank">here</a>.
 
 		</p>
 	<a href="https://form.gov.sg/621c32ab9c0ecc0014b16318" target="_blank"><img src="/images/buttonSubmit.png" class="mt-20"/>
