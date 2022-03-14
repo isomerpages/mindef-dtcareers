@@ -6,6 +6,9 @@ description: ""
 <style>
 	p,li{
 	text-align:justify;}
+	
+	.a{
+	list-style-type:lower-alpha;}
 </style>
 1.	<u>General</u>. This Digital Service is owned by the Government of the Republic of Singapore. Access to any area of this Digital Service is governed by the terms and conditions below (“Terms”). By accessing and using any area of this Digital Service, you shall be deemed to have accepted and agreed to be legally bound by these Terms. If you do not agree to any of these Terms, please do not use this Digital Service. In these Terms, the words “we”, “our” and “us” refers to the Government of the Republic of Singapore.
 
@@ -27,7 +30,7 @@ description: ""
 
 10.	Except as set forth below, caching and hyperlinks to, and the framing of this Digital Service or any of its contents are prohibited:
 
-<ol type="a">
+<ol class="a">
   <li>You must make a specific request for, and secure permission from us prior to hyperlinking to, or framing, any page or part of this Digital Service, or engaging in similar activities. We reserve the right to impose conditions when permitting any hyperlinking to, or framing of any page or part of this Digital Service or any of its contents.</li>
 
 <li>Your hyperlinking to, or your framing of this Digital Service or any of its contents constitutes acceptance of these Terms. If you do not accept these Terms, you must discontinue linking to, or framing of this Digital Service or any of its contents.</li>
