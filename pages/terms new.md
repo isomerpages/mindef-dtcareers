@@ -27,15 +27,18 @@ description: ""
 
 10.	Except as set forth below, caching and hyperlinks to, and the framing of this Digital Service or any of its contents are prohibited:
 
-a.	You must make a specific request for, and secure permission from us prior to hyperlinking to, or framing, any page or part of this Digital Service, or engaging in similar activities. We reserve the right to impose conditions when permitting any hyperlinking to, or framing of any page or part of this Digital Service or any of its contents.
+<ol type="a">
+  <li>You must make a specific request for, and secure permission from us prior to hyperlinking to, or framing, any page or part of this Digital Service, or engaging in similar activities. We reserve the right to impose conditions when permitting any hyperlinking to, or framing of any page or part of this Digital Service or any of its contents.</li>
 
-b.	Your hyperlinking to, or your framing of this Digital Service or any of its contents constitutes acceptance of these Terms. If you do not accept these Terms, you must discontinue linking to, or framing of this Digital Service or any of its contents.
+<li>Your hyperlinking to, or your framing of this Digital Service or any of its contents constitutes acceptance of these Terms. If you do not accept these Terms, you must discontinue linking to, or framing of this Digital Service or any of its contents.</li>
 
-c.	Under no circumstances shall we be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on digital services that link to this Digital Service or any of its contents.
+<li>Under no circumstances shall we be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on digital services that link to this Digital Service or any of its contents.</li>
 
-d.	We reserve all rights to disable any links to, or frames of any digital service containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
+<li>We reserve all rights to disable any links to, or frames of any digital service containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.</li>
 
-e.	We reserve the right to disable any unauthorised links or frames to this Digital Service and disclaim any responsibility for the content available on any other digital service reached by links to or from this Digital Service or any of its contents.
+<li>We reserve the right to disable any unauthorised links or frames to this Digital Service and disclaim any responsibility for the content available on any other digital service reached by links to or from this Digital Service or any of its contents.</li>
+
+</ol>
 
 11.	<u>Intellectual Property</u>. All material displayed on this Digital Service, including the images of people or places, is either the property of us, or has been used with the permission of the relevant rights holder.
 
