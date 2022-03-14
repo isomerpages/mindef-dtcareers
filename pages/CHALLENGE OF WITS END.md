@@ -122,7 +122,7 @@ Revisit The Challenges and See How You Match Up Against Other Next-Gen Minds</h4
 		
 	</div>
 
-<h4 class="mt-0 bold">
+<h4 class="mt-40 bold">
 	Still Have Questions About Our Challenge?
 </h4>
 <p class="challenge-text">
