@@ -50,14 +50,16 @@ permalink: /terms-of-use/
 
 </ol>
 
-11.	<u>Intellectual Property</u>. All material displayed on this Digital Service, including the images of people or places, is either the property of us, or has been used with the permission of the relevant rights holder.
+<ol start="11">
+  <li><u>Intellectual Property</u>. All material displayed on this Digital Service, including the images of people or places, is either the property of us, or has been used with the permission of the relevant rights holder.</li>
 
-12.	Accordingly, downloading, reproduction or use of such material by any other person, IS STRICTLY PROHIBITED, unless such downloading, reproduction or use complies with the Terms contained within this Digital Service, and prior consent in writing is obtained from us, and from the relevant rights holder (if applicable).
+<li>Accordingly, downloading, reproduction or use of such material by any other person, IS STRICTLY PROHIBITED, unless such downloading, reproduction or use complies with the Terms contained within this Digital Service, and prior consent in writing is obtained from us, and from the relevant rights holder (if applicable).</li>
 
-13.	We maintain this Digital Service for the information and education of its users. As such, users may only download, reproduce or use materials displayed on this Digital Service for strictly non-commercial and personal purposes, and are strictly prohibited from downloading, reproducing, modifying, distributing, re-posting, framing or using any such materials, including but not limited to text, images, photographs, and audio and video files or programs, for any public or commercial purpose, including for sale, unless prior written permission is first obtained from us.
+<li>We maintain this Digital Service for the information and education of its users. As such, users may only download, reproduce or use materials displayed on this Digital Service for strictly non-commercial and personal purposes, and are strictly prohibited from downloading, reproducing, modifying, distributing, re-posting, framing or using any such materials, including but not limited to text, images, photographs, and audio and video files or programs, for any public or commercial purpose, including for sale, unless prior written permission is first obtained from us.</li>
 
-14.	<u>Privacy Policy</u>. Please click here to view this Digital Service’s Privacy Statement.
+<li><u>Privacy Policy</u>. Please click here to view this Digital Service’s Privacy Statement.</li>
 
-15.	<u>Disclaimer and Limitation of Liability</u>. We will not be liable for any loss or damage (i) that you may incur on account of using, visiting or relying on any statements, opinion, representation or information in this Digital Service, (ii) resulting from any delay in operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software, or (iii) the conduct or the views of any person who accesses or uses this Digital Service.
+<li><u>Disclaimer and Limitation of Liability</u>. We will not be liable for any loss or damage (i) that you may incur on account of using, visiting or relying on any statements, opinion, representation or information in this Digital Service, (ii) resulting from any delay in operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software, or (iii) the conduct or the views of any person who accesses or uses this Digital Service.</li>
 
-16.	<u>Applicable Law</u>. Use of this Digital Service and these Terms are governed by the laws of Singapore. Any claim relating to the use of this Digital Service shall be heard by Singapore Courts.
+<li><u>Applicable Law</u>. Use of this Digital Service and these Terms are governed by the laws of Singapore. Any claim relating to the use of this Digital Service shall be heard by Singapore Courts.</li>
+</ol>
