@@ -113,7 +113,7 @@ have the programming knowhow to sniff them out? Get cracking on this challenge.
 		<br><br>
 	
 
-		Download the challenge materials here: <a href="/images/Week3/Challenge.jpg" target="_blank">Asset 1</a>, <a href="/images/Week3/Original.jpg" target="_blank">Asset 2</a>.
+		Download the challenge materials here: <a href="/images/Week3/Challenge.jpg" target="_blank" download>Asset 1</a>, <a href="/images/Week3/Original.jpg" target="_blank" download>Asset 2</a>.
 
 		</p>
 	<a href="https://form.gov.sg/621c32cb9c0ecc0014b16ca7" target="_blank"><img src="/images/buttonSubmit.png" class="mt-20"/>
