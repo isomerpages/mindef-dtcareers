@@ -144,10 +144,8 @@ Try them out below!
 </p>
 
 <div class="d-flex flex-column mt-20">
-	<a href="https://www.youtube.com/watch?v=1c8Z63taquM" target="_blank" class="col-6 mr-16">
-		<img src="/images/pastChallenge1.jpg" class=""/>
-	</a>
-	
+	<div class="embed-container"><iframe src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
+	</div>	
 </div>
 
 <h4 class="mt-20 bold">
