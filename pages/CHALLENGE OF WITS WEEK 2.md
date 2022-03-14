@@ -144,10 +144,11 @@ Try them out below!
 </p>
 
 <div class="d-flex flex-column mt-20">
-	<div class="embed-container"><iframe src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
-	</div>	
-</div>
-
+	<div class="col-6 mr-16">
+		<div class="embed-container"><iframe src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
+	</div>
+	</div>
+	
 <h4 class="mt-20 bold">
 	Still Have Questions About Our Challenge?
 </h4>
