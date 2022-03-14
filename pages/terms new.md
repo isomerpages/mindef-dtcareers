@@ -8,10 +8,10 @@ description: ""
 	text-align:justify;}
 	
 	.a{
-	list-style-type:lower-alpha;}
+	list-style-type:lower-alpha!important;}
 	
 	ol.a li{
-	margin-left:1em;
+	margin-left:1em!important;
 	}
 </style>
 1.	<u>General</u>. This Digital Service is owned by the Government of the Republic of Singapore. Access to any area of this Digital Service is governed by the terms and conditions below (“Terms”). By accessing and using any area of this Digital Service, you shall be deemed to have accepted and agreed to be legally bound by these Terms. If you do not agree to any of these Terms, please do not use this Digital Service. In these Terms, the words “we”, “our” and “us” refers to the Government of the Republic of Singapore.
