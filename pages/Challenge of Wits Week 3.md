@@ -113,7 +113,7 @@ have the programming knowhow to sniff them out? Get cracking on this challenge.
 		<br><br>
 	
 
-		Download the challenge materials <a href="/files/DSO%20Guided%20Systems%20-%20Full%20List%20of%20Questions.pdf" target="_blank">here</a>.
+		Download the challenge materials here: <a href="/files/DSO%20Guided%20Systems%20-%20Full%20List%20of%20Questions.pdf" target="_blank">Asset 1</a>, <a href="/files/DSO%20Guided%20Systems%20-%20Full%20List%20of%20Questions.pdf" target="_blank">Asset 2</a>.
 
 		</p>
 	<a href="https://form.gov.sg/621c32cb9c0ecc0014b16ca7" target="_blank"><img src="/images/buttonSubmit.png" class="mt-20"/>
