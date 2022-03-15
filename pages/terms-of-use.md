@@ -31,7 +31,7 @@ permalink: /terms-of-use/
 
 7.	You should take appropriate steps to keep your information, software and equipment secure. This includes clearing your Internet browser cookies and cache before and after using any services on this Digital Service.
 
-8.	Hyperlinks. This Digital Service contains hyperlinks to digital services which are not maintained or controlled by us. We shall not be responsible for the contents of any hyperlinked digital service or any hyperlink contained in a hyperlinked digital service, and shall not be liable for any damages or loss arising from access to those digital services. Use of the hyperlinks and access to such hyperlinked digital services are entirely at your own risk.
+8.	<u>Hyperlinks</u>. This Digital Service contains hyperlinks to digital services which are not maintained or controlled by us. We shall not be responsible for the contents of any hyperlinked digital service or any hyperlink contained in a hyperlinked digital service, and shall not be liable for any damages or loss arising from access to those digital services. Use of the hyperlinks and access to such hyperlinked digital services are entirely at your own risk.
 
 9.	All hyperlinks to other digital services are provided as a convenience to you as a user of this Digital Service. The inclusion of any hyperlink does not imply any endorsement by us of such digital services. Under no circumstances shall we be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on digital services to which this Digital Service is hyperlinked.
 
