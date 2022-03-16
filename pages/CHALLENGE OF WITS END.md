@@ -78,7 +78,7 @@ description: ""
 	}
 	
 	.mt-sm-12{
-	margin-top:12px;}
+	margin-top:12px!important;}
 	}
 	
 	
