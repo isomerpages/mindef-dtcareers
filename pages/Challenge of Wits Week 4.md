@@ -156,7 +156,7 @@ Try them out below!
 	</div>
 	</div>
 
-<div class="d-flex justify-center mt-20">
+<div class="d-flex justify-center mt-20 mt-sm-12 flex-column">
 		<div class="col-6">
 		<div class="embed-container"><iframe src='https://www.youtube.com/embed/meMMPPDgFOI' frameborder='0' allowfullscreen></iframe>
 	</div>
