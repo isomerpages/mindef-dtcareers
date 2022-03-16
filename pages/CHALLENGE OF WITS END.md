@@ -92,7 +92,7 @@ description: ""
 <img src="/images/titleChallenge_completed.jpg" class="mt-20"/>
 
 <p class="challenge-text">
-	Well done to all <a href="#" target="_blank">winners</a> and participants, you have proven your mettle! Follow us on social media for more exciting content up ahead. Who knows what other fun activities we have in store for you in the future?
+	Well done to all winners and participants, you have proven your mettle! Follow us on social media for more exciting content up ahead. Who knows what other fun activities we have in store for you in the future?
 </p>
 
 <h4 class="mt-40 bold">
