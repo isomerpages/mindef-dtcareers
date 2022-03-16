@@ -104,7 +104,7 @@ Revisit The Challenges and See How You Match Up Against Other Next-Gen Minds</h4
 		<div class="embed-container"><iframe src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
 	</div>
 	</div>
-		<div class="col-6">
+		<div class="col-6 mt-sm-12">
 		<div class="embed-container"><iframe src='https://www.youtube.com/embed/8WkOIOieEqg' frameborder='0' allowfullscreen></iframe>
 	</div>
 	</div>
@@ -115,7 +115,7 @@ Revisit The Challenges and See How You Match Up Against Other Next-Gen Minds</h4
 		<div class="embed-container"><iframe src='https://www.youtube.com/embed/meMMPPDgFOI' frameborder='0' allowfullscreen></iframe>
 	</div>
 	</div>
-		<div class="col-6">
+		<div class="col-6 mt-sm-12">
 		<div class="embed-container"><iframe src='https://www.youtube.com/embed/6Gn4OGTvxPo' frameborder='0' allowfullscreen></iframe>
 	</div>
 	</div>
