@@ -110,7 +110,7 @@ Revisit The Challenges and See How You Match Up Against Other Next-Gen Minds</h4
 	</div>
 	</div>
 
-<div class="d-flex flex-column mt-20">
+<div class="d-flex flex-column mt-20 mt-sm-12">
 		<div class="col-6 mr-16">
 		<div class="embed-container"><iframe src='https://www.youtube.com/embed/meMMPPDgFOI' frameborder='0' allowfullscreen></iframe>
 	</div>
