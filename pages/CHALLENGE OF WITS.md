@@ -86,8 +86,8 @@ description: ""
 	
 </style>
 <div class="d-flex flex-column">
-	<img src="/images/prizeImage_1_01.jpg" class="col-6"/>
-	<img src="/images/prizeImage_1_02.jpg" class="col-6"/>
+	<img src="/images/pagebanner_1_01.jpg" class="col-6"/>
+	<img src="/images/pagebanner_1_02.jpg" class="col-6"/>
 </div>
 
 
