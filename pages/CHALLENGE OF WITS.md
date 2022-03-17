@@ -86,14 +86,14 @@ description: ""
 	
 </style>
 <div class="d-flex flex-column">
-	<img src="/images/pagebanner_1_01.jpg" class="col-6"/>
-	<img src="/images/pagebanner_1_02.jpg" class="col-6"/>
+	<img src="/images/pageBanner_1_01.jpg" class="col-6"/>
+	<img src="/images/pageBanner_1_02.jpg" class="col-6"/>
 </div>
 
 
 <div class="d-flex flex-column mt-60">
-	<img src="/images/prizeImage_1_01.jpg" class="col-6"/>
-	<img src="/images/prizeImage_1_02.jpg" class="col-6"/>
+	<img src="/images/1_titleChallenge_01.jpg" class="col-6"/>
+	<img src="/images/1_titleChallenge_02.jpg" class="col-6"/>
 </div>
 
 
@@ -114,8 +114,8 @@ Virtual reality adds a whole slew of possibilities for immersive mission scenari
 </div>
 
 <div class="d-flex flex-column mt-40">
-	<img src="/images/1_prizeImage_1_01.jpg" class="col-6"/>
-	<img src="/images/1_prizeImage_1_02.jpg" class="col-6"/>
+	<img src="/images/prizeImage_1_01.jpg" class="col-6"/>
+	<img src="/images/prizeImage_1_02.jpg" class="col-6"/>
 </div>
 
 <p class="challenge-text">One lucky winner will win a <b>Google Nest Mini</b> and a <b>Steelseries Arctis Pro</b> wireless headset worth <b>$669</b> in total.<br><br>
