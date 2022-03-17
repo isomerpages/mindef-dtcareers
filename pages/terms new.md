@@ -1,11 +1,8 @@
 ---
-title: Terms of Use
-permalink: /terms-of-use/
+title: terms new
+permalink: /terms-new
+description: ""
 ---
-### **TERMS OF USE**
-
-#### **General Legal Information**
-
 <style>
 	p,li{
 	text-align:justify;}
@@ -31,7 +28,7 @@ permalink: /terms-of-use/
 
 7.	You should take appropriate steps to keep your information, software and equipment secure. This includes clearing your Internet browser cookies and cache before and after using any services on this Digital Service.
 
-8.	<u>Hyperlinks</u>. This Digital Service contains hyperlinks to digital services which are not maintained or controlled by us. We shall not be responsible for the contents of any hyperlinked digital service or any hyperlink contained in a hyperlinked digital service, and shall not be liable for any damages or loss arising from access to those digital services. Use of the hyperlinks and access to such hyperlinked digital services are entirely at your own risk.
+8.	Hyperlinks. This Digital Service contains hyperlinks to digital services which are not maintained or controlled by us. We shall not be responsible for the contents of any hyperlinked digital service or any hyperlink contained in a hyperlinked digital service, and shall not be liable for any damages or loss arising from access to those digital services. Use of the hyperlinks and access to such hyperlinked digital services are entirely at your own risk.
 
 9.	All hyperlinks to other digital services are provided as a convenience to you as a user of this Digital Service. The inclusion of any hyperlink does not imply any endorsement by us of such digital services. Under no circumstances shall we be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on digital services to which this Digital Service is hyperlinked.
 
@@ -50,16 +47,14 @@ permalink: /terms-of-use/
 
 </ol>
 
-<ol start="11">
-  <li><u>Intellectual Property</u>. All material displayed on this Digital Service, including the images of people or places, is either the property of us, or has been used with the permission of the relevant rights holder.</li>
+11.	<u>Intellectual Property</u>. All material displayed on this Digital Service, including the images of people or places, is either the property of us, or has been used with the permission of the relevant rights holder.
 
-<li>Accordingly, downloading, reproduction or use of such material by any other person, IS STRICTLY PROHIBITED, unless such downloading, reproduction or use complies with the Terms contained within this Digital Service, and prior consent in writing is obtained from us, and from the relevant rights holder (if applicable).</li>
+12.	Accordingly, downloading, reproduction or use of such material by any other person, IS STRICTLY PROHIBITED, unless such downloading, reproduction or use complies with the Terms contained within this Digital Service, and prior consent in writing is obtained from us, and from the relevant rights holder (if applicable).
 
-<li>We maintain this Digital Service for the information and education of its users. As such, users may only download, reproduce or use materials displayed on this Digital Service for strictly non-commercial and personal purposes, and are strictly prohibited from downloading, reproducing, modifying, distributing, re-posting, framing or using any such materials, including but not limited to text, images, photographs, and audio and video files or programs, for any public or commercial purpose, including for sale, unless prior written permission is first obtained from us.</li>
+13.	We maintain this Digital Service for the information and education of its users. As such, users may only download, reproduce or use materials displayed on this Digital Service for strictly non-commercial and personal purposes, and are strictly prohibited from downloading, reproducing, modifying, distributing, re-posting, framing or using any such materials, including but not limited to text, images, photographs, and audio and video files or programs, for any public or commercial purpose, including for sale, unless prior written permission is first obtained from us.
 
-<li><u>Privacy Policy</u>. Please click here to view this Digital Service’s Privacy Statement.</li>
+14.	<u>Privacy Policy</u>. Please click here to view this Digital Service’s Privacy Statement.
 
-<li><u>Disclaimer and Limitation of Liability</u>. We will not be liable for any loss or damage (i) that you may incur on account of using, visiting or relying on any statements, opinion, representation or information in this Digital Service, (ii) resulting from any delay in operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software, or (iii) the conduct or the views of any person who accesses or uses this Digital Service.</li>
+15.	<u>Disclaimer and Limitation of Liability</u>. We will not be liable for any loss or damage (i) that you may incur on account of using, visiting or relying on any statements, opinion, representation or information in this Digital Service, (ii) resulting from any delay in operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software, or (iii) the conduct or the views of any person who accesses or uses this Digital Service.
 
-<li><u>Applicable Law</u>. Use of this Digital Service and these Terms are governed by the laws of Singapore. Any claim relating to the use of this Digital Service shall be heard by Singapore Courts.</li>
-</ol>
+16.	<u>Applicable Law</u>. Use of this Digital Service and these Terms are governed by the laws of Singapore. Any claim relating to the use of this Digital Service shall be heard by Singapore Courts.
