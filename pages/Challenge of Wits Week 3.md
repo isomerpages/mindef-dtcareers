@@ -122,8 +122,8 @@ have the programming knowhow to sniff them out? Get cracking on this challenge.
 </div>
 
 <div class="d-flex flex-column mt-40">
-	<img src="/images/3_prizeImage_1_01.jpg" class="col-6"/>
-	<img src="/images/3_prizeImage_1_02.jpg" class="col-6"/>
+	<img src="/images/prizeImage_1_01_W3.jpg" class="col-6"/>
+	<img src="/images/prizeImage_1_02_W3.jpg" class="col-6"/>
 </div>
 
 <p class="challenge-text">One lucky winner will win a <b>Razer Barracuda X, Logitech G Pro Wireless Gaming Mouse</b> and a <b>Logitech G Pro X Keyboard</b> worth <b>$638</b> in total.<br><br>
