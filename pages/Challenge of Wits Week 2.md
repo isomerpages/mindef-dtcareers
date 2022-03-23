@@ -137,7 +137,7 @@ Look out for our email to see if you have scored yourself some prizes.
 </h4>
 
 <p class="challenge-text">
-Got an appetite for more tech? Have a go at our previous challenges and geek out over how our latest defence innovations and solutions are engineered.
+Got an appetite for more tech? Have a go at our previous challenge and geek out over how our latest defence innovations and solutions are engineered.
 <br><br>
 Try them out below!
 	
