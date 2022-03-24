@@ -139,7 +139,7 @@ Look out for our email to see if you have scored yourself some prizes.
 <p class="challenge-text">
 Got an appetite for more tech? Have a go at our previous challenge and geek out over how our latest defence innovations and solutions are engineered.
 <br><br>
-Try them out below!
+Try it out below!
 	
 </p>
 
