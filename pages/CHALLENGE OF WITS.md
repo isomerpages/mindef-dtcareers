@@ -12,14 +12,14 @@ description: ""
 	a[target="_blank"]:after,.float-buttons{
 	display:none;}
 	
-
+	.bold{
+	font-weight:bold;
+	}
 	.join-benefits,.d-flex{
 	display:flex!important;
 	}
 	
-	.bold{
-	font-weight:bold;}
-		.mt-60{
+	.mt-60{
 	margin-top:60px!important;}
 	
 		.mt-40{
@@ -28,11 +28,12 @@ description: ""
 			.mt-20{
 	margin-top:20px!important;}
 	
-				.mt-0{
-	margin-top:0px!important;}
-	
 	.mt-8{
 	margin-top:8px!important;}
+	
+	
+				.mt-0{
+	margin-top:0px!important;}
 	
 	p.cta-text{
 	font-size:1rem;
@@ -73,6 +74,8 @@ description: ""
 	}
 
 	@media only screen and (max-width:767px){
+	
+
 	.join-benefits,.flex-column{
 	flex-direction:column;
 
@@ -92,33 +95,37 @@ description: ""
 
 
 <div class="d-flex flex-column mt-60">
-	<img src="/images/1_titleChallenge_01.jpg" class="col-6"/>
-	<img src="/images/1_titleChallenge_02.jpg" class="col-6"/>
+	<img src="/images/2_titleChallenge_01.jpg" class="col-6"/>
+	<img src="/images/2_titleChallenge_02.jpg" class="col-6"/>
 </div>
 
 
 <div class="d-flex flex-column mt-40">
 	<div class="col-8 mr-16">
-		<div class="embed-container"><iframe src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
+		<div class="embed-container"><iframe src='https://www.youtube.com/embed/8WkOIOieEqg' frameborder='0' allowfullscreen></iframe>
 	</div>
 	</div>
 	
 	<div class="col-4 self-center">
 	<p class="cta-text mt-sm-12">
-Virtual reality adds a whole slew of possibilities for immersive mission scenarios in training. Can you make defence tech solutions a reality with some mathematical computations? Showcase your brilliance in this challenge.
+		Navigation is one of the crucial elements for success in the battleﬁeld, especially with unmanned systems. Fancy yourself an expert in mapping coordinates? Showcase your brilliance in this challenge.
+		<br><br>
+	
+
+		Download the challenge materials <a href="/files/Challenge-of-Wits_Guided-Systems_DSO-National-Laboratories.pdf" target="_blank" download>here</a>.
 
 		</p>
-	<a href="https://form.gov.sg/61ea1bd438bcc9001344d56e" target="_blank"><img src="/images/buttonSubmit.png" class="mt-20"/>
+	<a href="https://form.gov.sg/621c32ab9c0ecc0014b16318" target="_blank"><img src="/images/buttonSubmit.png" class="mt-20"/>
 		</a>
 	</div>
 </div>
 
 <div class="d-flex flex-column mt-40">
-	<img src="/images/prizeImage_1_01.jpg" class="col-6"/>
-	<img src="/images/prizeImage_1_02.jpg" class="col-6"/>
+	<img src="/images/2_prizeImage_1_01.jpg" class="col-6"/>
+	<img src="/images/2_prizeImage_1_02.jpg" class="col-6"/>
 </div>
 
-<p class="challenge-text">One lucky winner will win a <b>Google Nest Mini</b> and a <b>Steelseries Arctis Pro</b> wireless headset worth <b>$669</b> in total.<br><br>
+<p class="challenge-text">One lucky winner will win a <b>DJI Mini 2 Drone</b> and a <b>Professional 3D Printing Pen</b> worth <b>$688</b> in total.<br><br>
 
 We are also giving away a LinkedIn E-certiﬁcate and $10 Grab Voucher for correct submissions to the challenges.<br><br>
 
@@ -126,10 +133,28 @@ Look out for our email to see if you have scored yourself some prizes.
 </p>
 
 <h4 class="mt-40 bold">
+	In Case You Missed It
+</h4>
+
+<p class="challenge-text">
+Got an appetite for more tech? Have a go at our previous challenge and geek out over how our latest defence innovations and solutions are engineered.
+<br><br>
+Try it out below!
+	
+</p>
+
+<div class="d-flex flex-column mt-20">
+	<div class="col-6 mr-16">
+		<div class="embed-container"><iframe src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
+	</div>
+	</div>
+	</div>
+	
+<h4 class="mt-20 bold">
 	Still Have Questions About Our Challenge?
 </h4>
 <p class="challenge-text">
-Check out our <a href="/TERMS-CONDITIONS-AND-FREQUENTLY-ASKED-QUESTIONS" target="_blank">Terms & Conditions and Frequently Asked Questions</a>. For any other enquiries, you can contact us at <a href="mailto:DTC@mindef.gov.sg">DTC@mindef.gov.sg</a>.
+Check out our <a href="/terms-conditions-and-frequently-asked-questions" target="_blank">Terms & Conditions and Frequently Asked Questions</a>. For any other enquiries, you can contact us at <a href="mailto:DTC@mindef.gov.sg">DTC@mindef.gov.sg</a>.
 </p>
 
 <h4  style="font-weight:bold;margin-top:2rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h4>
