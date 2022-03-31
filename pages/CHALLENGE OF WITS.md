@@ -4,69 +4,69 @@ permalink: /challenge
 description: ""
 ---
 <style>
-	
+
 	.embed-container 
 	{ position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } 
 	.embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-	
+
 	a[target="_blank"]:after,.float-buttons{
 	display:none;}
-	
+
 	.bold{
 	font-weight:bold;
 	}
 	.join-benefits,.d-flex{
 	display:flex!important;
 	}
-	
+
 	.mt-60{
 	margin-top:60px!important;}
-	
+
 		.mt-40{
 	margin-top:40px!important;}
-	
+
 			.mt-20{
 	margin-top:20px!important;}
-	
+
 	.mt-8{
 	margin-top:8px!important;}
-	
-	
+
+
 				.mt-0{
 	margin-top:0px!important;}
-	
+
 	p.cta-text{
 	font-size:1rem;
 	line-height:1.3}
-	
+
 	p.challenge-text{
 		font-size:1rem;
 	line-height:1.3}
-	
+
 	.self-center{
 	align-self:center;}
 
 
 	@media only screen and (min-width:768px){
-	
+
 	.mr-16{
 	margin-right:16px;}
-	
+
 	.col-6{
 	width:50%!important;
 	}
-	
+
 	.col-8{
 	width:66.6%!important;
 	}
-	
+
 	.col-4{
 	width:33.3%!important;
 	}
-	
-	
-	
-	
+
+
+
+
 	.join-benefits img{
 		display:flex;
 	width:50%;
@@ -74,19 +74,19 @@ description: ""
 	}
 
 	@media only screen and (max-width:767px){
-	
+
 
 	.join-benefits,.flex-column{
 	flex-direction:column;
 
 	}
-	
+
 	.mt-sm-12{
 	margin-top:12px!important;}
 	}
-	
-	
-	
+
+
+
 </style>
 <div class="d-flex flex-column">
 	<img src="/images/pageBanner_1_01.jpg" class="col-6"/>
@@ -95,37 +95,38 @@ description: ""
 
 
 <div class="d-flex flex-column mt-60">
-	<img src="/images/2_titleChallenge_01.jpg" class="col-6"/>
-	<img src="/images/2_titleChallenge_02.jpg" class="col-6"/>
+	<img src="/images/3_titleChallenge_01.jpg" class="col-6"/>
+	<img src="/images/3_titleChallenge_02.jpg" class="col-6"/>
 </div>
 
 
 <div class="d-flex flex-column mt-40">
 	<div class="col-8 mr-16">
-		<div class="embed-container"><iframe src='https://www.youtube.com/embed/8WkOIOieEqg' frameborder='0' allowfullscreen></iframe>
+		<div class="embed-container"><iframe src='https://www.youtube.com/embed/meMMPPDgFOI' frameborder='0' allowfullscreen></iframe>
 	</div>
 	</div>
-	
+
 	<div class="col-4 self-center">
 	<p class="cta-text mt-sm-12">
-		Navigation is one of the crucial elements for success in the battleﬁeld, especially with unmanned systems. Fancy yourself an expert in mapping coordinates? Showcase your brilliance in this challenge.
+		Cybersecurity threats can be hidden in plain sight. Do you
+have the programming know-how to sniff them out? Get cracking on this challenge.
 		<br><br>
-	
 
-		Download the challenge materials <a href="/files/Challenge-of-Wits_Guided-Systems_DSO-National-Laboratories.pdf" target="_blank" download>here</a>.
+
+		Download the challenge materials here: <a href="/images/Week3/Original.jpg" target="_blank" download>Original.jpg</a>, <a href="/images/Week3/Challenge.jpg" target="_blank" download>Challenge.jpg</a>.
 
 		</p>
-	<a href="https://form.gov.sg/621c32ab9c0ecc0014b16318" target="_blank"><img src="/images/buttonSubmit.png" class="mt-20"/>
+	<a href="https://form.gov.sg/621c32cb9c0ecc0014b16ca7" target="_blank"><img src="/images/buttonSubmit.png" class="mt-20"/>
 		</a>
 	</div>
 </div>
 
 <div class="d-flex flex-column mt-40">
-	<img src="/images/2_prizeImage_1_01.jpg" class="col-6"/>
-	<img src="/images/2_prizeImage_1_02.jpg" class="col-6"/>
+	<img src="/images/prizeImage_1_01_W3.jpg" class="col-6"/>
+	<img src="/images/prizeImage_1_02_W3.jpg" class="col-6"/>
 </div>
 
-<p class="challenge-text">One lucky winner will win a <b>DJI Mini 2 Drone</b> and a <b>Professional 3D Printing Pen</b> worth <b>$688</b> in total.<br><br>
+<p class="challenge-text">One lucky winner will win a <b>Razer Barracuda X, Logitech G Pro Wireless Gaming Mouse</b> and a <b>Logitech G Pro X Keyboard</b> worth <b>$638</b> in total.<br><br>
 
 We are also giving away a LinkedIn E-certiﬁcate and $10 Grab Voucher for correct submissions to the challenges.<br><br>
 
@@ -137,10 +138,10 @@ Look out for our email to see if you have scored yourself some prizes.
 </h4>
 
 <p class="challenge-text">
-Got an appetite for more tech? Have a go at our previous challenge and geek out over how our latest defence innovations and solutions are engineered.
+Got an appetite for more tech? Have a go at our previous challenges and geek out over how our latest defence innovations and solutions are engineered.
 <br><br>
-Try it out below!
-	
+Try them out below!
+
 </p>
 
 <div class="d-flex flex-column mt-20">
@@ -148,8 +149,12 @@ Try it out below!
 		<div class="embed-container"><iframe src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
 	</div>
 	</div>
+		<div class="col-6 mt-sm-12">
+		<div class="embed-container"><iframe src='https://www.youtube.com/embed/8WkOIOieEqg' frameborder='0' allowfullscreen></iframe>
 	</div>
-	
+	</div>
+	</div>
+
 <h4 class="mt-20 bold">
 	Still Have Questions About Our Challenge?
 </h4>
@@ -166,42 +171,42 @@ Check out our <a href="/terms-conditions-and-frequently-asked-questions" target=
 	width:fit-content;
 	margin:2rem 0 0 0;
 	}
-	
+
 	@media (max-width:767px){
 	.dst-3-col{
 		flex-direction:column;
 	}
-	
+
 	.dst-col{
 	width:100%;}
 	}
-	
+
 	.social-icon{
 	width:24px;
 	height:24px;}
-	
+
 	.dst-3-col p, .dst-3-col a{
 	font-size:0.8rem;line-height:1.2;
 	}
-	
+
 	.dst-3-col a{
 	font-weight:bold;
 	}
-	
+
 	a.site-url{
 	margin:0;
 	}
-	
+
 	img.social-icon{
 	margin-top:1rem;}
-	
+
 	.social{
 	display:flex;}
-	
+
 	.social > a{
 	margin:0 8px 0 0;
 	}
-	
+
 </style>
 
 <div class="dst-3-col">
@@ -223,7 +228,7 @@ Check out our <a href="/terms-conditions-and-frequently-asked-questions" target=
 	</div>
 	<div class="dst-col">
 		<img src="/images/dso-logo.png" style=""/>
-			<p>DSO is Singapore’s largest defence research and development (R&D) organisation that develops critical and emerging technological solutions for national security in various scientific fields. 
+			<p>DSO is Singapore’s largest defence research and development (R&D) organisation that develops critical and emerging technological solutions for national security in various scientific fields. 
 </p>
 			<a href="https://www.dso.org.sg" class="site-url" target="_blank">www.dso.org.sg</a>
 		<div class="social">
