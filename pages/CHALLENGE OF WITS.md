@@ -46,6 +46,10 @@ description: ""
 	.self-center{
 	align-self:center;}
 
+		.justify-center{
+	justify-content:center;
+	}
+
 
 	@media only screen and (min-width:768px){
 
@@ -83,6 +87,8 @@ description: ""
 
 	.mt-sm-12{
 	margin-top:12px!important;}
+
+
 	}
 
 
@@ -95,38 +101,33 @@ description: ""
 
 
 <div class="d-flex flex-column mt-60">
-	<img src="/images/3_titleChallenge_01.jpg" class="col-6"/>
-	<img src="/images/3_titleChallenge_02.jpg" class="col-6"/>
+	<img src="/images/4_titleChallenge_01.jpg" class="col-6"/>
+	<img src="/images/4_titleChallenge_02.jpg" class="col-6"/>
 </div>
 
 
 <div class="d-flex flex-column mt-40">
 	<div class="col-8 mr-16">
-		<div class="embed-container"><iframe src='https://www.youtube.com/embed/meMMPPDgFOI' frameborder='0' allowfullscreen></iframe>
+		<div class="embed-container"><iframe src='https://www.youtube.com/embed/6Gn4OGTvxPo' frameborder='0' allowfullscreen></iframe>
 	</div>
 	</div>
 
 	<div class="col-4 self-center">
 	<p class="cta-text mt-sm-12">
-		Cybersecurity threats can be hidden in plain sight. Do you
-have the programming know-how to sniff them out? Get cracking on this challenge.
-		<br><br>
-
-
-		Download the challenge materials here: <a href="/images/Week3/Original.jpg" target="_blank" download>Original.jpg</a>, <a href="/images/Week3/Challenge.jpg" target="_blank" download>Challenge.jpg</a>.
-
-		</p>
-	<a href="https://form.gov.sg/621c32cb9c0ecc0014b16ca7" target="_blank"><img src="/images/buttonSubmit.png" class="mt-20"/>
+		Dispatching the right assets to the right areas is critical to
+mission success. Can you make the right call based on real-time information? Showcase your brilliance in this challenge.</p>
+	<a href="https://form.gov.sg/621c32d3e5b4960013499b1d" target="_blank"><img src="/images/buttonSubmit.png" class="mt-20"/>
 		</a>
 	</div>
 </div>
 
 <div class="d-flex flex-column mt-40">
-	<img src="/images/prizeImage_1_01_W3.jpg" class="col-6"/>
-	<img src="/images/prizeImage_1_02_W3.jpg" class="col-6"/>
+	<img src="/images/4_prizeImage_1_01.jpg" class="col-6"/>
+	<img src="/images/4_prizeImage_1_02.jpg" class="col-6"/>
 </div>
 
-<p class="challenge-text">One lucky winner will win a <b>Razer Barracuda X, Logitech G Pro Wireless Gaming Mouse</b> and a <b>Logitech G Pro X Keyboard</b> worth <b>$638</b> in total.<br><br>
+<p class="challenge-text">One lucky winner will win a <b>Secretlab Titan Evo 2022</b> and a <b>Rocketbook Everlast Smart Reusable Notebook,
+Executive</b> worth <b>$644</b> in total.<br><br>
 
 We are also giving away a LinkedIn E-certiﬁcate and $10 Grab Voucher for correct submissions to the challenges.<br><br>
 
@@ -153,6 +154,14 @@ Try them out below!
 		<div class="embed-container"><iframe src='https://www.youtube.com/embed/8WkOIOieEqg' frameborder='0' allowfullscreen></iframe>
 	</div>
 	</div>
+	</div>
+
+<div class="d-flex justify-center mt-20 mt-sm-12 flex-column">
+		<div class="col-6">
+		<div class="embed-container"><iframe src='https://www.youtube.com/embed/meMMPPDgFOI' frameborder='0' allowfullscreen></iframe>
+	</div>
+	</div>
+
 	</div>
 
 <h4 class="mt-20 bold">
