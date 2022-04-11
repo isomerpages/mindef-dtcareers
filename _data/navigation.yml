@@ -12,3 +12,8 @@ links:
     url: /challenge
   - title: About Us
     url: /about-us
+  - title: Menu Title
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
