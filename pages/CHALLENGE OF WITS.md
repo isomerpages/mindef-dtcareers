@@ -1,6 +1,6 @@
 ---
 title: CHALLENGE OF WITS
-permalink: /challenge
+permalink: /challenge/
 description: ""
 ---
 <style>
@@ -211,13 +211,19 @@ Check out our <a href="/terms-conditions-and-frequently-asked-questions" target=
 		</div>
 	</div>
 	<div class="dst-col">
-		<img src="/images/csit-logo.png" style=""/>
-			<p>CSIT is the leading agency in applied research and development of products that harness cutting-edge digital technologies to advance Singapore's security needs, such as in cybersecurity and counter-terrorism.</p>
-			<a href="https://www.csit.gov.sg" target="_blank" class="site-url">www.csit.gov.sg</a>
-	<div class="social">
-			<a href="https://www.linkedin.com/company/centre-for-strategic-infocomm-technologies/" target="_blank">
-				<img src="/images/icons/linkedin.svg" class="social-icon" />
-			</a>
-		</div>
-	</div>
+<img src="/images/csit-logo.png" style=""/>
+<p>The Centre for Strategic Infocomm Technologies (CSIT) is a technical agency that harnesses cutting-edge digital technologies to support missions such as cyber defence, counter terrorism and counter hostile information operations.</p>
+<a href="https://www.csit.gov.sg" target="_blank" class="site-url">www.csit.gov.sg</a>
+<div class="social">
+<a href="https://www.linkedin.com/company/centre-for-strategic-infocomm-technologies/" target="_blank">
+<img src="/images/icons/linkedin.svg" class="social-icon" />
+</a>
+<a href="https://www.facebook.com/csitsg/" target="_blank">
+<img src="/images/icons/facebook.svg" class="social-icon" />
+</a>
+<a href="https://www.instagram.com/csitsg" target="_blank">
+<img src="/images/icons/instagram.svg" class="social-icon" />
+</a>
+</div>
+</div>
 </div>
