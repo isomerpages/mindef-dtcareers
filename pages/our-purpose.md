@@ -34,7 +34,7 @@ permalink: /our-purpose/
 
 <img src="images/purpose/CSIT.png" style="margin-top:3.75rem;"/>
 <h4 style="font-weight:bold;margin-top:2rem;" id="csit">What We Do at Centre for Strategic Infocomm Technologies (CSIT) </h4>
-<p style="margin-top:1rem;">CSIT is a technical agency in MINDEF that harnesses cutting-edge digital technologies to support missions such as cyber defence, counter terrorism and counter hostile information operations. It develops capabilities and conducts deep technical investigations to provide threat intelligence to meet Singapore’s security needs.</p>
+<p style="margin-top:1rem;">CSIT is a technical agency in MINDEF that harnesses cutting-edge digital technologies to support missions such as cyber defence, counter terrorism and counter hostile information operations. It develops capabilities and conducts deep technical investigations to provide threat intelligence to meet Singapore’s security needs.</p>
 <a href="https://www.csit.gov.sg/core-values" target="_blank" style="font-weight:bold;margin-bottom:60px;font-size:1.25rem;">Learn more about CSIT</a>
 
 <br><br>
@@ -123,11 +123,17 @@ permalink: /our-purpose/
 	</div>
 	<div class="dst-col">
 		<img src="/images/csit-logo.png" style=""/>
-			<p>CSIT is the leading agency in applied research and development of products that harness cutting-edge digital technologies to advance Singapore's security needs, such as in cybersecurity and counter-terrorism.</p>
+			<p>The Centre for Strategic Infocomm Technologies (CSIT) is a technical agency that harnesses cutting-edge digital technologies to support missions such as cyber defence, counter terrorism and counter hostile information operations.</p>
 			<a href="https://www.csit.gov.sg" target="_blank" class="site-url">www.csit.gov.sg</a>
 	<div class="social">
 			<a href="https://www.linkedin.com/company/centre-for-strategic-infocomm-technologies/" target="_blank">
 				<img src="/images/icons/linkedin.svg" class="social-icon" />
+			</a>
+		<a href="https://www.facebook.com/csitsg/" target="_blank">
+				<img src="/images/icons/facebook.svg" class="social-icon" />
+			</a>
+			<a href="https://www.instagram.com/csitsg" target="_blank">
+				<img src="/images/icons/instagram.svg" class="social-icon" />
 			</a>
 		</div>
 	</div>
