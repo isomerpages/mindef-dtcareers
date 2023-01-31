@@ -43,7 +43,7 @@ permalink: /careers-and-programmes/
 </p>
 <div class="dst-3-col">
 	<div class="dst-col">
-	<a class="nommargin" href="https://www.dsta.gov.sg/join-us/student/internship/internship-programme"  target="_blank">
+	<a class="nommargin" href="https://www.dsta.gov.sg/join-us/student/internships"  target="_blank">
 		<img class="nommargin" src="/images/internship-dsta.png"/>
 	</a>
 	</div>
