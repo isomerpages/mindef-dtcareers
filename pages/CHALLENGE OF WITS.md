@@ -81,7 +81,14 @@ description: ""
 	margin-top:12px!important;}
 	}
 	
-	
+	.center {
+	  border: 5px solid;
+	  position: absolute;
+	  top: 50%;
+	  left: 50%;
+	  transform: translate(-50%, -50%);
+	  padding: 10px;
+	}
 	
 </style>
 <div class="d-flex flex-column">
@@ -89,7 +96,7 @@ description: ""
 </div>
 
 <img src="/images/Mock_V2_Teaser.png" class="mt-20"/>
-<div class="self-center">
+<div class="center">
 	<iframe  src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
 </div>
 <h4 class="mt-40 bold">
