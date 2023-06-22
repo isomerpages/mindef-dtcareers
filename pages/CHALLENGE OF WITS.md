@@ -89,7 +89,7 @@ description: ""
 </div>
 
 <img src="/images/Mock_V2_Teaser.png" class="mt-20"/>
-<div style="align-self:center;">
+<div class="d-flex flex-column">
 	<iframe  src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
 </div>
 <h4 class="mt-40 bold">
