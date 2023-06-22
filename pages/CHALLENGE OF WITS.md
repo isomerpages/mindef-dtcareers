@@ -83,8 +83,10 @@ description: ""
 	
 	.center {
 
-	text-align: center;
+		text-align: center;
 		justify-content: center;
+		width: 200%;
+ 	 	height: 200%;	
 	}
 	
 </style>
