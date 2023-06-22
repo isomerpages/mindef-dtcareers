@@ -95,7 +95,7 @@ description: ""
 
 <img src="/images/Mock_V2_Teaser.png" class="mt-20"/>
 <div class="center">
-	<iframe style="width:560px; height:340px" src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
+	<iframe class="center" style="width:560px; height:340px" src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
 </div>
 <h4 class="mt-40 bold">
 	Ready to take on the Challenge of Wits?
