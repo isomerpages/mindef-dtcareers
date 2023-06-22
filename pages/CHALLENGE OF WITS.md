@@ -82,7 +82,9 @@ description: ""
 	}
 	
 	.center {
-	   position: center;
+
+	text-align: center;
+		justify-content: center;
 	}
 	
 </style>
