@@ -85,42 +85,30 @@ description: ""
 	
 </style>
 <div class="d-flex flex-column">
-	<img src="/images/pageBanner_1_01.jpg" class="col-6"/>
-	<img src="/images/pageBanner_1_02.jpg" class="col-6"/>
+	<img src="/images/Mock_V2 KV.png" class="col-6"/>
 </div>
 
-<img src="/images/titleChallenge_completed.jpg" class="mt-20"/>
+<img src="/images/Mock_V2_Teaser.png" class="mt-20"/>
 
+<iframe src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
+
+<h4 class="mt-40 bold">
+	Ready to take on the Challenge of Wits?
+</h4>
 <p class="challenge-text">
-	Well done to all winners and participants, you have proven your mettle! Follow us on social media for more exciting content up ahead. Who knows what other fun activities we have in store for you in the future?
+	Calling all Singaporeans and students with a strong passion in Science & Tech! Prove your mettle in 3 brand new challenges crafted by Singapore’s defence technology experts!  Stay tuned for the first challenge to drop right here, on 1 August. Mindy will talk you through the challenge and you’ll have two weeks to submit your answer. Stand a chance to win attractive prizes.
+</p>
+<p class="challenge-text">
+	All Singaporeans aged 15 and older are welcome to participate.
 </p>
 
 <h4 class="mt-40 bold">
-Revisit The Challenges and See How You Match Up Against Other Next-Gen Minds</h4>
+	Know a worthy challenger? Refer and win.
+</h4>
+<p class="challenge-text">
+	Keep an eye out for our referral posts on Instagram (<a href="https://..." target="_blank">@singaporedsta</a>, <a href="https://..." target="_blank">@discoverdso</a>, <a href="https://..." target="_blank">@csitsg</a>) when the challenge begins. Share the post on your Instagram story and tag 3 friends who have what it takes in the comments to enter our lucky draw. 
+</p>
 
-
-<div class="d-flex flex-column mt-20">
-	<div class="col-6 mr-16">
-		<div class="embed-container"><iframe src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
-	</div>
-	</div>
-		<div class="col-6 mt-sm-12">
-		<div class="embed-container"><iframe src='https://www.youtube.com/embed/8WkOIOieEqg' frameborder='0' allowfullscreen></iframe>
-	</div>
-	</div>
-	</div>
-
-<div class="d-flex flex-column mt-20 mt-sm-12">
-		<div class="col-6 mr-16">
-		<div class="embed-container"><iframe src='https://www.youtube.com/embed/meMMPPDgFOI' frameborder='0' allowfullscreen></iframe>
-	</div>
-	</div>
-		<div class="col-6 mt-sm-12">
-		<div class="embed-container"><iframe src='https://www.youtube.com/embed/6Gn4OGTvxPo' frameborder='0' allowfullscreen></iframe>
-	</div>
-	</div>
-		
-	</div>
 
 <h4 class="mt-40 bold">
 	Still Have Questions About Our Challenge?
@@ -172,6 +160,20 @@ Check out our <a href="/terms-conditions-and-frequently-asked-questions" target=
 	
 	.social > a{
 	margin:0 8px 0 0;
+	}
+
+	.left-half {
+	  background-color: #ff9e2c;
+	  position: absolute;
+	  left: 0px;
+	  width: 50%;
+	}
+	
+	.right-half {
+	  background-color: #b6701e;
+	  position: absolute;
+	  right: 0px;
+	  width: 50%;
 	}
 	
 </style>
