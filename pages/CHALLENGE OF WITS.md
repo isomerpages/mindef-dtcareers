@@ -90,7 +90,7 @@ description: ""
 	
 </style>
 <div class="d-flex flex-column">
-	<img src="/images/Mock_KV.jpg" class="col-8"/>
+	<img src="/images/Mock_KV.jpg" class="col-6"/>
 </div>
 
 <img src="/images/Mock_Pre Launch Banner.jpg" class="mt-20"/>
