@@ -90,10 +90,10 @@ description: ""
 	
 </style>
 <div class="d-flex flex-column">
-	<img src="/images/Mock_V2 KV.png" class="col-6"/>
+	<img src="/images/Mock_KV.jpg" class="col-6"/>
 </div>
 
-<img src="/images/Mock_V2_Teaser.png" class="mt-20"/>
+<img src="/images/Mock_Pre Launch Banner.jpg" class="mt-20"/>
 <div class="center">
 	<iframe class="center" style="width:560px; height:340px" src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
 </div>
@@ -116,7 +116,7 @@ description: ""
 
 
 <h4 class="mt-40 bold">
-	Still Have Questions About Our Challenge?
+	Questions about our challenge?
 </h4>
 <p class="challenge-text">
 Check out our <a href="/terms-conditions-and-frequently-asked-questions" target="_blank">Terms & Conditions and Frequently Asked Questions</a>. For any other enquiries, you can contact us at <a href="mailto:DTC@mindef.gov.sg">DTC@mindef.gov.sg</a>.
