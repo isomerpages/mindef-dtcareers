@@ -90,10 +90,10 @@ description: ""
 	
 </style>
 
-<img src="/images/Mock_KV.jpg" class="mt-20"/>
+<img src="/images/DTC Challenge_KV.jpg" class="mt-20"/>
 
 
-<img src="/images/Mock_Pre Launch Banner.jpg" class="mt-20"/>
+<img src="/images/challenge_banner_main.jpg" class="mt-20"/>
 <div class="center">
 	<iframe class="center" style="width:560px; height:340px" src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
 </div>
