@@ -90,7 +90,7 @@ description: ""
 	
 </style>
 
-<img src="/images/DTC Challenge_KV.jpg" class="mt-20"/>
+<img src="/images/DTC Challenge_KV_Final.jpg" class="mt-20"/>
 
 
 <img src="/images/challenge_banner_main.jpg" class="mt-20"/>
