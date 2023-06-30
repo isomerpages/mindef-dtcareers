@@ -114,13 +114,13 @@ description: ""
 	Mark your calendars!
 </h4>
 <p class="challenge-text">
-	**Challenge 1:** 1 – 14 August
+	<strong>Challenge 1:</strong> 1 – 14 August
 </p>	
 <p class="challenge-text">
-	**Challenge 2:** 15 – 28 August
+	<strong>Challenge 2:</strong> 15 – 28 August
 </p>
 <p class="challenge-text">
-	**Challenge 3:** 1 – 14 September
+	<strong>Challenge 3:</strong> 1 – 14 September
 </p>
 
 <h4 class="mt-40 bold">
