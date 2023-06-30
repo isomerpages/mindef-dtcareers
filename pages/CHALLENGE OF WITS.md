@@ -101,10 +101,26 @@ description: ""
 	Ready to take on the Challenge of Wits?
 </h4>
 <p class="challenge-text">
-	Calling all Singaporeans and students with a strong passion in Science & Tech! Prove your mettle in 3 brand new challenges crafted by Singapore’s defence technology experts!  Stay tuned for the first challenge to drop right here, on 1 August. Mindy will talk you through the challenge and you’ll have two weeks to submit your answer. Stand a chance to win attractive prizes.
+	Calling all Singaporeans and students with a strong passion in Science & Tech! Prove your mettle in 3 brand new challenges crafted by Singapore’s defence technology experts!
+</p>
+<p class="challenge-text">
+	Stay tuned for the first challenge to drop right here, on 1 August. Mindy will talk you through the challenge and you’ll have two weeks to submit your answer. Stand a chance to win epic prizes including a Nintendo Switch (OLED Model), Sony WH-1000X M5 wireless headphones, Razer BlackWidow V3 gaming keyboard and more! All correct responses will also receive LinkedIn badges and e-certificate.
 </p>
 <p class="challenge-text">
 	All Singaporeans aged 15 and older are welcome to participate.
+</p>
+
+<h4 class="mt-40 bold">
+	Mark your calendars!
+</h4>
+<p class="challenge-text">
+	**Challenge 1:** 1 – 14 August
+</p>	
+<p class="challenge-text">
+	**Challenge 2:** 15 – 28 August
+</p>
+<p class="challenge-text">
+	**Challenge 3:** 1 – 14 September
 </p>
 
 <h4 class="mt-40 bold">
@@ -114,13 +130,6 @@ description: ""
 	Keep an eye out for our referral posts on Instagram (<a href="https://..." target="_blank">@singaporedsta</a>, <a href="https://..." target="_blank">@discoverdso</a>, <a href="https://..." target="_blank">@csitsg</a>) when the challenge begins. Share the post on your Instagram story and tag 3 friends who have what it takes in the comments to enter our lucky draw. 
 </p>
 
-
-<h4 class="mt-40 bold">
-	Questions about our challenge?
-</h4>
-<p class="challenge-text">
-Check out our <a href="/terms-conditions-and-frequently-asked-questions" target="_blank">Terms & Conditions and Frequently Asked Questions</a>. For any other enquiries, you can contact us at <a href="mailto:DTC@mindef.gov.sg">DTC@mindef.gov.sg</a>.
-</p>
 
 <h4  style="font-weight:bold;margin-top:2rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h4>
 
