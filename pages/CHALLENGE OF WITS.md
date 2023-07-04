@@ -85,7 +85,13 @@ description: ""
 
 		text-align: center;
 		justify-content: center;
+		aspect-ratio: 16 / 9;
+		width: 100%;
 		
+	}
+
+	.youtube-video {
+	  
 	}
 	
 </style>
@@ -95,7 +101,7 @@ description: ""
 
 <img src="/images/challenge_banner_main.jpg" class="mt-20"/>
 <div class="center">
-	<iframe class="center" style="width:560px; height:340px" src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
+	<iframe class="center"  src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
 </div>
 <h4 class="mt-40 bold">
 	Ready to take on the Challenge of Wits?
