@@ -110,7 +110,7 @@ description: ""
 	Calling all Singaporeans and students with a strong passion in Science & Tech! Prove your mettle in 3 brand new challenges crafted by Singapore’s defence technology experts!
 </p>
 <p class="challenge-text">
-	Stay tuned for the first challenge to drop right here, on 1 August. Mindy will talk you through the challenge and you’ll have two weeks to submit your answer. Stand a chance to win epic prizes including a Nintendo Switch (OLED Model), Sony WH-1000X M5 wireless headphones, Razer BlackWidow V3 gaming keyboard and more! All correct responses will also receive LinkedIn badges and e-certificate.
+	Stay tuned for the first challenge to drop right here, on 1 August. Mindy will talk you through the challenge and you’ll have two weeks to submit your answer. Stand a chance to win epic prizes including a Nintendo Switch (OLED Model), Sony WH-1000X M5 wireless headphones, Razer BlackWidow V3 gaming keyboard and more! All correct responses will also receive LinkedIn badges and e-certificates.
 </p>
 <p class="challenge-text">
 	All Singaporeans aged 15 and older are welcome to participate.
