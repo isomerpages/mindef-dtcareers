@@ -133,7 +133,7 @@ description: ""
 	Know a worthy challenger? Refer and win.
 </h4>
 <p class="challenge-text">
-	Keep an eye out for our referral posts on Instagram (<a href="https://..." target="_blank">@singaporedsta</a>, <a href="https://..." target="_blank">@discoverdso</a>, <a href="https://..." target="_blank">@csitsg</a>) when the challenge begins. Share the post on your Instagram story and tag 3 friends who have what it takes in the comments to enter our lucky draw. 
+	Keep an eye out for our referral posts on Instagram (<a href="https://www.instagram.com/singaporedsta/" target="_blank">@singaporedsta</a>, <a href="https://www.instagram.com/discoverdso" target="_blank">@discoverdso</a>, <a href="https://www.instagram.com/csitsg" target="_blank">@csitsg</a>) when the challenge begins. Share the post on your Instagram story and tag 3 friends who have what it takes in the comments to enter our lucky draw. 
 </p>
 
 
@@ -215,6 +215,16 @@ description: ""
 			</a>
 		</div>
 	</div>
+<div class="dst-col">
+<img src="/images/csit-logo.png" style=""/>
+<p>The Centre for Strategic Infocomm Technologies (CSIT) is a technical agency that harnesses cutting-edge digital technologies to support missions such as cyber defence, counter terrorism and counter hostile information operations.</p>
+<a href="https://www.csit.gov.sg" target="_blank" class="site-url">www.csit.gov.sg</a>
+<div class="social">
+<a href="https://www.linkedin.com/company/centre-for-strategic-infocomm-technologies/" target="_blank">
+<img src="/images/icons/linkedin.svg" class="social-icon" />
+</a>
+<a href="https://www.facebook.com/csitsg/" target="_blank">
+<img src="/images/icons/facebook.svg" class="social-icon" />
 	<div class="dst-col">
 		<img src="/images/dso-logo.png" style=""/>
 			<p>DSO is Singapore’s largest defence research and development (R&D) organisation that develops critical and emerging technological solutions for national security in various scientific fields. 
@@ -232,16 +242,7 @@ description: ""
 			</a>
 		</div>
 	</div>
-	<div class="dst-col">
-<img src="/images/csit-logo.png" style=""/>
-<p>The Centre for Strategic Infocomm Technologies (CSIT) is a technical agency that harnesses cutting-edge digital technologies to support missions such as cyber defence, counter terrorism and counter hostile information operations.</p>
-<a href="https://www.csit.gov.sg" target="_blank" class="site-url">www.csit.gov.sg</a>
-<div class="social">
-<a href="https://www.linkedin.com/company/centre-for-strategic-infocomm-technologies/" target="_blank">
-<img src="/images/icons/linkedin.svg" class="social-icon" />
-</a>
-<a href="https://www.facebook.com/csitsg/" target="_blank">
-<img src="/images/icons/facebook.svg" class="social-icon" />
+	
 </a>
 <a href="https://www.instagram.com/csitsg" target="_blank">
 <img src="/images/icons/instagram.svg" class="social-icon" />
