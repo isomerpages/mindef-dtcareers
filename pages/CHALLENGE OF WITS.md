@@ -81,53 +81,61 @@ description: ""
 	margin-top:12px!important;}
 	}
 	
-	
+	.center {
+
+		text-align: center;
+		justify-content: center;
+		aspect-ratio: 16 / 9;
+		width: 100%;
+		
+	}
+
+	.youtube-video {
+	  
+	}
 	
 </style>
-<div class="d-flex flex-column">
-	<img src="/images/pageBanner_1_01.jpg" class="col-6"/>
-	<img src="/images/pageBanner_1_02.jpg" class="col-6"/>
+
+<img src="/images/DTC Challenge_KV_Final.jpg" class="mt-20"/>
+
+
+<img src="/images/challenge_banner_main.jpg" class="mt-20"/>
+<div class="center">
+	<iframe class="center"  src='https://www.youtube.com/embed/quAH8enjA28' frameborder='0' allowfullscreen></iframe>
 </div>
-
-<img src="/images/titleChallenge_completed.jpg" class="mt-20"/>
-
-<p class="challenge-text">
-	Well done to all winners and participants, you have proven your mettle! Follow us on social media for more exciting content up ahead. Who knows what other fun activities we have in store for you in the future?
-</p>
-
 <h4 class="mt-40 bold">
-Revisit The Challenges and See How You Match Up Against Other Next-Gen Minds</h4>
-
-
-<div class="d-flex flex-column mt-20">
-	<div class="col-6 mr-16">
-		<div class="embed-container"><iframe src='https://www.youtube.com/embed/1c8Z63taquM' frameborder='0' allowfullscreen></iframe>
-	</div>
-	</div>
-		<div class="col-6 mt-sm-12">
-		<div class="embed-container"><iframe src='https://www.youtube.com/embed/8WkOIOieEqg' frameborder='0' allowfullscreen></iframe>
-	</div>
-	</div>
-	</div>
-
-<div class="d-flex flex-column mt-20 mt-sm-12">
-		<div class="col-6 mr-16">
-		<div class="embed-container"><iframe src='https://www.youtube.com/embed/meMMPPDgFOI' frameborder='0' allowfullscreen></iframe>
-	</div>
-	</div>
-		<div class="col-6 mt-sm-12">
-		<div class="embed-container"><iframe src='https://www.youtube.com/embed/6Gn4OGTvxPo' frameborder='0' allowfullscreen></iframe>
-	</div>
-	</div>
-		
-	</div>
-
-<h4 class="mt-40 bold">
-	Still Have Questions About Our Challenge?
+	Ready to take on the Challenge of Wits?
 </h4>
 <p class="challenge-text">
-Check out our <a href="/terms-conditions-and-frequently-asked-questions" target="_blank">Terms & Conditions and Frequently Asked Questions</a>. For any other enquiries, you can contact us at <a href="mailto:DTC@mindef.gov.sg">DTC@mindef.gov.sg</a>.
+	Calling all Singaporeans and students with a strong passion in Science & Tech! Prove your mettle in 3 brand new challenges crafted by Singapore’s defence technology experts!
 </p>
+<p class="challenge-text">
+	Stay tuned for the first challenge to drop right here, on 1 August. Mindy will talk you through the challenge and you’ll have two weeks to submit your answer. Stand a chance to win attractive prizes including a Nintendo Switch (OLED Model), Sony WH-1000X M5 wireless headphones, Razer BlackWidow V3 gaming keyboard and more! All correct responses will also receive LinkedIn badges and e-certificates.
+</p>
+<p class="challenge-text">
+	All Singaporeans aged 15 and older are welcome to participate.
+</p>
+
+<h4 class="mt-40 bold">
+	Mark your calendars!
+</h4>
+<p class="challenge-text">
+	<strong>Challenge 1:</strong> 1 – 14 August
+</p>	
+<p class="challenge-text">
+	<strong>Challenge 2:</strong> 15 – 28 August
+</p>
+<p class="challenge-text">
+	<strong>Challenge 3:</strong> 1 – 14 September
+</p>
+
+<h4 class="mt-40 bold">
+	Know a worthy challenger? Refer and win.
+</h4>
+<p class="challenge-text">
+	Keep an eye out for our referral posts on Instagram (<a href="https://www.instagram.com/singaporedsta/" target="_blank">@singaporedsta</a>, <a href="https://www.instagram.com/discoverdso" target="_blank">@discoverdso</a>, <a href="https://www.instagram.com/csitsg" target="_blank">@csitsg</a>) when the challenge begins. Share the post on your Instagram story and tag 3 friends who have what it takes in the comments to enter our lucky draw. 
+</p>
+
 
 <h4  style="font-weight:bold;margin-top:2rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h4>
 
@@ -172,6 +180,20 @@ Check out our <a href="/terms-conditions-and-frequently-asked-questions" target=
 	
 	.social > a{
 	margin:0 8px 0 0;
+	}
+
+	.left-half {
+	  background-color: #ff9e2c;
+	  position: absolute;
+	  left: 0px;
+	  width: 50%;
+	}
+	
+	.right-half {
+	  background-color: #b6701e;
+	  position: absolute;
+	  right: 0px;
+	  width: 50%;
 	}
 	
 </style>
