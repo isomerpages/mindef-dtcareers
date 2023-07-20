@@ -98,26 +98,29 @@ description: ""
 
 <img src="/images/DTC Challenge_KV_Final.jpg" class="mt-20"/>
 
-
 <img src="/images/challenge_banner_1.jpg" class="mt-20"/>
+<p>
+	Ready to take on the first Challenge of Wits? Watch the challenge video or access the written brief <a href="https://www.?????/" target="_blank">here</a>.
+</p>
+
 <div class="center">
 	<iframe class="center"  src='https://www.youtube.com/embed/quAH8enjA28' frameborder='0' allowfullscreen></iframe>
 </div>
 <h4 class="mt-40 bold">
-	Ready to take on the Challenge of Wits?
+	How you can participate
 </h4>
 <p class="challenge-text">
-	Calling all Singaporeans and students with a strong passion in Science & Tech! Prove your mettle in 3 brand new challenges crafted by Singapore’s defence technology experts!
+	From 1 to 14 August 2023, solve the first challenge and submit your answer <a href="https://www.?????/" target="_blank">here</a>.  Stand a chance to win Nintendo Switch (OLED Model) and Razer Viper V2 Pro Wireless Mouse. All correct submissions will receive a LinkedIn badge and e-Certificate.
 </p>
 <p class="challenge-text">
-	Stay tuned for the first challenge to drop right here, on 1 August. Mindy will talk you through the challenge and you’ll have two weeks to submit your answer. Stand a chance to win attractive prizes including a Nintendo Switch (OLED Model), Sony WH-1000X M5 wireless headphones, Razer BlackWidow V3 gaming keyboard and more! All correct responses will also receive LinkedIn badges and e-certificates.
+	Stay tuned for Challenges 2 and 3, launching on 15 August and 1 September. Participants with the correct answer for all three challenges stand to with a Grand Prize – a Secretlab Titan Evo 2022.
 </p>
 <p class="challenge-text">
 	All Singaporeans aged 15 and older are welcome to participate.
 </p>
 
 <h4 class="mt-40 bold">
-	Mark your calendars!
+	The minds behind the challenges
 </h4>
 <p class="challenge-text">
 	<strong>Challenge 1:</strong> 1 – 14 August
@@ -133,9 +136,20 @@ description: ""
 	Know a worthy challenger? Refer and win.
 </h4>
 <p class="challenge-text">
-	Keep an eye out for our referral posts on Instagram (<a href="https://www.instagram.com/singaporedsta/" target="_blank">@singaporedsta</a>, <a href="https://www.instagram.com/discoverdso" target="_blank">@discoverdso</a>, <a href="https://www.instagram.com/csitsg" target="_blank">@csitsg</a>) when the challenge begins. Share the post on your Instagram story and tag 3 friends who have what it takes in the comments to enter our lucky draw. 
+	Visit our Instagram (<a href="https://www.instagram.com/singaporedsta/" target="_blank">@singaporedsta</a>) and find our referral post. Follow these 2 steps and stand to win a $100 Amazon Gift Card in our lucky draw. 1 lucky winner will be picked every week from now until 14 September!
+</p>
+<p class="challenge-text">
+	Step 1: Tag 3 friends who have what it takes in the comments <br/>
+	Step 2: Share the post on your IG Story and don’t forget to tag us!
 </p>
 
+<h4 class="mt-40 bold">
+	Still have questions about our challenge?
+</h4>
+
+<p class="challenge-text">
+	Check out our <a href="https://www.dtcareers.gov.sg/terms-conditions-and-frequently-asked-questions" target="_blank">Terms & Conditions and Frequently Asked Questions</a>. For any other enquiries, you can contact us at <a href="mailto:DTC@mindef.gov.sg" target="_blank">DTC@mindef.gov.sg</a>. 
+</p>
 
 <h4  style="font-weight:bold;margin-top:2rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h4>
 
