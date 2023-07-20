@@ -137,20 +137,17 @@ description: ""
 	}
 
 	 .outerDiv {
-		background-color: #006699;
 		margin: 0px auto;
 		padding: 5px;
 	    }
 	    .leftDiv {
 		background-color: #efefef;
-		color: #000;
 		width: 38%;
 		float: left;
 		padding-top:15px;
 	    }
 	    .rightDiv {
 		background-color: #efefef;
-		color: #000;
 		width: 58%;
 		float: right;
             }
@@ -189,12 +186,11 @@ description: ""
                 <img  src="/images/DTC_profile_Andrea.jpg"/>
             </div>
             <div class="rightDiv">
-                h5 class="challenge">CHALLENGE 1: Command, Control and Communications <br/> 1 - 14 August </h5>
-		<i><b>Andrea Chua</b>, Data Scientist</i>
-	    	<a href="https://www.dsta.gov.sg/home" target="_blank">Defence Science and Technology Agency (DSTA)</a> 
-	    	<p> Andrea leverages advanced analytics and algorithms to extract insights from data and enhance decision-making processes.</p>
+                <p><h5 class="mt-20">CHALLENGE 1: Command, Control and Communications <br/> 1 - 14 August </h5></p>
+		<p><i><b>Andrea Chua</b>, Data Scientist</i> <br/>
+	    	<a href="https://www.dsta.gov.sg/home" target="_blank">Defence Science and Technology Agency (DSTA)</a> <br/>
+		Andrea leverages advanced analytics and algorithms to extract insights from data and enhance decision-making processes.</p>
             </div>
-            <div style="clear: both;"></div>
         </div>
 
 
