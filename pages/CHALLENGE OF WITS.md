@@ -141,13 +141,13 @@ description: ""
 		padding: 5px;
 	    }
 	    .leftDiv {
-		background-color: #efefef;
+		
 		width: 38%;
 		float: left;
 		padding-top:15px;
 	    }
 	    .rightDiv {
-		background-color: #efefef;
+		
 		width: 58%;
 		float: right;
             }
@@ -187,7 +187,7 @@ description: ""
 	</div>
 	<div class="rightDiv">
 		<p><h5 class="mt-20">CHALLENGE 1: Command, Control and Communications <br/> 1 - 14 August </h5></p>
-		<p><i><b>Andrea Chua</b>, Data Scientist</i> <br/>
+		<p class="challenge-text"><i><b>Andrea Chua</b>, Data Scientist</i> <br/>
 		<a href="https://www.dsta.gov.sg/home" target="_blank">Defence Science and Technology Agency (DSTA)</a> <br/>
 		Andrea leverages advanced analytics and algorithms to extract insights from data and enhance decision-making processes.</p>
 	</div>
@@ -197,7 +197,7 @@ description: ""
 	</div>
 	<div class="rightDiv">
 		<p><h5 class="mt-20">CHALLENGE 2: Data Science <br/> 15 - 28 August</h5></p>
-		<p><i><b>Leow Gin Ee</b>, Tech Specialist</i> <br/>
+		<p class="challenge-text"><i><b>Leow Gin Ee</b>, Tech Specialist</i> <br/>
 		<a href="https://www.csit.gov.sg/" target="_blank">Centre for Strategic Infocomm Technologies (CSIT)</a> <br/>
 		Gin Ee works with technical & business domain experts, data analysts and machine learning engineers to deliver data-driven solutions to support our missions in national security.</p>
 	</div>
@@ -207,7 +207,7 @@ description: ""
 	</div>
 	<div class="rightDiv">
 		<p><h5 class="mt-20">CHALLENGE 3: Robotic Autonomy<br/> 1 - 14 September </h5></p>
-		<p><i><b>Benjamin Choi</b>, Senior Robotics Engineer</i> <br/>
+		<p class="challenge-text"><i><b>Benjamin Choi</b>, Senior Robotics Engineer</i> <br/>
 		<a href="https://www.dso.org.sg/about/" target="_blank">DSO National Laboratories (DSO)</a> <br/>
 		Benjamin develops localisation and perception algorithms for unmanned ground vehicles and drones to navigate and collaborate with one another autonomously in challenging environments.</p>
 	</div>
