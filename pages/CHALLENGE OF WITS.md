@@ -157,8 +157,8 @@ description: ""
 
 <div class="container">
 	<div class="row">
-		<div class="col-lg-2 col-md-2"><img  src="/images/DTC_profile_Andrea_1.jpg"/></div> 
-		<div class="col-lg-10 col-md-10">
+		<div class="challenge-text"><img  src="/images/DTC_profile_Andrea.jpg"/></div> 
+		<div class="challenge-text">
 			<div class="row">
 				<div class="col-lg-12">
 					<h5 class="challenge">CHALLENGE 1: Command, Control and Communications <br/> 1 - 14 August </h5>
@@ -181,9 +181,10 @@ description: ""
 			</div>
 		</div>
 	</div>
+	
 	<div class="row">
-		<div class="col-lg-2 col-md-2"><img  src="/images/DTC_profile_Benjamin_1.jpg"/></div> 
-		<div class="col-lg-10 col-md-10">
+		<div class="cchallenge-text"><img  src="/images/DTC_profile_Benjamin.jpg"/></div> 
+		<div class="challenge-text">
 			<div class="row">
 				<div class="col-lg-12">
 					<h5 class="challenge">CHALLENGE 3: Robotic Autonomy<br/> 1 - 14 September </h5>
@@ -208,15 +209,6 @@ description: ""
 	</div>
 </div>
 
-<p class="challenge-text">
-	<strong>Challenge 1:</strong> 1 – 14 August
-</p>	
-<p class="challenge-text">
-	<strong>Challenge 2:</strong> 15 – 28 August
-</p>
-<p class="challenge-text">
-	<strong>Challenge 3:</strong> 1 – 14 September
-</p>
 
 <h4 class="mt-40 bold">
 	Know a worthy challenger? Refer and win.
