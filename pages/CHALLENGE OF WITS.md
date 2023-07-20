@@ -121,6 +121,17 @@ description: ""
   		padding-right: 15px;
     		padding-left: 15px;
   	}
+
+ 	.col-md-2 {
+		padding-right: 15px;
+    		padding-left: 15px;
+  	}
+
+   	.col-md-10 {
+		padding-right: 15px;
+    		padding-left: 15px;
+  	}
+   	
 	img{
 		width: 100%;
 	}
@@ -156,8 +167,8 @@ description: ""
 
 <div class="container">
 	<div class="row">
-		<div class="row"><img  src="/images/DTC_profile_Andrea.jpg"/></div> 
-		<div class="row">
+		<div class="col-lg-2 col-md-2"><img  src="/images/DTC_profile_Andrea.jpg"/></div> 
+		<div class="col-lg-10 col-md-10">
 			<div class="row">
 				<div class="col-lg-12">
 					<h5 class="challenge">CHALLENGE 1: Command, Control and Communications <br/> 1 - 14 August </h5>
@@ -180,9 +191,11 @@ description: ""
 			</div>
 		</div>
 	</div>
+
+ 
 	 <div class="row">
-		<div class="row"><img  src="/images/DTC_profile_Gin Ee.jpg"/></div> 
-		<div class="row">
+		<div class="col-lg-2 col-md-2"><img  src="/images/DTC_profile_Gin Ee.jpg"/></div> 
+		<div class="col-lg-10 col-md-10">
 			<div class="row">
 				<div class="col-lg-12">
 					<h5 class="challenge">CHALLENGE 2: Data Science <br/> 15 - 28 August</h5>
@@ -205,9 +218,12 @@ description: ""
 			</div>
 		</div>
 	</div>
+
+
+ 
 	<div class="row">
-		<div class="row"><img  src="/images/DTC_profile_Benjamin.jpg"/></div> 
-		<div class="row">
+		<div class="col-lg-2 col-md-2"><img  src="/images/DTC_profile_Benjamin.jpg"/></div> 
+		<div class="col-lg-10 col-md-10">
 			<div class="row">
 				<div class="col-lg-12">
 					<h5 class="challenge">CHALLENGE 3: Robotic Autonomy<br/> 1 - 14 September </h5>
