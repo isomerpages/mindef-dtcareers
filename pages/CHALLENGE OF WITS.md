@@ -135,6 +135,25 @@ description: ""
 	img{
 		width: 100%;
 	}
+
+	 .outerDiv {
+		background-color: #006699;
+		margin: 0px auto;
+		padding: 5px;
+	    }
+	    .leftDiv {
+		background-color: #efefef;
+		color: #000;
+		width: 38%;
+		float: left;
+		padding-top:15px;
+	    }
+	    .rightDiv {
+		background-color: #efefef;
+		color: #000;
+		width: 58%;
+		float: right;
+            }
 	
 </style>
 
@@ -165,6 +184,20 @@ description: ""
 	The minds behind the challenges
 </h4>
 
+<div class="outerDiv">
+            <div class="leftDiv">
+                <img  src="/images/DTC_profile_Andrea.jpg"/>
+            </div>
+            <div class="rightDiv">
+                h5 class="challenge">CHALLENGE 1: Command, Control and Communications <br/> 1 - 14 August </h5>
+		<i><b>Andrea Chua</b>, Data Scientist</i>
+	    	<a href="https://www.dsta.gov.sg/home" target="_blank">Defence Science and Technology Agency (DSTA)</a> 
+	    	<p> Andrea leverages advanced analytics and algorithms to extract insights from data and enhance decision-making processes.</p>
+            </div>
+            <div style="clear: both;"></div>
+        </div>
+
+
 <div class="container">
 	<div class="row">
 		<div class="col-lg-2 col-md-2"><img  src="/images/DTC_profile_Andrea.jpg"/></div> 
@@ -194,7 +227,7 @@ description: ""
 
  
 	 <div class="row">
-		<div class="col-lg-2 col-md-2"><img  src="/images/DTC_profile_Gin Ee.jpg"/></div> 
+		<div class="col-lg-2 col-md-2"><img src="/images/DTC_profile_Gin Ee.jpg"/></div> 
 		<div class="col-lg-10 col-md-10">
 			<div class="row">
 				<div class="col-lg-12">
