@@ -182,99 +182,36 @@ description: ""
 </h4>
 
 <div class="outerDiv">
-            <div class="leftDiv">
-                <img  src="/images/DTC_profile_Andrea.jpg"/>
-            </div>
-            <div class="rightDiv">
-                <p><h5 class="mt-20">CHALLENGE 1: Command, Control and Communications <br/> 1 - 14 August </h5></p>
+	<div class="leftDiv">
+		<img  src="/images/DTC_profile_Andrea.jpg"/>
+	</div>
+	<div class="rightDiv">
+		<p><h5 class="mt-20">CHALLENGE 1: Command, Control and Communications <br/> 1 - 14 August </h5></p>
 		<p><i><b>Andrea Chua</b>, Data Scientist</i> <br/>
-	    	<a href="https://www.dsta.gov.sg/home" target="_blank">Defence Science and Technology Agency (DSTA)</a> <br/>
+		<a href="https://www.dsta.gov.sg/home" target="_blank">Defence Science and Technology Agency (DSTA)</a> <br/>
 		Andrea leverages advanced analytics and algorithms to extract insights from data and enhance decision-making processes.</p>
-            </div>
-        </div>
-
-
-<div class="container">
-	<div class="row">
-		<div class="col-lg-2 col-md-2"><img  src="/images/DTC_profile_Andrea.jpg"/></div> 
-		<div class="col-lg-10 col-md-10">
-			<div class="row">
-				<div class="col-lg-12">
-					<h5 class="challenge">CHALLENGE 1: Command, Control and Communications <br/> 1 - 14 August </h5>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-12">
-					<i><b>Andrea Chua</b>, Data Scientist</i>
-				</div>
-			</div>
-			<div class="row agency">
-				<div class="col-lg-12">
-				<a href="https://www.dsta.gov.sg/home" target="_blank">Defence Science and Technology Agency (DSTA)</a> 
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-12">
-				<p> Andrea leverages advanced analytics and algorithms to extract insights from data and enhance decision-making processes.</p>
-				</div>
-			</div>
-		</div>
 	</div>
-
- 
-	 <div class="row">
-		<div class="col-lg-2 col-md-2"><img src="/images/DTC_profile_Gin Ee.jpg"/></div> 
-		<div class="col-lg-10 col-md-10">
-			<div class="row">
-				<div class="col-lg-12">
-					<h5 class="challenge">CHALLENGE 2: Data Science <br/> 15 - 28 August</h5>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-12">
-					<i><b>Leow Gin Ee</b>, Tech Specialist</i>
-				</div>
-			</div>
-			<div class="row agency">
-				<div class="col-lg-12">
-				<a href="https://www.csit.gov.sg/" target="_blank">Centre for Strategic Infocomm Technologies (CSIT)</a> 
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-12">
-				<p> Gin Ee works with technical & business domain experts, data analysts and machine learning engineers to deliver data-driven solutions to support our missions in national security.</p>
-				</div>
-			</div>
-		</div>
+	<div style="clear: both;"></div>
+	<div class="leftDiv">
+		<img src="/images/DTC_profile_Gin Ee.jpg"/>
 	</div>
-
-
- 
-	<div class="row">
-		<div class="col-lg-2 col-md-2"><img  src="/images/DTC_profile_Benjamin.jpg"/></div> 
-		<div class="col-lg-10 col-md-10">
-			<div class="row">
-				<div class="col-lg-12">
-					<h5 class="challenge">CHALLENGE 3: Robotic Autonomy<br/> 1 - 14 September </h5>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-12">
-					<i><b>Benjamin Choi</b>, Senior Robotics Engineer</i>
-				</div>
-			</div>
-			<div class="row agency">
-				<div class="col-lg-12">
-				<a href="https://www.dso.org.sg/about/" target="_blank">DSO National Laboratories (DSO)</a> 
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-12">
-				<p> Benjamin develops localisation and perception algorithms for unmanned ground vehicles and drones to navigate and collaborate with one another autonomously in challenging environments.</p>
-				</div>
-			</div>
-		</div>
+	<div class="rightDiv">
+		<p><h5 class="mt-20">CHALLENGE 2: Data Science <br/> 15 - 28 August</h5></p>
+		<p><i><b>Leow Gin Ee</b>, Tech Specialist</i> <br/>
+		<a href="https://www.csit.gov.sg/" target="_blank">Centre for Strategic Infocomm Technologies (CSIT)</a> <br/>
+		Gin Ee works with technical & business domain experts, data analysts and machine learning engineers to deliver data-driven solutions to support our missions in national security.</p>
 	</div>
+	<div style="clear: both;"></div>
+	<div class="leftDiv">
+		<img  src="/images/DTC_profile_Benjamin.jpg"/>
+	</div>
+	<div class="rightDiv">
+		<p><h5 class="mt-20">CHALLENGE 3: Robotic Autonomy<br/> 1 - 14 September </h5></p>
+		<p><i><b>Benjamin Choi</b>, Senior Robotics Engineer</i> <br/>
+		<a href="https://www.dso.org.sg/about/" target="_blank">DSO National Laboratories (DSO)</a> <br/>
+		Benjamin develops localisation and perception algorithms for unmanned ground vehicles and drones to navigate and collaborate with one another autonomously in challenging environments.</p>
+	</div>
+	<div style="clear: both;"></div>
 </div>
 
 
