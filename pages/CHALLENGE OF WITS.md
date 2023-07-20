@@ -109,6 +109,10 @@ description: ""
 		text-decoration: underline;
 		color: blue;
 	}
+ 	.row {
+  		padding-right: 15px;
+    		padding-left: 15px;
+  	}
 	img{
 		width: 100%;
 	}
@@ -144,7 +148,7 @@ description: ""
 
 <div class="container">
 	<div class="row">
-		<div class="col-lg-2 col-md-2"><img  src="/images/DTC_profile_Andrea_1.jpg"></div> 
+		<div class="col-lg-2 col-md-2"><img  src="/images/DTC_profile_Andrea_1.jpg"/></div> 
 		<div class="col-lg-10 col-md-10">
 			<div class="row">
 				<div class="col-lg-12">
