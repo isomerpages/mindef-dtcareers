@@ -123,7 +123,7 @@ description: ""
 	The minds behind the challenges
 </h4>
 <div class="row">
-	<div class="col-lg-2 col-md-2"><img src="img/c1.png"></div>   <img src="/images/DTC_profile_Andrea.jpg" style=""/>
+	<div class="col-lg-2 col-md-2"><img  src="/images/DTC_profile_Andrea.jpg"></div> 
 	<div class="col-lg-10 col-md-10">
 		<div class="row">
 			<div class="col-lg-12">
