@@ -99,7 +99,7 @@ description: ""
 <img src="/images/DTC Challenge_KV_Final.jpg" class="mt-20"/>
 
 
-<img src="/images/challenge_banner_main.jpg" class="mt-20"/>
+<img src="/images/challenge_banner_1.jpg" class="mt-20"/>
 <div class="center">
 	<iframe class="center"  src='https://www.youtube.com/embed/quAH8enjA28' frameborder='0' allowfullscreen></iframe>
 </div>
