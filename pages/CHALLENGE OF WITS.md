@@ -3,6 +3,8 @@ title: CHALLENGE OF WITS
 permalink: /challenge/
 description: ""
 ---
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <style>
 	
 	.embed-container 
@@ -139,27 +141,30 @@ description: ""
 <h4 class="mt-40 bold">
 	The minds behind the challenges
 </h4>
-<div class="row">
-	<div class="col-lg-2 col-md-2"><img  src="/images/DTC_profile_Andrea_1.jpg"></div> 
-	<div class="col-lg-10 col-md-10">
-		<div class="row">
-			<div class="col-lg-12">
-				<h5 class="challenge">CHALLENGE 1: Command, Control and Communications <br/> 1 - 14 August </h5>
+
+<div class="container">
+	<div class="row">
+		<div class="col-lg-2 col-md-2"><img  src="/images/DTC_profile_Andrea_1.jpg"></div> 
+		<div class="col-lg-10 col-md-10">
+			<div class="row">
+				<div class="col-lg-12">
+					<h5 class="challenge">CHALLENGE 1: Command, Control and Communications <br/> 1 - 14 August </h5>
+				</div>
 			</div>
-		</div>
-		<div class="row">
-			<div class="col-lg-12">
-				<i><b>Andrea Chua</b>, Data Scientist</i>
+			<div class="row">
+				<div class="col-lg-12">
+					<i><b>Andrea Chua</b>, Data Scientist</i>
+				</div>
 			</div>
-		</div>
-		<div class="row agency">
-			<div class="col-lg-12">
-			<a href="https://www.dsta.gov.sg/home" target="_blank">Defence Science and Technology Agency (DSTA)</a> 
+			<div class="row agency">
+				<div class="col-lg-12">
+				<a href="https://www.dsta.gov.sg/home" target="_blank">Defence Science and Technology Agency (DSTA)</a> 
+				</div>
 			</div>
-		</div>
-		<div class="row">
-			<div class="col-lg-12">
-			<p> Andrea leverages advanced analytics and algorithms to extract insights from data and enhance decision-making processes.</p>
+			<div class="row">
+				<div class="col-lg-12">
+				<p> Andrea leverages advanced analytics and algorithms to extract insights from data and enhance decision-making processes.</p>
+				</div>
 			</div>
 		</div>
 	</div>
