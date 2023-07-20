@@ -96,6 +96,7 @@ description: ""
 	  
 	}
 
+
 	h2, 
 	h5{
 		color: #4B0082;
@@ -109,6 +110,12 @@ description: ""
 		text-decoration: underline;
 		color: blue;
 	}
+
+ 	.container{
+		padding-right: 15px;
+    		padding-left: 15px;
+  	}
+ 
  	.row {
   		padding-right: 15px;
     		padding-left: 15px;
@@ -146,6 +153,8 @@ description: ""
 	The minds behind the challenges
 </h4>
 
+<br/>
+
 <div class="container">
 	<div class="row">
 		<div class="col-lg-2 col-md-2"><img  src="/images/DTC_profile_Andrea_1.jpg"/></div> 
@@ -168,6 +177,31 @@ description: ""
 			<div class="row">
 				<div class="col-lg-12">
 				<p> Andrea leverages advanced analytics and algorithms to extract insights from data and enhance decision-making processes.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-2 col-md-2"><img  src="/images/DTC_profile_Benjamin_1.jpg"/></div> 
+		<div class="col-lg-10 col-md-10">
+			<div class="row">
+				<div class="col-lg-12">
+					<h5 class="challenge">CHALLENGE 3: Robotic Autonomy<br/> 1 - 14 September </h5>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-12">
+					<i><b>Benjamin Choi</b>, Senior Robotics Engineer</i>
+				</div>
+			</div>
+			<div class="row agency">
+				<div class="col-lg-12">
+				<a href="https://www.dso.org.sg/about/" target="_blank">DSO National Laboratories (DSO)</a> 
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-12">
+				<p> Benjamin develops localisation and perception algorithms for unmanned ground vehicles and drones to navigate and collaborate with one another autonomously in challenging environments.</p>
 				</div>
 			</div>
 		</div>
