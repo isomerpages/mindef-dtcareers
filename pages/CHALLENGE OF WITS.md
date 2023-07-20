@@ -114,6 +114,7 @@ description: ""
  	.container{
 		padding-right: 15px;
     		padding-left: 15px;
+      		padding-top: 15px;
   	}
  
  	.row {
@@ -153,12 +154,10 @@ description: ""
 	The minds behind the challenges
 </h4>
 
-<br/>
-
 <div class="container">
 	<div class="row">
-		<div class="challenge-text"><img  src="/images/DTC_profile_Andrea.jpg"/></div> 
-		<div class="challenge-text">
+		<div class="row"><img  src="/images/DTC_profile_Andrea.jpg"/></div> 
+		<div class="row">
 			<div class="row">
 				<div class="col-lg-12">
 					<h5 class="challenge">CHALLENGE 1: Command, Control and Communications <br/> 1 - 14 August </h5>
@@ -181,10 +180,34 @@ description: ""
 			</div>
 		</div>
 	</div>
-	
+	 <div class="row">
+		<div class="row"><img  src="/images/DTC_profile_Gin Ee.jpg"/></div> 
+		<div class="row">
+			<div class="row">
+				<div class="col-lg-12">
+					<h5 class="challenge">CHALLENGE 2: Data Science <br/> 15 - 28 August</h5>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-12">
+					<i><b>Leow Gin Ee</b>, Tech Specialist</i>
+				</div>
+			</div>
+			<div class="row agency">
+				<div class="col-lg-12">
+				<a href="https://www.csit.gov.sg/" target="_blank">Centre for Strategic Infocomm Technologies (CSIT)</a> 
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-12">
+				<p> Gin Ee works with technical & business domain experts, data analysts and machine learning engineers to deliver data-driven solutions to support our missions in national security.</p>
+				</div>
+			</div>
+		</div>
+	</div>
 	<div class="row">
-		<div class="cchallenge-text"><img  src="/images/DTC_profile_Benjamin.jpg"/></div> 
-		<div class="challenge-text">
+		<div class="row"><img  src="/images/DTC_profile_Benjamin.jpg"/></div> 
+		<div class="row">
 			<div class="row">
 				<div class="col-lg-12">
 					<h5 class="challenge">CHALLENGE 3: Robotic Autonomy<br/> 1 - 14 September </h5>
