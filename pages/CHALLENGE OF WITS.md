@@ -93,6 +93,23 @@ description: ""
 	.youtube-video {
 	  
 	}
+
+	h2, 
+	h5{
+		color: #4B0082;
+		text-align: left;
+	}
+	.challenge{
+		font-weight: bold;
+	}
+	.agency{
+		font-style: italic;
+		text-decoration: underline;
+		color: blue;
+	}
+	img{
+		width: 100%;
+	}
 	
 </style>
 
