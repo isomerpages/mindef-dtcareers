@@ -5,13 +5,13 @@ description: ""
 ---
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-208768020-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6GT2ESNHEF"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-208768020-1');
+  gtag('config', 'G-6GT2ESNHEF');
 </script>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
