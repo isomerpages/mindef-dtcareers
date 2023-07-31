@@ -168,7 +168,7 @@ description: ""
 
 <img src="/images/challenge_banner_1.jpg" class="mt-20"/>
 <p>
-	Ready to take on the first Challenge of Wits? Watch the challenge video or access the written brief <a href="https://www.?????/" target="_blank">here</a>.
+	Ready to take on the first Challenge of Wits? Watch the challenge video or access the written brief <a href="/files/Challenge1.pdf" target="_blank">here</a>.
 </p>
 
 <div class="center">
@@ -178,7 +178,7 @@ description: ""
 	How you can participate
 </h4>
 <p class="challenge-text">
-	From 1 to 14 August 2023, solve the first challenge and submit your answer <a href="https://www.?????/" target="_blank">here</a>.  Stand a chance to win Nintendo Switch (OLED Model) and Razer Viper V2 Pro Wireless Mouse. All correct submissions will receive a LinkedIn badge and e-Certificate.
+	From 1 to 14 August 2023, solve the first challenge and submit your answer <a href="https://go.gov.sg/challengeofwits2023" target="_blank">here</a>.  Stand a chance to win Nintendo Switch (OLED Model) and Razer Viper V2 Pro Wireless Mouse. All correct submissions will receive a LinkedIn badge and e-Certificate.
 </p>
 <p class="challenge-text">
 	Stay tuned for Challenges 2 and 3, launching on 15 August and 1 September. Participants with the correct answer for all three challenges stand to with a Grand Prize – a Secretlab Titan Evo 2022.
@@ -241,7 +241,7 @@ description: ""
 </h4>
 
 <p class="challenge-text">
-	Check out our <a href="https://www.dtcareers.gov.sg/terms-conditions-and-frequently-asked-questions" target="_blank">Terms & Conditions and Frequently Asked Questions</a>. For any other enquiries, you can contact us at <a href="mailto:DTC@mindef.gov.sg" target="_blank">DTC@mindef.gov.sg</a>. 
+	Check out our <a href="https://www.dtcareers.gov.sg/terms-conditions-and-frequently-asked-questions" target="_blank">Terms & Conditions and Frequently Asked Questions</a>.
 </p>
 
 <h4  style="font-weight:bold;margin-top:2rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h4>
