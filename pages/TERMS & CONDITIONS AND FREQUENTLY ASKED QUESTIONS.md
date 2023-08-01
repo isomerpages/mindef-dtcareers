@@ -110,6 +110,10 @@ dd{
           <td>Challenge 3: Robotic Autonomy</td>
           <td>Razer BlackWidow V3 (Green Switch – US – Black) and ASUS VG27VH1B TUF Curved Monitor</td>
         </tr>
+        <tr>
+          <td>Grand Prize</td>
+          <td>Secretlab Titan Evo 2022</td>
+        </tr>
       </tbody>
     </table></div>
   </dd>
