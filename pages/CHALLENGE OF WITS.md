@@ -3,6 +3,18 @@ title: CHALLENGE OF WITS
 permalink: /challenge/
 description: ""
 ---
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6GT2ESNHEF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6GT2ESNHEF');
+</script>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <style>
 	
 	.embed-container 
@@ -93,49 +105,144 @@ description: ""
 	.youtube-video {
 	  
 	}
+
+
+	h2, 
+	h5{
+		color: #4B0082;
+		text-align: left;
+	}
+	.challenge{
+		font-weight: bold;
+	}
+	.agency{
+		font-style: italic;
+		text-decoration: underline;
+		color: blue;
+	}
+
+ 	.container{
+		padding-right: 15px;
+    		padding-left: 15px;
+      		padding-top: 15px;
+  	}
+ 
+ 	.row {
+  		padding-right: 15px;
+    		padding-left: 15px;
+  	}
+
+ 	.col-md-2 {
+		padding-right: 15px;
+    		padding-left: 15px;
+  	}
+
+   	.col-md-10 {
+		padding-right: 15px;
+    		padding-left: 15px;
+  	}
+   	
+	img{
+		width: 100%;
+	}
+
+	 .outerDiv {
+		margin: 0px auto;
+		padding: 5px;
+	    }
+	    .leftDiv {
+		
+		width: 38%;
+		float: left;
+		padding-top:15px;
+	    }
+	    .rightDiv {
+		
+		width: 58%;
+		float: right;
+            }
 	
 </style>
 
 <img src="/images/DTC Challenge_KV_Final.jpg" class="mt-20"/>
 
+<img src="/images/challenge_banner_1.jpg" class="mt-20"/>
+<p>
+	Ready to take on the first Challenge of Wits? Watch the challenge video or access the written brief <a href="/files/Challenge1.pdf" target="_blank">here</a>.
+</p>
 
-<img src="/images/challenge_banner_main.jpg" class="mt-20"/>
 <div class="center">
-	<iframe class="center"  src='https://www.youtube.com/embed/quAH8enjA28' frameborder='0' allowfullscreen></iframe>
+	<iframe class="center"  src='https://www.youtube.com/embed/GaPZEJfAB24' frameborder='0' allowfullscreen></iframe>
 </div>
 <h4 class="mt-40 bold">
-	Ready to take on the Challenge of Wits?
+	How you can participate
 </h4>
 <p class="challenge-text">
-	Calling all Singaporeans and students with a strong passion in Science & Tech! Prove your mettle in 3 brand new challenges crafted by Singapore’s defence technology experts!
+	From 1 to 14 August 2023, solve the first challenge and submit your answer <a href="https://go.gov.sg/challengeofwits2023" target="_blank">here</a>.  Stand a chance to win Nintendo Switch (OLED Model) and Razer Viper V2 Pro Wireless Mouse. All correct submissions will receive a LinkedIn badge and e-Certificate.
 </p>
 <p class="challenge-text">
-	Stay tuned for the first challenge to drop right here, on 1 August. Mindy will talk you through the challenge and you’ll have two weeks to submit your answer. Stand a chance to win attractive prizes including a Nintendo Switch (OLED Model), Sony WH-1000X M5 wireless headphones, Razer BlackWidow V3 gaming keyboard and more! All correct responses will also receive LinkedIn badges and e-certificates.
+	Stay tuned for Challenges 2 and 3, launching on 15 August and 1 September. Participants with the correct answer for all three challenges stand to with a Grand Prize – a Secretlab Titan Evo 2022.
 </p>
 <p class="challenge-text">
 	All Singaporeans aged 15 and older are welcome to participate.
 </p>
 
 <h4 class="mt-40 bold">
-	Mark your calendars!
+	The minds behind the challenges
 </h4>
-<p class="challenge-text">
-	<strong>Challenge 1:</strong> 1 – 14 August
-</p>	
-<p class="challenge-text">
-	<strong>Challenge 2:</strong> 15 – 28 August
-</p>
-<p class="challenge-text">
-	<strong>Challenge 3:</strong> 1 – 14 September
-</p>
+
+<div class="outerDiv">
+	<div class="leftDiv">
+		<img  src="/images/DTC_profile_Andrea.jpg"/>
+	</div>
+	<div class="rightDiv">
+		<p><h5 class="mt-20">CHALLENGE 1: Command, Control and Communications <br/> 1 - 14 August </h5></p>
+		<p class="challenge-text"><i><b>Andrea Chua</b>, Data Scientist</i> <br/>
+		<a href="https://www.dsta.gov.sg/home" target="_blank">Defence Science and Technology Agency (DSTA)</a> <br/>
+		Andrea leverages advanced analytics and algorithms to extract insights from data and enhance decision-making processes.</p>
+	</div>
+	<div style="clear: both;"></div>
+	<div class="leftDiv">
+		<img src="/images/DTC_profile_Gin Ee.jpg"/>
+	</div>
+	<div class="rightDiv">
+		<p><h5 class="mt-20">CHALLENGE 2: Data Science <br/> 15 - 28 August</h5></p>
+		<p class="challenge-text"><i><b>Leow Gin Ee</b>, Tech Specialist</i> <br/>
+		<a href="https://www.csit.gov.sg/" target="_blank">Centre for Strategic Infocomm Technologies (CSIT)</a> <br/>
+		Gin Ee works with technical & business domain experts, data analysts and machine learning engineers to deliver data-driven solutions to support our missions in national security.</p>
+	</div>
+	<div style="clear: both;"></div>
+	<div class="leftDiv">
+		<img  src="/images/DTC_profile_Benjamin.jpg"/>
+	</div>
+	<div class="rightDiv">
+		<p><h5 class="mt-20">CHALLENGE 3: Robotic Autonomy<br/> 1 - 14 September </h5></p>
+		<p class="challenge-text"><i><b>Benjamin Choi</b>, Senior Robotics Engineer</i> <br/>
+		<a href="https://www.dso.org.sg/about/" target="_blank">DSO National Laboratories (DSO)</a> <br/>
+		Benjamin develops localisation and perception algorithms for unmanned ground vehicles and drones to navigate and collaborate with one another autonomously in challenging environments.</p>
+	</div>
+	<div style="clear: both;"></div>
+</div>
+
 
 <h4 class="mt-40 bold">
 	Know a worthy challenger? Refer and win.
 </h4>
 <p class="challenge-text">
-	Keep an eye out for our referral posts on Instagram (<a href="https://www.instagram.com/singaporedsta/" target="_blank">@singaporedsta</a>, <a href="https://www.instagram.com/discoverdso" target="_blank">@discoverdso</a>, <a href="https://www.instagram.com/csitsg" target="_blank">@csitsg</a>) when the challenge begins. Share the post on your Instagram story and tag 3 friends who have what it takes in the comments to enter our lucky draw. 
+	Visit our Instagram (<a href="https://www.instagram.com/singaporedsta/" target="_blank">@singaporedsta</a>) and find our referral post. Follow these 2 steps and stand to win a $100 Amazon Gift Card in our lucky draw. 1 lucky winner will be picked every week from now until 14 September!
+</p>
+<p class="challenge-text">
+	Step 1: Tag 3 friends who have what it takes in the comments <br/>
+	Step 2: Share the post on your IG Story and don’t forget to tag us!
 </p>
 
+<h4 class="mt-40 bold">
+	Still have questions about our challenge?
+</h4>
+
+<p class="challenge-text">
+	Check out our <a href="https://www.dtcareers.gov.sg/terms-conditions-and-frequently-asked-questions" target="_blank">Terms & Conditions and Frequently Asked Questions</a>.
+</p>
 
 <h4  style="font-weight:bold;margin-top:2rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h4>
 
