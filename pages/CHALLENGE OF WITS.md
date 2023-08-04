@@ -241,7 +241,7 @@ description: ""
 </h4>
 
 <p class="challenge-text">
-	Check out our <a href="https://www.dtcareers.gov.sg/terms-conditions-and-frequently-asked-questions" target="_blank">Terms & Conditions and Frequently Asked Questions</a>.
+	Check out our <a href="https://www.dtcareers.gov.sg/terms-conditions-and-frequently-asked-questions" target="_blank">Terms & Conditions and Frequently Asked Questions</a>. For any other enquiries, you can contact us at <a href="mailto:dtcareers@defence.gov.sg" target="_blank">dtcareers@defence.gov.sg</a>.
 </p>
 
 <h4  style="font-weight:bold;margin-top:2rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h4>
