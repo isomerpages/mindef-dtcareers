@@ -108,7 +108,7 @@ dd{
         </tr>
         <tr>
           <td>Challenge 3: Robotic Autonomy</td>
-          <td>Razer BlackWidow V3 (Green Switch – US – Black) and ASUS VG27VH1B TUF Curved Monitor</td>
+          <td>Razer BlackWidow V3 (Green Switch – US – Black) and ASUS VG259QR TUF Gaming Monitor</td>
         </tr>
         <tr>
           <td>Grand Prize</td>
