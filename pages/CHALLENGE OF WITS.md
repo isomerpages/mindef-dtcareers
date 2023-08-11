@@ -168,7 +168,7 @@ description: ""
 
 <img src="/images/challenge_banner_1.jpg" class="mt-20"/>
 <p>
-	Ready to take on the first Challenge of Wits? Watch the challenge video or access the written brief <a href="/files/Challenge2.pdf" target="_blank">here</a>. You will also need this <a href="/files/Logs.zip" target="_blank">Logs.zip</a> file
+	Ready to take on the first Challenge of Wits? Watch the challenge video or access the written brief <a href="/files/Challenge2.pdf" target="_blank">here</a>. You will also need this <a href="/files/Logs.zip" target="_blank">Logs.zip</a> file.
 </p>
 
 <div class="center">
