@@ -166,22 +166,22 @@ description: ""
 
 <img src="/images/DTC Challenge_KV_Final.jpg" class="mt-20"/>
 
-<img src="/images/challenge_banner_1.jpg" class="mt-20"/>
+<img src="/images/challenge_banner_2.jpg" class="mt-20"/>
 <p>
-	Ready to take on the first Challenge of Wits? Watch the challenge video or access the written brief <a href="/files/Challenge1.pdf" target="_blank">here</a>.
+	Ready to take on the second Challenge of Wits? Watch the challenge video or access the written brief <a href="/files/Challenge2.pdf" target="_blank">here</a>. You will also need this <a href="/files/Logs.zip" target="_blank">Logs.zip</a> file.
 </p>
 
 <div class="center">
-	<iframe class="center"  src='https://www.youtube.com/embed/GaPZEJfAB24' frameborder='0' allowfullscreen></iframe>
+	<iframe class="center"  src='https://www.youtube.com/embed/9_aZtLtF25w' frameborder='0' allowfullscreen></iframe>
 </div>
 <h4 class="mt-40 bold">
 	How you can participate
 </h4>
 <p class="challenge-text">
-	From 1 to 14 August 2023, solve the first challenge and submit your answer <a href="https://go.gov.sg/challengeofwits2023" target="_blank">here</a>.  Stand a chance to win Nintendo Switch (OLED Model) and Razer Viper V2 Pro Wireless Mouse. All correct submissions will receive a LinkedIn badge and e-Certificate.
+	From 15 to 28 August, solve the second challenge and submit your answer <a href="https://go.gov.sg/challengeofwits2023" target="_blank">here</a>.  Stand a chance to win Sony WH-1000X M5 Wireless Headphones and a Logitech MX Master 3s Performance Wireless Mouse. All correct submissions will receive a LinkedIn badge and e-Certificate.
 </p>
 <p class="challenge-text">
-	Stay tuned for Challenges 2 and 3, launching on 15 August and 1 September. Participants with the correct answer for all three challenges stand to with a Grand Prize – a Secretlab Titan Evo 2022.
+	Stay tuned for the final challenge, dropping on 1 September. Participants with the correct answers for all three challenges stand to win a Grand Prize – a Secretlab Titan Evo 2022.
 </p>
 <p class="challenge-text">
 	All Singaporeans aged 15 and older are welcome to participate.
@@ -229,7 +229,7 @@ description: ""
 	Know a worthy challenger? Refer and win.
 </h4>
 <p class="challenge-text">
-	Visit our Instagram (<a href="https://www.instagram.com/singaporedsta/" target="_blank">@singaporedsta</a>) and find our referral post. Follow these 2 steps and stand to win a $100 Amazon Gift Card in our lucky draw. 1 lucky winner will be picked every week from now until 14 September!
+	Visit our Instagram (<a href="https://www.instagram.com/csitsg/" target="_blank">@csitsg</a>) and find our referral post. Follow these 2 steps and stand to win a $100 Amazon Gift Card in our lucky draw. 1 lucky winner will be picked every week from now until 14 September!
 </p>
 <p class="challenge-text">
 	Step 1: Tag 3 friends who have what it takes in the comments <br/>
