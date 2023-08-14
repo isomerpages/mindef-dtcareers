@@ -166,9 +166,9 @@ description: ""
 
 <img src="/images/DTC Challenge_KV_Final.jpg" class="mt-20"/>
 
-<img src="/images/challenge_banner_1.jpg" class="mt-20"/>
+<img src="/images/challenge_banner_2.jpg" class="mt-20"/>
 <p>
-	Ready to take on the first Challenge of Wits? Watch the challenge video or access the written brief <a href="/files/Challenge2.pdf" target="_blank">here</a>. You will also need this <a href="/files/Logs.zip" target="_blank">Logs.zip</a> file.
+	Ready to take on the second Challenge of Wits? Watch the challenge video or access the written brief <a href="/files/Challenge2.pdf" target="_blank">here</a>. You will also need this <a href="/files/Logs.zip" target="_blank">Logs.zip</a> file.
 </p>
 
 <div class="center">
@@ -181,7 +181,7 @@ description: ""
 	From 15 to 28 August, solve the second challenge and submit your answer <a href="https://go.gov.sg/challengeofwits2023" target="_blank">here</a>.  Stand a chance to win Sony WH-1000X M5 Wireless Headphones and a Logitech MX Master 3s Performance Wireless Mouse. All correct submissions will receive a LinkedIn badge and e-Certificate.
 </p>
 <p class="challenge-text">
-	Stay tuned for the final challenge, dropping on 1 September. Participants with the correct answer for all three challenges stand to with a Grand Prize – a Secretlab Titan Evo 2022.
+	Stay tuned for the final challenge, dropping on 1 September. Participants with the correct answers for all three challenges stand to win a Grand Prize – a Secretlab Titan Evo 2022.
 </p>
 <p class="challenge-text">
 	All Singaporeans aged 15 and older are welcome to participate.
