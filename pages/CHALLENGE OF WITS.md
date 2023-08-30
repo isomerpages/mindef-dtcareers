@@ -218,7 +218,7 @@ description: ""
 	<div class="rightDiv">
 		<p><h5 class="mt-20">CHALLENGE 3: Robotic Autonomy<br/> 1 - 14 September </h5></p>
 		<p class="challenge-text"><i><b>Benjamin Choi</b>, Senior Robotics Engineer</i> <br/>
-		<a href="https://www.dso.org.sg/about/" target="_blank">DSO National Laboratories (DSO)</a> <br/>
+		<a href="https://www.dso.org.sg/" target="_blank">DSO National Laboratories (DSO)</a> <br/>
 		Benjamin develops localisation and perception algorithms for unmanned ground vehicles and drones to navigate and collaborate with one another autonomously in challenging environments.</p>
 	</div>
 	<div style="clear: both;"></div>
