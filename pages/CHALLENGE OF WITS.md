@@ -178,7 +178,7 @@ description: ""
 	How you can participate
 </h4>
 <p class="challenge-text">
-	From 1 to 14 September, solve the final challenge and submit your answer <a href="https://go.gov.sg/challengeofwits2023" target="_blank">here</a>.  Stand a chance to win a Razer BlackWidow V3 Gaming Keyboard and ASUS Gaming Monitor. All correct submissions will receive a LinkedIn badge and e-Certificate.
+	From 1 to 14 September, solve the final challenge and submit your answer <a href="https://go.gov.sg/challengeofwits2023" target="_blank">here</a>.  Stand a chance to win a <b>Razer BlackWidow V3 Gaming Keyboard (Green Switch – US – Black) and ASUS VG259QR TUF Gaming Monitor</b>. All correct submissions will receive a LinkedIn badge and e-Certificate.
 </p>
 <p class="challenge-text">
 	Participants with the correct answers for all three challenges stand to win a Grand Prize – a Secretlab Titan Evo 2022.
@@ -229,7 +229,7 @@ description: ""
 	Know a worthy challenger? Refer and win.
 </h4>
 <p class="challenge-text">
-	Visit our Instagram (<a href="https://www.instagram.com/discoverdso/" target="_blank">@discoverdso</a>) and find our referral post. Follow these 2 steps and stand to win a $100 Amazon Gift Card in our lucky draw. 1 lucky winner will be picked every week from now until 14 September!
+	Visit our Instagram (<a href="https://www.instagram.com/discoverdso/" target="_blank">@discoverdso</a>) and find our referral post. Follow these 2 steps and stand to win a <b>$100 Amazon Gift Card</b> in our lucky draw. 1 lucky winner will be picked every week from now until 14 September!
 </p>
 <p class="challenge-text">
 	Step 1: Tag 3 friends who have what it takes in the comments <br/>
