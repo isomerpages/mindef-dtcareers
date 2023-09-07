@@ -172,7 +172,8 @@ description: ""
 	Thank you to all participants!</h4>
 <p class="challenge-text">
 We called, and you answered. Over 6 weeks, Singaporeans with a passion in Science & Tech took on 3 challenges crafted by Singapore’s defence technology experts. 
-<br/>
+<p/>
+<p class="challenge-text">
 Stay tuned for the winners announcement! Winners will be contacted via email by 30 September 2023.
 </p>
 
