@@ -166,26 +166,17 @@ description: ""
 
 <img src="/images/DTC Challenge_KV_Final.jpg" class="mt-20"/>
 
-<img src="/images/challenge_banner_3.jpg" class="mt-20"/>
-<p>
-	Ready to take on the final Challenge of Wits? Watch the challenge video or access the written brief <a href="/files/Challenge3.pdf" target="_blank">here</a>. You will also need this <a href="/files/Elevation.csv" target="_blank">Elevation.csv</a> file.
+<img src="/images/Challenge_complete.png" class="mt-20"/>
+
+<h4 class="mt-40 bold">
+	Thank you to all participants!</h4>
+<p class="challenge-text">
+We called, and you answered. Over 6 weeks, Singaporeans with a passion in Science & Tech took on 3 challenges crafted by Singapore’s defence technology experts. 
+<p/>
+<p class="challenge-text">
+Stay tuned for the winners announcement! Winners will be contacted via email by 30 September 2023.
 </p>
 
-<div class="center">
-	<iframe class="center"  src='https://www.youtube.com/embed/9Gv_QfP9uRE' frameborder='0' allowfullscreen></iframe>
-</div>
-<h4 class="mt-40 bold">
-	How you can participate
-</h4>
-<p class="challenge-text">
-	From 1 to 14 September, solve the final challenge and submit your answer <a href="https://go.gov.sg/challengeofwits2023" target="_blank">here</a>.  Stand a chance to win a <b>Razer BlackWidow V3 Gaming Keyboard (Green Switch – US – Black) and ASUS VG259QR TUF Gaming Monitor</b>. All correct submissions will receive a LinkedIn badge and e-Certificate.
-</p>
-<p class="challenge-text">
-	Participants with the correct answers for all three challenges stand to win a Grand Prize – a Secretlab Titan Evo 2022.
-</p>
-<p class="challenge-text">
-	All Singaporeans aged 15 and older are welcome to participate.
-</p>
 
 <h4 class="mt-40 bold">
 	The minds behind the challenges
@@ -225,24 +216,6 @@ description: ""
 </div>
 
 
-<h4 class="mt-40 bold">
-	Know a worthy challenger? Refer and win.
-</h4>
-<p class="challenge-text">
-	Visit our Instagram (<a href="https://www.instagram.com/discoverdso/" target="_blank">@discoverdso</a>) and find our referral post. Follow these 2 steps and stand to win a <b>$100 Amazon Gift Card</b> in our lucky draw. 1 lucky winner will be picked every week from now until 14 September!
-</p>
-<p class="challenge-text">
-	Step 1: Tag 3 friends who have what it takes in the comments <br/>
-	Step 2: Share the post on your IG Story and don’t forget to tag us!
-</p>
-
-<h4 class="mt-40 bold">
-	Still have questions about our challenge?
-</h4>
-
-<p class="challenge-text">
-	Check out our <a href="https://www.dtcareers.gov.sg/terms-conditions-and-frequently-asked-questions" target="_blank">Terms & Conditions and Frequently Asked Questions</a>. For any other enquiries, you can contact us at <a href="mailto:dtcareers@defence.gov.sg" target="_blank">dtcareers@defence.gov.sg</a>.
-</p>
 
 <h4  style="font-weight:bold;margin-top:2rem;color:#0C1926;">ABOUT DEFENCE SCIENCE & TECHNOLOGY</h4>
 
