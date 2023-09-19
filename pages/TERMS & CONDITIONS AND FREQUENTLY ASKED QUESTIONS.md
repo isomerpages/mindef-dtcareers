@@ -1,6 +1,6 @@
 ---
 title: TERMS & CONDITIONS AND FREQUENTLY ASKED QUESTIONS
-permalink: /TERMS-CONDITIONS-AND-FREQUENTLY-ASKED-QUESTIONS
+permalink: /terms-conditions-and-frequently-asked-questions/
 description: ""
 ---
 **Terms & Conditions**
