@@ -30,11 +30,11 @@ permalink: /hear-our-stories/
 </style>
 
 
-![Hear our story](/images/stories/Stories_Banner.jpg)
+![Hear our story](/images/stories/stories_banner.jpg)
 <p style="margin-bottom:4rem;">Our defence scientists and engineers are recognised for being at the top of their respective fields in computing, data, physics, bio-technology, environmental science, chemical engineering, systems engineering, cybersecurity, and more. Attached to different agencies and divisions, where they can best apply their expertise, they also work collaboratively towards one common goal — keeping Singapore safe. Here are some of their stories and achievements.</p>
 
 <h4 style="font-weight:bold;margin-top:2rem;">Our Culture</h4>
-<img src="images/stories/Stories_Culture.jpg"/>
+<img src="images/stories/stories_culture.jpg"/>
 
 <p style="margin-top:1rem;">While each agency boasts its own quirks, culture and ethos, Defence Science & Technology (DS&T) provides a common thread which drives and fosters a positive and flexible work environment where you can take ownership of and champion new initiatives that lead to more efficient processes, a healthier work-life balance, and greater inclusivity. </p>
 <p>
@@ -117,7 +117,7 @@ and teamwork.
 
 <div class="dst-3-col">
 	<div class="dst-col">
-		<img src="/images/dsta-logo-DTCareers.png" style=""/>
+		<img src="/images/dsta-logo-dtcareers.png" style=""/>
 			<p >DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force.</p>
 			<a href="https://www.dsta.gov.sg/home" target="_blank" class="site-url">www.dsta.gov.sg</a>
 		<div class="social">

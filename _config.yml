@@ -1,6 +1,6 @@
 title: DESIGN. DEVELOP. DEFEND.
 url: ""
-favicon: /images/Mindef-favicon.ico
+favicon: /images/mindef-favicon.ico
 colors:
   primary-color: "#023F5F"
   secondary-color: "#023F5F"
@@ -53,6 +53,6 @@ plugins:
 staging: https://mindef-stem-staging.netlify.app
 prod: https://mindef-stem-prod.netlify.app
 is_government: true
-shareicon: /images/Page%20Logo.png
+shareicon: /images/page%20logo.png
 facebook-pixel: ""
 google_analytics: G-6GT2ESNHEF

@@ -6,33 +6,33 @@ permalink: /our-purpose/
 	a[target="_blank"]:after,.float-buttons{
 	display:none;}
 </style>
-![Alt text for image on Isomer site](/images/purpose/Purpose_MainBanner.gif)
+![Alt text for image on Isomer site](/images/purpose/purpose_mainbanner.gif)
 <p style="margin-bottom:4rem;">The Defence Science & Technology (DS&T) sector is an interdisciplinary collective of leading experts and specialists dedicated to addressing Singapore’s national security. As the leaders in our sector, we develop, deliver, and advise on innovative scientific solutions to the Ministry of Defence and other government bodies. </p>
 
 <div style="display:flex;">
 	<a href="#dsta" style="display:flex;width:33.3%;" >
-		<img src="images/purpose/Box1.png"  />
+		<img src="images/purpose/box1.png"  />
 	</a>
 		<a href="#dso" style="display:flex;width:33.3%;">
-		<img src="images/purpose/Box2.png"  />
+		<img src="images/purpose/box2.png"  />
 	</a>
 		<a href="#csit" style="display:flex;width:33.3%;" >
-		<img src="images/purpose/Box3.png"  />
+		<img src="images/purpose/box3.png"  />
 	</a>
 	</div>
 
-<img src="images/purpose/DSTA.png"/>
+<img src="images/purpose/dsta.png"/>
 <h4 style="font-weight:bold;margin-top:2rem;" id="dsta">What We Do at Defence Science and Technology Agency (DSTA)</h4>
 <p style="margin-top:1rem;">DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force. We harness multidisciplinary expertise to equip our soldiers with advanced systems to defend Singapore. To achieve our mission, DSTA excels in acquisition management, digitalised platforms, cyber analytics, software development and more.</p>
 <a href="https://www.dsta.gov.sg/who-we-are/overview" target="_blank" style="font-weight:bold;font-size:1.25rem;">Learn more about DSTA</a>
 	
 
-<img src="/images/purpose/DSO.png" style="margin-top:3.75rem;"/>
+<img src="/images/purpose/dso.png" style="margin-top:3.75rem;"/>
 <h4 style="font-weight:bold;margin-top:2rem;" id="dso">What We Do at DSO National Laboratories (DSO)</h4>
 <p style="margin-top:1rem;">DSO is Singapore’s largest defence research and development organisation, with the critical mission to develop technological solutions to sharpen the cutting edge of Singapore’s national security. DSO investigates emerging technologies, matures promising ones and integrates them into innovative system concepts to meet Singapore’s defence and security needs.</p>
 <a href="https://www.dso.org.sg/about/" target="_blank" style="font-weight:bold;font-size:1.25rem;">Learn more about DSO</a>
 
-<img src="images/purpose/CSIT.png" style="margin-top:3.75rem;"/>
+<img src="images/purpose/csit.png" style="margin-top:3.75rem;"/>
 <h4 style="font-weight:bold;margin-top:2rem;" id="csit">What We Do at Centre for Strategic Infocomm Technologies (CSIT) </h4>
 <p style="margin-top:1rem;">CSIT is a technical agency in MINDEF that harnesses cutting-edge digital technologies to support missions such as cyber defence, counter terrorism and counter hostile information operations. It develops capabilities in Cybersecurity, Software Engineering, Data Analytics and Cloud Infrastructure and Services, and conducts deep technical investigations to provide threat intelligence to advance Singapore’s security needs.</p>
 <a href="https://www.csit.gov.sg/core-values" target="_blank" style="font-weight:bold;margin-bottom:60px;font-size:1.25rem;">Learn more about CSIT</a>
@@ -89,7 +89,7 @@ permalink: /our-purpose/
 
 <div class="dst-3-col">
 	<div class="dst-col">
-		<img src="/images/dsta-logo-DTCareers.png" style=""/>
+		<img src="/images/dsta-logo-dtcareers.png" style=""/>
 			<p >DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force.</p>
 			<a href="https://www.dsta.gov.sg/home" target="_blank" class="site-url">www.dsta.gov.sg</a>
 		<div class="social">

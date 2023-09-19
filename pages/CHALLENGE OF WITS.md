@@ -164,9 +164,9 @@ description: ""
 	
 </style>
 
-<img src="/images/DTC Challenge_KV_Final.jpg" class="mt-20"/>
+<img src="/images/dtc challenge_kv_final.jpg" class="mt-20"/>
 
-<img src="/images/Challenge_complete.png" class="mt-20"/>
+<img src="/images/challenge_complete.png" class="mt-20"/>
 
 <h4 class="mt-40 bold">
 	Thank you to all participants!</h4>
@@ -184,7 +184,7 @@ Stay tuned for the winners announcement! Winners will be contacted via email by 
 
 <div class="outerDiv">
 	<div class="leftDiv">
-		<img  src="/images/DTC_profile_Andrea.jpg"/>
+		<img  src="/images/dtc_profile_andrea.jpg"/>
 	</div>
 	<div class="rightDiv">
 		<p><h5 class="mt-20">CHALLENGE 1: Command, Control and Communications <br/> 1 - 14 August </h5></p>
@@ -194,7 +194,7 @@ Stay tuned for the winners announcement! Winners will be contacted via email by 
 	</div>
 	<div style="clear: both;"></div>
 	<div class="leftDiv">
-		<img src="/images/DTC_profile_Gin Ee.jpg"/>
+		<img src="/images/dtc_profile_gin ee.jpg"/>
 	</div>
 	<div class="rightDiv">
 		<p><h5 class="mt-20">CHALLENGE 2: Data Science <br/> 15 - 28 August</h5></p>
@@ -204,7 +204,7 @@ Stay tuned for the winners announcement! Winners will be contacted via email by 
 	</div>
 	<div style="clear: both;"></div>
 	<div class="leftDiv">
-		<img  src="/images/DTC_profile_Benjamin.jpg"/>
+		<img  src="/images/dtc_profile_benjamin.jpg"/>
 	</div>
 	<div class="rightDiv">
 		<p><h5 class="mt-20">CHALLENGE 3: Robotic Autonomy<br/> 1 - 14 September </h5></p>
@@ -280,7 +280,7 @@ Stay tuned for the winners announcement! Winners will be contacted via email by 
 
 <div class="dst-3-col">
 	<div class="dst-col">
-		<img src="/images/dsta-logo-DTCareers.png" style=""/>
+		<img src="/images/dsta-logo-dtcareers.png" style=""/>
 			<p >DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force.</p>
 			<a href="https://www.dsta.gov.sg/home" target="_blank" class="site-url">www.dsta.gov.sg</a>
 		<div class="social">

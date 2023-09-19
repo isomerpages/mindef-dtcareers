@@ -33,7 +33,7 @@ permalink: /why-join-us/
 <img src="/images/join/join-benefits-2.png" />
 	</div>
 <h4 style="font-weight:bold;margin-top:2rem;">Opportunities Within and Beyond The DS&T Sector</h4>
-<img src="images/join/Join_CollaborativeNetwork-1.png"/>
+<img src="images/join/join_collaborativenetwork-1.png"/>
 
 <p style="margin-top:1rem;">In the  Defence Science & Technology  (DS&T) sector, much of our success is built on the foundation of effective inter and intra-agency knowledge sharing, teamwork and collaboration. We’re committed to the mobility of our people, and value the passion they have for continued learning and original, creative thought. 
  </p>
@@ -47,17 +47,17 @@ We provide various opportunities — lateral ones for those eager to expand thei
 </style>
 
 <div class="join-benefits">
-<img src="/images/join/CaseA-1-1.png"/><img src="/images/join/CaseA-2-2.png" />
+<img src="/images/join/casea-1-1.png"/><img src="/images/join/casea-2-2.png" />
 </div>
-<a target="_blank" href="https://www.dsta.gov.sg/latest-news/spotlight/building-sustainability"><img src="/images/CaseA-3-1.png" style="margin-bottom:1.25rem; width:382px; height: 75px"/></a>
+<a target="_blank" href="https://www.dsta.gov.sg/latest-news/spotlight/building-sustainability"><img src="/images/casea-3-1.png" style="margin-bottom:1.25rem; width:382px; height: 75px"/></a>
 
 <br>
 
 <div class="join-benefits">
-<img src="/images/join/CaseB-1.png" />
-<img src="/images/join/CaseB-2.png" />
+<img src="/images/join/caseb-1.png" />
+<img src="/images/join/caseb-2.png" />
 </div>
-<a target="_blank" href="https://www.dso.org.sg/research/robotics"><img src="/images/join/CaseB-3-3.png" style="margin-bottom:1.25rem; width:382px; height: 75px"/></a>
+<a target="_blank" href="https://www.dso.org.sg/research/robotics"><img src="/images/join/caseb-3-3.png" style="margin-bottom:1.25rem; width:382px; height: 75px"/></a>
 
 
 
@@ -113,7 +113,7 @@ We provide various opportunities — lateral ones for those eager to expand thei
 
 <div class="dst-3-col">
 	<div class="dst-col">
-		<img src="/images/dsta-logo-DTCareers.png" style=""/>
+		<img src="/images/dsta-logo-dtcareers.png" style=""/>
 			<p >DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force.</p>
 			<a href="https://www.dsta.gov.sg/home" target="_blank" class="site-url">www.dsta.gov.sg</a>
 		<div class="social">
