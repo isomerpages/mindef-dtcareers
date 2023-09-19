@@ -33,7 +33,7 @@ permalink: /why-join-us/
 <img src="/images/join/join-benefits-2.png" />
 	</div>
 <h4 style="font-weight:bold;margin-top:2rem;">Opportunities Within and Beyond The DS&T Sector</h4>
-<img src="images/join/join_collaborativenetwork-1.png"/>
+<img src="/images/join/join_collaborativenetwork-1.png"/>
 
 <p style="margin-top:1rem;">In the  Defence Science & Technology  (DS&T) sector, much of our success is built on the foundation of effective inter and intra-agency knowledge sharing, teamwork and collaboration. We’re committed to the mobility of our people, and value the passion they have for continued learning and original, creative thought. 
  </p>
