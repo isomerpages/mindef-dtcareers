@@ -34,7 +34,7 @@ permalink: /hear-our-stories/
 <p style="margin-bottom:4rem;">Our defence scientists and engineers are recognised for being at the top of their respective fields in computing, data, physics, bio-technology, environmental science, chemical engineering, systems engineering, cybersecurity, and more. Attached to different agencies and divisions, where they can best apply their expertise, they also work collaboratively towards one common goal — keeping Singapore safe. Here are some of their stories and achievements.</p>
 
 <h4 style="font-weight:bold;margin-top:2rem;">Our Culture</h4>
-<img src="images/stories/stories_culture.jpg"/>
+<img src="/images/stories/stories_culture.jpg"/>
 
 <p style="margin-top:1rem;">While each agency boasts its own quirks, culture and ethos, Defence Science & Technology (DS&T) provides a common thread which drives and fosters a positive and flexible work environment where you can take ownership of and champion new initiatives that lead to more efficient processes, a healthier work-life balance, and greater inclusivity. </p>
 <p>
@@ -48,19 +48,19 @@ and teamwork.
 <h4 style="font-weight:bold;margin-top:4rem;">Testimonials From Our People</h4>
 
 <div class="split" style="margin-bottom:1.25rem;">
-<img src="images/stories/testi-dso_a-2x.jpg" />
-<img src="images/stories/testi-dso_b-2x.jpg" />
+<img src="/images/stories/testi-dso_a-2x.jpg" />
+<img src="/images/stories/testi-dso_b-2x.jpg" />
 </div>
 
 
 <div class="split" style="margin-bottom:1.25rem;">
-<img src="images/stories/testi-dsta_a-2x.jpg" />
-<img src="images/stories/testi-dsta_b-2x.jpg" />
+<img src="/images/stories/testi-dsta_a-2x.jpg" />
+<img src="/images/stories/testi-dsta_b-2x.jpg" />
 </div>
 
 <div class="split" style="margin-bottom:1.25rem;">
-<img src="images/stories/testi-csit_a-2x.jpg" />
-<img src="images/stories/testi-csit_b-2x.jpg" />
+<img src="/images/stories/testi-csit_a-2x.jpg" />
+<img src="/images/stories/testi-csit_b-2x.jpg" />
 </div>
 
 
