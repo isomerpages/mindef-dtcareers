@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://mindef-stem-staging.netlify.app
-prod: https://mindef-stem-prod.netlify.app
+staging: https://staging.d3osbw7gvsdy9s.amplifyapp.com/
+prod: https://master.d3osbw7gvsdy9s.amplifyapp.com/
 is_government: true
 shareicon: /images/page%20logo.png
 facebook-pixel: ""
