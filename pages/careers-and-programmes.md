@@ -8,10 +8,10 @@ permalink: /careers-and-programmes/
 	
 	a[target="_blank"]:after{display:none;}
 </style>
-![Alt text for image on Isomer site](/images/careers/Careers_Banner.jpg)
+![Alt text for image on Isomer site](/images/careers/careers_banner.jpg)
 <p style="margin-bottom:3rem;">The Defence Science & Technology (DS&T) sector provides multiple openings, streams, and programmes that cater to applicants from a variety of experience levels and backgrounds — from students to mid-career switchers. We strive to provide a rewarding experience for all our employees by aligning their interests with a role and career path that optimises their capabilities, talents and growth.</p>
 
-<img src="images/careers/Careers_1Careers.png"/>
+<img src="/images/careers/careers_1careers.png"/>
 <h4 style="font-weight:bold;margin-top:2rem;">Graduates & Professionals</h4>
 
 <p style="margin-top:1rem;">Our agencies offer a managerial career track and technical career track for graduates and experienced professionals with different levels of professional experience and interests. These are further staggered across the various programme centres and business functions unique to each agency. Whatever your goals are — be it in digital specialties, engineering, research or corporate strategy — we will work closely with you to reach them through a defined and flexible career path.
@@ -36,7 +36,7 @@ permalink: /careers-and-programmes/
  
  <br><br> 
 	
-<img src="images/careers/Careers_2Programmes.png"/>
+<img src="/images/careers/careers_2programmes.png"/>
 <h4 style="font-weight:bold;margin-top:2rem;">Internships</h4>
 
 <p style="margin-top:1rem;">Our internship programmes provide an invaluable source of experience for undergraduates, polytechnic and JC students looking for an entry point or a taste of work in defence tech. Guided by mentors, our interns take on project related tasks to hone their skills and critical thinking in a professional capacity. Those who flourish during their internship placements have the chance to secure scholarships and/or full-time job offers upon graduation. Some of our most successful employees are former interns, and we’re looking to further support this pathway moving forward.
@@ -84,13 +84,13 @@ permalink: /careers-and-programmes/
 	</div>
 	<div class="dst-col">
 		 <a class="nommargin" href="https://www.csit.gov.sg/internships-scholarships/csit-undergraduate-scholarship"  target="_blank">
-		<img class="nommargin" src="/images/careers/CSIT-sclr1.png"/>
+		<img class="nommargin" src="/images/careers/csit-sclr1.png"/>
 	</a>
 		<a href="https://www.csit.gov.sg/internships-scholarships/csit-diploma-scholarship" class="nommargin"  target="_blank">
-		<img class="nommargin" src="/images/careers/CSIT-sclr2.png"/>
+		<img class="nommargin" src="/images/careers/csit-sclr2.png"/>
 	</a>
 		<a class="nommargin" href="https://www.csit.gov.sg/internships-scholarships/csit-computing-scholarship"  target="_blank">
-		<img class="nommargin" src="/images/careers/CSIT-sclr3.png"/>
+		<img class="nommargin" src="/images/careers/csit-sclr3.png"/>
 	</a>
 	</div>
 </div>
@@ -153,7 +153,7 @@ permalink: /careers-and-programmes/
 
 <div class="dst-3-col">
 	<div class="dst-col">
-		<img src="/images/dsta-logo-DTCareers.png" style=""/>
+		<img src="/images/dsta-logo-dtcareers.png" style=""/>
 			<p >DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force.</p>
 			<a href="https://www.dsta.gov.sg/home" target="_blank" class="site-url">www.dsta.gov.sg</a>
 		<div class="social">

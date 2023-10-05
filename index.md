@@ -7,7 +7,7 @@ permalink: /
 notification: " "
 sections:
   - hero:
-      background: /images/DTCareerBanner.png
+      background: /images/dtcareerbanner.png
       key_highlights:
         - title: OUR PURPOSE
           description: We create new possibilities with tech to defend Singapore. 
@@ -29,7 +29,7 @@ sections:
         and internships to development programmes. Pursue your passion or
         explore different domains.​
       button: Find Out More
-      image: /images/Home-group.png
+      image: /images/home-group.png
       url: /why-join-us
       alt: Join Us Now
   - infopic:
@@ -40,5 +40,5 @@ sections:
       button: Read their stories
       url: /hear-our-stories
       alt: Image alt text
-      image: /images/Home_Our%20Stories%20Section%20Image%202.png
+      image: /images/home_our%20stories%20section%20image%202.png
 ---

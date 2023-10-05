@@ -164,9 +164,9 @@ description: ""
 	
 </style>
 
-<img src="/images/DTC Challenge_KV_Final.jpg" class="mt-20"/>
+<img src="/images/dtc challenge_kv_final.jpg" class="mt-20"/>
 
-<img src="/images/Challenge_complete.png" class="mt-20"/>
+<img src="/images/challenge_complete.png" class="mt-20"/>
 
 <h4 class="mt-40 bold">
 	Thank you to all participants!</h4>
@@ -176,15 +176,42 @@ We called, and you answered. Over 6 weeks, Singaporeans with a passion in Scienc
 <p class="challenge-text">
 Stay tuned for the winners announcement! Winners will be contacted via email by 30 September 2023.
 </p>
-
-
+<h4 class="mt-40 bold">
+	Did you get it right? Revisit the challenges and check out the answers! </h4>
+ <p class="challenge-text">
+<b>CHALLENGE 1: Command, Control and Communications</b>
+<p/>
+<div class="center">
+	<iframe class="center"  src='https://www.youtube.com/embed/GaPZEJfAB24' frameborder='0' allowfullscreen></iframe>
+</div>
+<p class="challenge-text">
+Challenge 1 Statement & Answer <a href="/files/Challenge1_Answer.pdf" target="_blank">here</a>
+</p>
+ <p class="challenge-text">
+<b>CHALLENGE 2: Data Science</b>
+<p/>
+<div class="center">
+	<iframe class="center"  src='https://www.youtube.com/embed/9_aZtLtF25w' frameborder='0' allowfullscreen></iframe>
+</div>
+<p class="challenge-text">
+Challenge 2 Statement & Answer <a href="/files/Challenge2_Answer.pdf" target="_blank">here</a>
+</p>
+ <p class="challenge-text">
+<b>CHALLENGE 3: Robotic Autonomy</b>
+<p/>
+<div class="center">
+	<iframe class="center"  src='https://www.youtube.com/embed/9Gv_QfP9uRE' frameborder='0' allowfullscreen></iframe>
+</div>
+<p class="challenge-text">
+Challenge 3 Statement & Answer <a href="/files/Challenge3_Answer.pdf" target="_blank">here</a>
+</p>
 <h4 class="mt-40 bold">
 	The minds behind the challenges
 </h4>
 
 <div class="outerDiv">
 	<div class="leftDiv">
-		<img  src="/images/DTC_profile_Andrea.jpg"/>
+		<img  src="/images/dtc_profile_andrea.jpg"/>
 	</div>
 	<div class="rightDiv">
 		<p><h5 class="mt-20">CHALLENGE 1: Command, Control and Communications <br/> 1 - 14 August </h5></p>
@@ -194,7 +221,7 @@ Stay tuned for the winners announcement! Winners will be contacted via email by 
 	</div>
 	<div style="clear: both;"></div>
 	<div class="leftDiv">
-		<img src="/images/DTC_profile_Gin Ee.jpg"/>
+		<img src="/images/dtc_profile_gin ee.jpg"/>
 	</div>
 	<div class="rightDiv">
 		<p><h5 class="mt-20">CHALLENGE 2: Data Science <br/> 15 - 28 August</h5></p>
@@ -204,7 +231,7 @@ Stay tuned for the winners announcement! Winners will be contacted via email by 
 	</div>
 	<div style="clear: both;"></div>
 	<div class="leftDiv">
-		<img  src="/images/DTC_profile_Benjamin.jpg"/>
+		<img  src="/images/dtc_profile_benjamin.jpg"/>
 	</div>
 	<div class="rightDiv">
 		<p><h5 class="mt-20">CHALLENGE 3: Robotic Autonomy<br/> 1 - 14 September </h5></p>
@@ -280,7 +307,7 @@ Stay tuned for the winners announcement! Winners will be contacted via email by 
 
 <div class="dst-3-col">
 	<div class="dst-col">
-		<img src="/images/dsta-logo-DTCareers.png" style=""/>
+		<img src="/images/dsta-logo-dtcareers.png" style=""/>
 			<p >DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force.</p>
 			<a href="https://www.dsta.gov.sg/home" target="_blank" class="site-url">www.dsta.gov.sg</a>
 		<div class="social">

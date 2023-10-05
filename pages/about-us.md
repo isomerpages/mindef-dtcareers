@@ -15,12 +15,12 @@ of ever-evolving security threats such as terrorism, cyberattacks, resource cont
 biochemical attacks.  
 	</p>
 <h4 style="font-weight:bold;margin-top:2rem;">Who Forms the Defence Science & Technology Sector?</h4>
-<img src="/images/about/About_Hero.jpg" style="margin:2rem 0;" />
+<img src="/images/about/about_hero.jpg" style="margin:2rem 0;" />
 <p>Singapore’s first foray into defence tech was in 1966 with just three engineers in the Logistics Department. Today, the community boasts over 6,500 scientists, engineers and IT specialists who support Singapore’s defence through their expertise in various fields of knowledge with, the leading agencies being DSTA, DSO and the CSIT. <p>
 	
 <h4 style="font-weight:bold;margin-top:2rem;">Our Defence Technology Ecosystem</h4>
 <p>Beyond the three agencies, there is a larger ecosystem that includes local industry organisations, local research institutes, and foreign partners in public and private sectors. These partnerships help us to further maximise our capabilities development. It also advances our defence diplomacy and relations, helping us gain access to technology, training, and test facilities.  <p>
-<img src="/images/about/AboutEcosystem.png" style="margin:2rem 0;" />
+<img src="/images/about/aboutecosystem.png" style="margin:2rem 0;" />
 	
 <br><br>
 <hr>
@@ -74,7 +74,7 @@ biochemical attacks.
 
 <div class="dst-3-col">
 	<div class="dst-col">
-		<img src="/images/dsta-logo-DTCareers.png" style=""/>
+		<img src="/images/dsta-logo-dtcareers.png" style=""/>
 			<p >DSTA is a top-notch technology organisation that drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force.</p>
 			<a href="https://www.dsta.gov.sg/home" target="_blank" class="site-url">www.dsta.gov.sg</a>
 		<div class="social">
