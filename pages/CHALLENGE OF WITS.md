@@ -176,7 +176,7 @@ We called, and you answered. Over 6 weeks, Singaporeans with a passion in Scienc
 <p class="challenge-text">
 Thank you to all participants who stepped up to prove that they have what it takes to design, develop, and defend Singapore! </p>
 
-<img src="/images/4-in-1_2.jpg" class="mt-20"/>
+<img src="/images/4-in-1.jpg" class="mt-20"/>
 
 <h4 class="mt-40 bold">
 	Did you get it right? Revisit the challenges and check out the answers! </h4>
