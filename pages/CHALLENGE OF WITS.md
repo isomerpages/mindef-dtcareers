@@ -169,13 +169,15 @@ description: ""
 <img src="/images/challenge_complete.png" class="mt-20"/>
 
 <h4 class="mt-40 bold">
-	Thank you to all participants!</h4>
+	Congratulations to our winners!</h4>
 <p class="challenge-text">
-We called, and you answered. Over 6 weeks, Singaporeans with a passion in Science & Tech took on 3 challenges crafted by Singapore’s defence technology experts. 
+We called, and you answered. Over 6 weeks, Singaporeans with a passion in Science & Tech took on the Challenge of Wits 2023. Along with over 1,200 other participants, these winners put their wits to the test and solved the challenges crafted by defence technology experts from DSTA, CSIT and DSO. They walked away with coveted prizes, presented to them by the experts behind the challenges! 
 <p/>
 <p class="challenge-text">
-Stay tuned for the winners announcement! Winners will be contacted via email by 30 September 2023.
-</p>
+Thank you to all participants who stepped up to prove that they have what it takes to design, develop, and defend Singapore! </p>
+
+<img src="/images/4-in-1.jpg" class="mt-20"/>
+
 <h4 class="mt-40 bold">
 	Did you get it right? Revisit the challenges and check out the answers! </h4>
  <p class="challenge-text">
